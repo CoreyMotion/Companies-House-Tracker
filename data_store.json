@@ -424771,5 +424771,177 @@
       }
     ],
     "fetched_at": "2026-03-14T16:53:54.863892"
+  },
+  "17091579": {
+    "company_number": "17091579",
+    "company_name": "JIPLACEMENT LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "8 Bladon Crescent, Hereford, HR1 2TX",
+    "officers": [
+      {
+        "name": "GARDINER, Ivan Jack",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ivan Jack Gardiner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T17:24:06.644562"
+  },
+  "17091577": {
+    "company_number": "17091577",
+    "company_name": "THE EXECUTIVE OFFICE COMPANY LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Kesters Nook, Peggs Close, Leicester, LE9 7BP",
+    "officers": [
+      {
+        "name": "UNDERWOOD, Victoria Georgina",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Victoria Georgina Underwood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T17:24:07.848960"
+  },
+  "17091575": {
+    "company_number": "17091575",
+    "company_name": "Y7YA LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "61 Bridge Street, Kington, HR5 3DJ",
+    "officers": [
+      {
+        "name": "SHAHIN, Yehia Khalid",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Yehia Khalid Shahin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T17:24:09.045950"
+  },
+  "17091580": {
+    "company_number": "17091580",
+    "company_name": "SCAPE SUITE LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090"
+    ],
+    "registered_address": "2 Flodden Drive, Reading, RG31 7EH",
+    "officers": [
+      {
+        "name": "ROBERTS, Mathew John",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1993
+        }
+      },
+      {
+        "name": "ROBERTS, Samantha Leigh",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "American",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mathew John Roberts",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1993
+        }
+      },
+      {
+        "name": "Samantha Leigh Roberts",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "American",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T17:24:10.245813"
   }
 }
