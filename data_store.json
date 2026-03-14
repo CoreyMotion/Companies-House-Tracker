@@ -424943,5 +424943,80 @@
       }
     ],
     "fetched_at": "2026-03-14T17:24:10.245813"
+  },
+  "17091587": {
+    "company_number": "17091587",
+    "company_name": "ASTERON ENERGY LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63110"
+    ],
+    "registered_address": "20 Harrogate Road, Lytham St. Annes, FY8 3QQ",
+    "officers": [
+      {
+        "name": "CHADWICK, Paul James",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Paul James Chadwick",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T18:32:59.564706"
+  },
+  "17091588": {
+    "company_number": "17091588",
+    "company_name": "SENDADATA LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "63110"
+    ],
+    "registered_address": "46 Jenkinson Lane, Ellesmere Port, CH65 4BR",
+    "officers": [
+      {
+        "name": "LAYISI, Samson",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "Zimbabwean",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Samson Layisi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Zimbabwean",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T18:33:00.839714"
   }
 }
