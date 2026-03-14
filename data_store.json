@@ -425018,5 +425018,42 @@
       }
     ],
     "fetched_at": "2026-03-14T18:33:00.839714"
+  },
+  "17091589": {
+    "company_number": "17091589",
+    "company_name": "PROPFIRM INTEL LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "2 Barkly Grove, Leeds, LS11 7HT",
+    "officers": [
+      {
+        "name": "LACORA, Benedict Timothy",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "Ugandan",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Benedict Timothy Lacora",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Ugandan",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T19:01:32.732497"
   }
 }
