@@ -425132,5 +425132,42 @@
       }
     ],
     "fetched_at": "2026-03-14T22:21:58.666991"
+  },
+  "SC882414": {
+    "company_number": "SC882414",
+    "company_name": "VALUEPOINT SERVICES LTD",
+    "date_of_creation": "2026-03-14",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "4/2 East London Street, Edinburgh, EH7 4BH",
+    "officers": [
+      {
+        "name": "MACCALLUM, Ross",
+        "role": "director",
+        "appointed_on": "2026-03-14",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1963
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ross Maccallum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1963
+        }
+      }
+    ],
+    "fetched_at": "2026-03-14T22:49:52.145104"
   }
 }
