@@ -425235,5 +425235,43 @@
       }
     ],
     "fetched_at": "2026-03-15T01:58:18.745600"
+  },
+  "17091612": {
+    "company_number": "17091612",
+    "company_name": "YAMISOFT LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "62012"
+    ],
+    "registered_address": "Flat 26, Coldham Court, Lordship Lane, London, N22 5LL",
+    "officers": [
+      {
+        "name": "TAVAKOLI LAHIJANI, Sartoscht Andre",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "German",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Sartoscht Andre Tavakoli Lahijani",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "German",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T05:49:01.055504"
   }
 }
