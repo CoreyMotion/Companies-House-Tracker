@@ -425348,5 +425348,43 @@
       }
     ],
     "fetched_at": "2026-03-15T09:55:13.560020"
+  },
+  "17091633": {
+    "company_number": "17091633",
+    "company_name": "NORTH SOL LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "63120",
+      "73110"
+    ],
+    "registered_address": "G R G House, Cobden Street, Salford, M6 6NA",
+    "officers": [
+      {
+        "name": "SOLARZ, Paulina Agnieszka",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "Polish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Paulina Agnieszka Solarz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T11:22:50.356115"
   }
 }
