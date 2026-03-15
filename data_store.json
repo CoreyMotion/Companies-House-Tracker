@@ -425462,5 +425462,45 @@
       }
     ],
     "fetched_at": "2026-03-15T16:54:27.040743"
+  },
+  "17091665": {
+    "company_number": "17091665",
+    "company_name": "NEST28 LIMITED",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "68320",
+      "70229"
+    ],
+    "registered_address": "16 Aberdare Road, Enfield, EN3 4JB",
+    "officers": [
+      {
+        "name": "HOQUE, Emdadul",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Emdadul Hoque",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T17:24:12.847293"
   }
 }
