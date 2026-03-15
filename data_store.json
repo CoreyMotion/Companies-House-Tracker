@@ -425425,5 +425425,42 @@
       }
     ],
     "fetched_at": "2026-03-15T12:42:33.024698"
+  },
+  "17091663": {
+    "company_number": "17091663",
+    "company_name": "ABSOLUTIONLABS LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "15 Westbury Road, London, SE20 7QL",
+    "officers": [
+      {
+        "name": "BERRY, Robert",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1977
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Robert Berry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T16:54:27.040743"
   }
 }
