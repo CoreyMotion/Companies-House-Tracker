@@ -425651,5 +425651,45 @@
       }
     ],
     "fetched_at": "2026-03-15T23:25:38.766792"
+  },
+  "SC882421": {
+    "company_number": "SC882421",
+    "company_name": "VAMBA DATA LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "63110"
+    ],
+    "registered_address": "20 Garvald Lane, Denny, FK6 5DA",
+    "officers": [
+      {
+        "name": "MAUNGA, Enos",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "Zimbabwean",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Enos Maunga",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Zimbabwean",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T23:50:24.866963"
   }
 }
