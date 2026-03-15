@@ -425310,5 +425310,43 @@
       }
     ],
     "fetched_at": "2026-03-15T07:58:18.508965"
+  },
+  "17091623": {
+    "company_number": "17091623",
+    "company_name": "LBS CONSULTANCY GROUP LIMITED",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "74909"
+    ],
+    "registered_address": "57b Water Orton Lane, Sutton Coldfield, B76 9BD",
+    "officers": [
+      {
+        "name": "BONE, Liam David",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Liam David Bone",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T09:55:13.560020"
   }
 }
