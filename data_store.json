@@ -425576,5 +425576,80 @@
       }
     ],
     "fetched_at": "2026-03-15T18:32:58.219721"
+  },
+  "17091701": {
+    "company_number": "17091701",
+    "company_name": "INTRO X LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "LAMBA, Charanjit Singh",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Charanjit Singh Lamba",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T23:25:37.587592"
+  },
+  "17091705": {
+    "company_number": "17091705",
+    "company_name": "ZOTTA AI LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "17b North Common Road, Uxbridge, UB8 1PD",
+    "officers": [
+      {
+        "name": "NOVOSELOV, Alexander, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "Czech",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Alexander Novoselov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Czech",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T23:25:38.766792"
   }
 }
