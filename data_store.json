@@ -425386,5 +425386,44 @@
       }
     ],
     "fetched_at": "2026-03-15T11:22:50.356115"
+  },
+  "17091641": {
+    "company_number": "17091641",
+    "company_name": "EJK WEB SOLUTIONS LTD",
+    "date_of_creation": "2026-03-15",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "74100"
+    ],
+    "registered_address": "16a Boughton Road, Rugby, CV21 1BJ",
+    "officers": [
+      {
+        "name": "KENNY, Edward James",
+        "role": "director",
+        "appointed_on": "2026-03-15",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Edward James Kenny",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-15T12:42:33.024698"
   }
 }
