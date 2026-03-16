@@ -466554,5 +466554,292 @@
       }
     ],
     "fetched_at": "2026-03-16T21:04:33.014584"
+  },
+  "17095742": {
+    "company_number": "17095742",
+    "company_name": "SYCAMORE HOLDINGS 2026 LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "68209"
+    ],
+    "registered_address": "17 Lavenham Road, Ipswich, IP2 0JH",
+    "officers": [
+      {
+        "name": "SYCAMORE, Craig Lee",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Craig Lee Sycamore",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:19.076614"
+  },
+  "17095734": {
+    "company_number": "17095734",
+    "company_name": "SA LEEDS CONSULTANCY LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "135 Barkly Road, Leeds, LS11 7EN",
+    "officers": [
+      {
+        "name": "AKHTAR, Saarah",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Saarah Akhtar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:20.273958"
+  },
+  "17095722": {
+    "company_number": "17095722",
+    "company_name": "KK DESIGN LAB LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "74100"
+    ],
+    "registered_address": "5 Anglesmede Way, Pinner, HA5 5SS",
+    "officers": [
+      {
+        "name": "KHOONTI, Kanu",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1979
+        }
+      },
+      {
+        "name": "KHOONTI, Punam",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Kanu Khoonti",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1979
+        }
+      },
+      {
+        "name": "Mrs Punam Khoonti",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:21.480944"
+  },
+  "17095714": {
+    "company_number": "17095714",
+    "company_name": "THE SCIENTIFIC MARGIN LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "63990",
+      "74909"
+    ],
+    "registered_address": "4 Newland Close, Woolavington, Bridgwater, TA7 8FJ",
+    "officers": [
+      {
+        "name": "RUTANGA, Eric",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Eric Rutanga",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:22.677943"
+  },
+  "17095735": {
+    "company_number": "17095735",
+    "company_name": "A&F TESTING TECHNOLOGY LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "32 Lancaster Mews, London, W2 3QE",
+    "officers": [
+      {
+        "name": "VAN MECHELEN, Mia",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Belgian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2007
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Mia Van Mechelen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Belgian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2007
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:23.918228"
+  },
+  "17095730": {
+    "company_number": "17095730",
+    "company_name": "CAPTR LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "72190"
+    ],
+    "registered_address": "39 Parkway, Trentham, Stoke-On-Trent, ST4 8AJ",
+    "officers": [
+      {
+        "name": "WRIGHT, Theodore Francis",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2008
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Theodore Francis Wright",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2008
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:25.079270"
+  },
+  "17095723": {
+    "company_number": "17095723",
+    "company_name": "ARCLOAD LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "41201",
+      "41202",
+      "71111",
+      "71122"
+    ],
+    "registered_address": "65a Sheen Lane, London, SW14 8AD",
+    "officers": [
+      {
+        "name": "RUWES, Abdulrahman",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Abdulrahman Ruwes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T21:36:26.278284"
   }
 }
