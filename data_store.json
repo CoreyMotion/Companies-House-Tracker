@@ -465611,5 +465611,349 @@
       }
     ],
     "fetched_at": "2026-03-16T19:33:43.873336"
+  },
+  "17095612": {
+    "company_number": "17095612",
+    "company_name": "PLACR GROUP LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "78109",
+      "82302",
+      "85590"
+    ],
+    "registered_address": "16 Hollingbury Place, Brighton, BN1 7GE",
+    "officers": [
+      {
+        "name": "ALI, Heather Lorraine",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Heather Lorraine Ali",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:34.493033"
+  },
+  "17095624": {
+    "company_number": "17095624",
+    "company_name": "VP HAYRE CAPITAL LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64999",
+      "70229",
+      "73110",
+      "82990"
+    ],
+    "registered_address": "12 Stanton Road, Birmingham, B43 5HA",
+    "officers": [
+      {
+        "name": "HAYRE, Vinnie Partap Singh",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vinnie Partap Singh Hayre",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:35.761172"
+  },
+  "17095615": {
+    "company_number": "17095615",
+    "company_name": "T REDVERS CONSULTANCY LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "2a Eastfield Avenue, Fareham, PO14 1EG",
+    "officers": [
+      {
+        "name": "REDVERS, Tonia Elaine",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1961
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Tonia Elaine Redvers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1961
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:37.008863"
+  },
+  "17095634": {
+    "company_number": "17095634",
+    "company_name": "EVOKE TECHNOLOGY SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "25 Harris Avenue, Lowestoft, NR32 4BB",
+    "officers": [
+      {
+        "name": "HEPBURN, Lewis Charles",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Lewis Charles Hepburn",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:38.227256"
+  },
+  "17095605": {
+    "company_number": "17095605",
+    "company_name": "XOWN GLOBAL LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Arca, 59 Temple Row, Birmingham, B2 5AF",
+    "officers": [
+      {
+        "name": "AKANDE, Oluwasegun Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1977
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Oluwasegun Anthony Akande",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:39.500604"
+  },
+  "17095591": {
+    "company_number": "17095591",
+    "company_name": "MALIK TECH CONSULTING LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "15 Alton Close, Isleworth, TW7 6AL",
+    "officers": [
+      {
+        "name": "MALIK, Muqeet Ahmed",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Muqeet Ahmed Malik",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:40.719105"
+  },
+  "17095592": {
+    "company_number": "17095592",
+    "company_name": "APEX SQUARE GROUP LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "73110",
+      "74100",
+      "74209"
+    ],
+    "registered_address": "3 Boatemah Walk, London, SW9 7BB",
+    "officers": [
+      {
+        "name": "QAZI, Athar Ahmad",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2008
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Athar Ahmad Qazi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2008
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:41.965750"
+  },
+  "17095635": {
+    "company_number": "17095635",
+    "company_name": "ZAVRO TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "45112",
+      "62090"
+    ],
+    "registered_address": "Yard Flat, 447 Great West Road, Hounslow, TW5 0BY",
+    "officers": [
+      {
+        "name": "LATIF, Daniyal",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Daniyal Latif",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:43.190744"
+  },
+  "17095621": {
+    "company_number": "17095621",
+    "company_name": "AGROSENSE BIOTECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "72190"
+    ],
+    "registered_address": "The Catalyst, Baird Lane, York, YO10 5GA",
+    "officers": [
+      {
+        "name": "SERNA DAZA, Oriana Danuta",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Colombian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Oriana Danuta Serna Daza",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Colombian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T19:58:44.434680"
   }
 }
