@@ -467091,5 +467091,275 @@
       }
     ],
     "fetched_at": "2026-03-16T22:01:07.122074"
+  },
+  "17095779": {
+    "company_number": "17095779",
+    "company_name": "VINCETECHS SOLUTIONS LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "73110"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "VINCENT, Aldrin Sunny",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Aldrin Sunny Vincent",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:12.903982"
+  },
+  "17095794": {
+    "company_number": "17095794",
+    "company_name": "EDGION LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "62090",
+      "63110",
+      "72190"
+    ],
+    "registered_address": "Davidson House, The Forbury, Reading, RG1 3EU",
+    "officers": [
+      {
+        "name": "ZHENG, Yue, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Yue Zheng",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:14.105184"
+  },
+  "17095793": {
+    "company_number": "17095793",
+    "company_name": "CONFIQUEST LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012",
+      "85590",
+      "85600"
+    ],
+    "registered_address": "35 Warrington Lane, Coventry, CV6 5SJ",
+    "officers": [
+      {
+        "name": "OJIKUTU, Gbadebo Akeem",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Gbadebo Akeem Ojikutu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:15.313466"
+  },
+  "17095790": {
+    "company_number": "17095790",
+    "company_name": "VELLER LABS LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "169 Worcester Road, Droitwich, WR9 8AS",
+    "officers": [
+      {
+        "name": "JACKSON, Oliver Cameron",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Oliver Cameron Jackson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:16.504588"
+  },
+  "17095796": {
+    "company_number": "17095796",
+    "company_name": "VOIPAYLY LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Suite A, 82 James Carter Road, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "LAWAL, Olayinka Omowunmi",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Olayinka Omowunmi Lawal",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:17.699521"
+  },
+  "SC882646": {
+    "company_number": "SC882646",
+    "company_name": "BRITEX TRADERS LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "18130",
+      "18140",
+      "46420",
+      "62090"
+    ],
+    "registered_address": "114 Valley Gardens, Kirkcaldy, KY2 6BL",
+    "officers": [
+      {
+        "name": "QURESHI, Mohsin, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Pakistani",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Mohsin Qureshi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:18.907259"
+  },
+  "17095791": {
+    "company_number": "17095791",
+    "company_name": "FUTURE FORM MANUFACTURING LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "16290",
+      "22290"
+    ],
+    "registered_address": "97 Farm Crescent, Radcliffe, Manchester, M26 4LU",
+    "officers": [
+      {
+        "name": "JONES, Paul",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Paul Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:29:20.106305"
   }
 }
