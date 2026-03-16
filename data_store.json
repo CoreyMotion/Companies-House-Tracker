@@ -467361,5 +467361,194 @@
       }
     ],
     "fetched_at": "2026-03-16T22:29:20.106305"
+  },
+  "17095808": {
+    "company_number": "17095808",
+    "company_name": "KEY SUPERIOR CONSULTANCY LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "5 Keightley Walk, Thurmaston, Leicester, LE4 8LP",
+    "officers": [
+      {
+        "name": "TAYLOR, Warren Richard",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Warren Richard Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:55:59.355371"
+  },
+  "17095818": {
+    "company_number": "17095818",
+    "company_name": "BLOOMFIELD CAPITAL LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "24 Greenwich Avenue, Church Gresley, Swadlincote, DE11 9JN",
+    "officers": [
+      {
+        "name": "BLOOMFIELD, Spencer Mortimer",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Spencer Mortimer Bloomfield",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:56:00.497798"
+  },
+  "17095809": {
+    "company_number": "17095809",
+    "company_name": "AMAGACHO TECH SOLUTIONS LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "Flat 87 Byron Court, St. Johns Road, Harrow, HA1 2SE",
+    "officers": [
+      {
+        "name": "JOSHI, Manish",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Manish Joshi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:56:01.769492"
+  },
+  "17095810": {
+    "company_number": "17095810",
+    "company_name": "CARBON INSET LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "62012",
+      "63110",
+      "74901"
+    ],
+    "registered_address": "70 Phoenix Street, West Bromwich, B70 0AA",
+    "officers": [
+      {
+        "name": "NANDGAONKAR, Vaibhav Ganesh",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vaibhav Ganesh Nandgaonkar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:56:02.945735"
+  },
+  "SC882648": {
+    "company_number": "SC882648",
+    "company_name": "TEMSCAKE & PASTRY LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "10710"
+    ],
+    "registered_address": "94 0/2 94 Southdeen Avenue, Glasgow, G15 7RR",
+    "officers": [
+      {
+        "name": "AKINDE, Temitope Ayobami",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Temitope Ayobami Akinde",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T22:56:04.103902"
   }
 }
