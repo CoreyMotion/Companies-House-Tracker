@@ -425730,5 +425730,140 @@
       }
     ],
     "fetched_at": "2026-03-16T03:42:04.305932"
+  },
+  "17091723": {
+    "company_number": "17091723",
+    "company_name": "HANNZO GROUP LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64204",
+      "64209",
+      "68100"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "AHMAD, Hafeez",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1970
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Hafeez Ahmad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T06:18:55.388357"
+  },
+  "17091726": {
+    "company_number": "17091726",
+    "company_name": "FLOWFICIENT LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "10 Clydesdale Court Clydesdale Road, Luton, LU4 0NQ",
+    "officers": [
+      {
+        "name": "CHOUDHURY, Mohammed Kamal Hussain",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2000
+        }
+      },
+      {
+        "name": "EDOVIC-HENRIQUES, Lejhai Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Lejhai Anthony Edovic-Henriques",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2001
+        }
+      },
+      {
+        "name": "Mohammed Kamal Hussain Choudhury",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T06:18:56.593654"
+  },
+  "17091724": {
+    "company_number": "17091724",
+    "company_name": "SOLVENI LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "CHAKRI, Ziad",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Moroccan",
+        "country_of_residence": "Morocco",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ziad Chakri",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Moroccan",
+        "country_of_residence": "Morocco",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T06:18:57.787721"
   }
 }
