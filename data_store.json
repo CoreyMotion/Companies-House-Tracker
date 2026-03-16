@@ -467550,5 +467550,157 @@
       }
     ],
     "fetched_at": "2026-03-16T22:56:04.103902"
+  },
+  "17095828": {
+    "company_number": "17095828",
+    "company_name": "CEEBS SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "23 Grasmere Road, Cheltenham, GL51 3PQ",
+    "officers": [
+      {
+        "name": "BLACKWOOD, Christopher William George",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Christopher William George Blackwood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T23:28:29.880069"
+  },
+  "17095829": {
+    "company_number": "17095829",
+    "company_name": "VELORIA GROUP LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "56101",
+      "70229",
+      "73110"
+    ],
+    "registered_address": "Apartment 366 Southside St. John's Walk, Birmingham, B5 4TN",
+    "officers": [
+      {
+        "name": "HAN, Chenlin",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Chenlin Han",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T23:28:31.082653"
+  },
+  "SC882650": {
+    "company_number": "SC882650",
+    "company_name": "ATLAS ENERGY ADVISORY LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "1 Hollybush Lane, Crathes, Banchory, AB31 5JS",
+    "officers": [
+      {
+        "name": "BARTER, Thomas",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Thomas Barter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T23:28:32.285774"
+  },
+  "17095833": {
+    "company_number": "17095833",
+    "company_name": "EDGECASE LABS LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "71122"
+    ],
+    "registered_address": "124-128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "AMALH, Fausya",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Fausya Amalh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T23:28:33.478517"
   }
 }
