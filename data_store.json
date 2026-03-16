@@ -428419,5 +428419,570 @@
       }
     ],
     "fetched_at": "2026-03-16T07:53:59.355179"
+  },
+  "17091991": {
+    "company_number": "17091991",
+    "company_name": "BAILE INVESTMENTS LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "1 Sutherland Drive, London, SW19 2UJ",
+    "officers": [
+      {
+        "name": "DAVIS, Kate Marie",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Kate Marie Davis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:17.120254"
+  },
+  "17092011": {
+    "company_number": "17092011",
+    "company_name": "GGBI LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Riverside House, Normandy Road, Swansea, SA1 2JA",
+    "officers": [
+      {
+        "name": "PEARCE, Gillian",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1970
+        }
+      },
+      {
+        "name": "PEARCE, Graham",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Graham Pearce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1968
+        }
+      },
+      {
+        "name": "Mrs Gillian Pearce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:18.331155"
+  },
+  "17092006": {
+    "company_number": "17092006",
+    "company_name": "CLEAN POWER UK HOLDINGS LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Suite 5, 7th Floor, 50 Broadway, London, SW1H 0DB",
+    "officers": [
+      {
+        "name": "DOHERTY, Anthony Michael",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Irish",
+        "country_of_residence": "Ireland",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1971
+        }
+      },
+      {
+        "name": "PIM, Roger Jonathan",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [],
+    "fetched_at": "2026-03-16T08:06:19.518497"
+  },
+  "17092002": {
+    "company_number": "17092002",
+    "company_name": "THE CREATIVE IDEA GARDEN LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "14 Moynihan Drive, London, N21 1SH",
+    "officers": [
+      {
+        "name": "MEADE, Zuan Gordan",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Zuan Gordan Meade",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:20.710933"
+  },
+  "17092022": {
+    "company_number": "17092022",
+    "company_name": "GREYSTONE FLOWERS LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "46220",
+      "70229"
+    ],
+    "registered_address": "Greystone Flowers Nursery, Millthorpe Lane, Dronfield, S18 7SA",
+    "officers": [
+      {
+        "name": "LAYFIELD, Megan Angharad",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1988
+        }
+      },
+      {
+        "name": "WESTALL, Victoria Louise",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Victoria Louise Westall",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1987
+        }
+      },
+      {
+        "name": "Mrs Megan Angharad Layfield",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:21.919090"
+  },
+  "17092020": {
+    "company_number": "17092020",
+    "company_name": "INSPRING LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "GANS, Adrian",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Adrian Gans",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Mr James Deakin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1975
+        }
+      },
+      {
+        "name": "Mr Stephen Rex O'Brien",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "voting-rights-25-to-50-percent",
+        "nationality": "Irish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1963
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:23.124725"
+  },
+  "17092027": {
+    "company_number": "17092027",
+    "company_name": "ACACHE LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "63110"
+    ],
+    "registered_address": "57 Green Street, Mayfair, London, W1K 6RH",
+    "officers": [
+      {
+        "name": "SALMON, Daniel James",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1988
+        }
+      },
+      {
+        "name": "SEHGAL, Chander Kant",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Graysons Global Ventures Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:24.322191"
+  },
+  "17092045": {
+    "company_number": "17092045",
+    "company_name": "CAIRNSHAW LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Perio Mill, Fotheringhay, Peterborough, PE8 5HU",
+    "officers": [
+      {
+        "name": "BRADSHAW, James Francis",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Francis Bradshaw",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:25.519863"
+  },
+  "17091998": {
+    "company_number": "17091998",
+    "company_name": "BRAIDA LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "63120"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "OLAMIJU, Olaniyi",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ayomide Adekoya",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1996
+        }
+      },
+      {
+        "name": "Mr Olaniyi Olamiju",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "significant-influence-or-control",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:26.724134"
+  },
+  "17091999": {
+    "company_number": "17091999",
+    "company_name": "THE ALPHA STACK LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "35a Colston Avenue, Bristol, BS1 4TT",
+    "officers": [
+      {
+        "name": "FAYEZ, Faisal Ghaith",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "Dominican",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 2005
+        }
+      },
+      {
+        "name": "KARADSHEH, Jiries Ala",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jiries Ala Karadsheh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent; right-to-appoint-and-remove-directors",
+        "nationality": "American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2005
+        }
+      },
+      {
+        "name": "Mr Faisal Ghaith Fayez",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "Dominican",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:27.933485"
+  },
+  "17092009": {
+    "company_number": "17092009",
+    "company_name": "THEORYIQ LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62011",
+      "62012"
+    ],
+    "registered_address": "C/O Abr Chartered Accountants 37th Floor, One Canada Square, London, E14 5AA",
+    "officers": [
+      {
+        "name": "ASHFAQ, Haroon",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Muhammad Rabbie Khalid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1992
+        }
+      },
+      {
+        "name": "Diverse Advisors Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:29.116873"
+  },
+  "17092019": {
+    "company_number": "17092019",
+    "company_name": "UPTON ASSOCIATES LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "29 Millfield Avenue, Marsh Gibbon, Bicester, OX27 0HP",
+    "officers": [
+      {
+        "name": "PRING, Samuel",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Samuel Pring",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T08:06:30.318965"
   }
 }
