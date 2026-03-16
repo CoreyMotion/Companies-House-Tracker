@@ -465955,5 +465955,277 @@
       }
     ],
     "fetched_at": "2026-03-16T19:58:44.434680"
+  },
+  "17095641": {
+    "company_number": "17095641",
+    "company_name": "BOW VENTURES LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Ashford House, 95 Dixons Green Road, Dudley, DY2 7DJ",
+    "officers": [
+      {
+        "name": "BOWDEN, Charlotte Ruth",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Charlotte Ruth Bowden",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T20:34:38.789247"
+  },
+  "17095638": {
+    "company_number": "17095638",
+    "company_name": "MM ENTERTAINMENT LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "28 Dunnderdale Hill, Middleton, Manchester, M24 5AN",
+    "officers": [
+      {
+        "name": "HASWANI, Mhd Khir",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      },
+      {
+        "name": "TALAB, Mostafa Abdelmohsen Mohamed",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mostafa Abdelmohsen Mohamed Talab",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1985
+        }
+      },
+      {
+        "name": "Mr Mhd Khir Haswani",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T20:34:40.003770"
+  },
+  "17095667": {
+    "company_number": "17095667",
+    "company_name": "ENSIQ LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "71122",
+      "71129",
+      "74909"
+    ],
+    "registered_address": "44 Crafts End, Chilton, Didcot, OX11 0SA",
+    "officers": [
+      {
+        "name": "MARTINEZ CHAQUEA, Isabel Cristina",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British,Colombian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1977
+        }
+      },
+      {
+        "name": "SUAREZ MERCHAN, Jorge Enrique",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British,Colombian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Isabel Cristina Martinez Chaquea",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,Colombian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1977
+        }
+      },
+      {
+        "name": "Mr Jorge Enrique Suarez Merchan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,Colombian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T20:34:41.206607"
+  },
+  "17095653": {
+    "company_number": "17095653",
+    "company_name": "OPTIMISED LIFESTYLE HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "72110",
+      "74909"
+    ],
+    "registered_address": "7 High Street, North Tawton, EX20 2HF",
+    "officers": [
+      {
+        "name": "WATTS, Louise Sacha",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Louise Sacha Watts",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T20:34:42.394422"
+  },
+  "17095658": {
+    "company_number": "17095658",
+    "company_name": "EMPATHIA CONSULTANCY LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "401 Whippendell Road, Watford, WD18 7PA",
+    "officers": [
+      {
+        "name": "MIAH, Fatima",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Fatima Miah",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T20:34:43.601669"
+  },
+  "17095648": {
+    "company_number": "17095648",
+    "company_name": "HIGH PEAK BOILER SERVICES LTD",
+    "date_of_creation": "2026-03-16",
+    "company_status": "active",
+    "sic_codes": [
+      "43220",
+      "71122"
+    ],
+    "registered_address": "13 Warmbrook Road, Chapel-En-Le-Frith, High Peak, SK23 0NL",
+    "officers": [
+      {
+        "name": "GARDINER, Richard James",
+        "role": "director",
+        "appointed_on": "2026-03-16",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Richard James Gardiner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-16T20:34:44.800014"
   }
 }
