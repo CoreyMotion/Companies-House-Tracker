@@ -497613,5 +497613,66 @@
       }
     ],
     "fetched_at": "2026-03-17T22:03:18.164205"
+  },
+  "17098949": {
+    "company_number": "17098949",
+    "company_name": "ONE COLLECTIVE ENTERTAINMENT LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "74909",
+      "90010",
+      "90020"
+    ],
+    "registered_address": "36 Salisbury Road, Durham, DH1 5QT",
+    "officers": [
+      {
+        "name": "GIBB, Alex Scot",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2002
+        }
+      },
+      {
+        "name": "WARD, Ian",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alex Scot Gibb",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2002
+        }
+      },
+      {
+        "name": "Mr Ian Ward",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T22:37:31.593367"
   }
 }
