@@ -496643,5 +496643,408 @@
       }
     ],
     "fetched_at": "2026-03-17T20:35:19.224663"
+  },
+  "17098879": {
+    "company_number": "17098879",
+    "company_name": "WEARING HOLDCO LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "43 Woodland Mount, Hertford, SG13 7JD",
+    "officers": [
+      {
+        "name": "WEARING, Adam",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Adam Wearing",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:11.612640"
+  },
+  "17098871": {
+    "company_number": "17098871",
+    "company_name": "SALIM MALIK 2 LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "39 Westcliff Gardens, Appleton, Warrington, WA4 5FQ",
+    "officers": [
+      {
+        "name": "MALIK, Salim Miah",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Salim Miah Malik",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:12.840344"
+  },
+  "17098858": {
+    "company_number": "17098858",
+    "company_name": "KEYSHIFT LOGISTICS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "52290",
+      "62020",
+      "70229",
+      "82990"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "GORDON, Chantell Rose",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Chantell Rose Gordon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:13.998995"
+  },
+  "17098865": {
+    "company_number": "17098865",
+    "company_name": "BRAND FEMALE LEADERSHIP LIMITED",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Ballaster House Harborough Road, Maidwell, Northampton, NN6 9JA",
+    "officers": [
+      {
+        "name": "SIMPSON, Georgina Maisie",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Georgina Maisie Simpson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:15.213116"
+  },
+  "17098856": {
+    "company_number": "17098856",
+    "company_name": "AI ATLAS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "62090",
+      "63110"
+    ],
+    "registered_address": "10-16 Tiller Road, London, E14 8PX",
+    "officers": [
+      {
+        "name": "KABBOU, Ayman",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ayman Kabbou",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:16.400705"
+  },
+  "17098866": {
+    "company_number": "17098866",
+    "company_name": "RCXS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "26120",
+      "62020",
+      "71122",
+      "95210"
+    ],
+    "registered_address": "2 Saltmarsh Lane, Hayling Island, PO11 0JT",
+    "officers": [
+      {
+        "name": "HITCHINGS, Christopher Paul",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Christopher Paul Hitchings",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:17.601149"
+  },
+  "17098867": {
+    "company_number": "17098867",
+    "company_name": "VIAIS GROUP LIMITED",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "SINCLAIR, Christopher Barry",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Christopher Barry Sinclair",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:18.808684"
+  },
+  "17098863": {
+    "company_number": "17098863",
+    "company_name": "HULLABALOO AUDIO LIMITED",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012",
+      "62090"
+    ],
+    "registered_address": "16 Alexandra Road, Crosby, Liverpool, L23 7TF",
+    "officers": [
+      {
+        "name": "BROWN, Andrew John Turner, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      },
+      {
+        "name": "LARRABEE, Andrew Wear, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Andrew Wear Larrabee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1989
+        }
+      },
+      {
+        "name": "Mr. Andrew John Turner Brown",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:20.005736"
+  },
+  "17098872": {
+    "company_number": "17098872",
+    "company_name": "BROKERMIND AI LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012"
+    ],
+    "registered_address": "1 Quernmore Road, Liverpool, L33 6UU",
+    "officers": [
+      {
+        "name": "CALKA, Marcin",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "Polish,British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Marcin Calka",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish,British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:21.216863"
+  },
+  "17098873": {
+    "company_number": "17098873",
+    "company_name": "JELLIJON LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "32500"
+    ],
+    "registered_address": "Liantea, Fairview Drive, Romsey, SO51 7LQ",
+    "officers": [
+      {
+        "name": "WEATHERLEY, Lilian Mary",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1950
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Lilian Mary Weatherley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1950
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T21:02:22.406352"
   }
 }
