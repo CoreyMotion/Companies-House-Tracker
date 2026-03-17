@@ -467954,5 +467954,81 @@
       }
     ],
     "fetched_at": "2026-03-17T01:47:42.381195"
+  },
+  "17095905": {
+    "company_number": "17095905",
+    "company_name": "TANVAZ LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "52290",
+      "70229"
+    ],
+    "registered_address": "55 Capthorne Avenue, Harrow, HA2 9NF",
+    "officers": [
+      {
+        "name": "VAZ, Tommy Antonio",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Tommy Antonio Vaz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T04:15:01.047052"
+  },
+  "17095907": {
+    "company_number": "17095907",
+    "company_name": "RYAN LEWIS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "81100"
+    ],
+    "registered_address": "Well House, Little Torrington, Torrington, EX38 8PS",
+    "officers": [
+      {
+        "name": "LEWIS, Ryan Lea",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ryan Lea Lewis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T04:15:02.274142"
   }
 }
