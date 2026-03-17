@@ -468413,5 +468413,376 @@
       }
     ],
     "fetched_at": "2026-03-17T06:44:05.723151"
+  },
+  "17095968": {
+    "company_number": "17095968",
+    "company_name": "YELLOW DOOR CONSULTANCY LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "51 The Stream Ditton, Aylesford, ME20 6AG",
+    "officers": [
+      {
+        "name": "TAYLOR, Sophie Eloise",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Sophie Eloise Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:52.200509"
+  },
+  "17095952": {
+    "company_number": "17095952",
+    "company_name": "NOIR PADEL GROUP LIMITED",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "6 The Orchards, Peterborough, PE2 5LA",
+    "officers": [
+      {
+        "name": "SANGHA, Shane Singh",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Shane Singh Sangha",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:53.425052"
+  },
+  "17095979": {
+    "company_number": "17095979",
+    "company_name": "JOBARDI GLOBAL LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "58110",
+      "70229",
+      "85590",
+      "85600"
+    ],
+    "registered_address": "80 The Course, London, SE9 3JA",
+    "officers": [
+      {
+        "name": "BARDI, Josephine Nwaamaka, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Josephine Nwaamaka Bardi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:54.642434"
+  },
+  "17095977": {
+    "company_number": "17095977",
+    "company_name": "CALEXANDER LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "Delta 606 Welton Road, Swindon, SN5 7XF",
+    "officers": [
+      {
+        "name": "ALEXANDER, Cheriyan",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Cheriyan Alexander",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1980
+        }
+      },
+      {
+        "name": "Divya Grace Mathew",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:55.846125"
+  },
+  "17095956": {
+    "company_number": "17095956",
+    "company_name": "BULLION AGENTS LIMITED",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "C/O Vantage Accounting 1 Cedar Office Park, Cobham Road, Wimborne, BH21 7SB",
+    "officers": [
+      {
+        "name": "TAYLOR, Sam",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sam Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:57.081672"
+  },
+  "17095970": {
+    "company_number": "17095970",
+    "company_name": "TRADE HUB APP LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "81100",
+      "82990"
+    ],
+    "registered_address": "138 Racecourse Road, Swinton, Mexborough, S64 8DS",
+    "officers": [
+      {
+        "name": "MCGREGOR, Jimmy Russell",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jimmy Russell Mcgregor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:58.322624"
+  },
+  "17095958": {
+    "company_number": "17095958",
+    "company_name": "RUVAN EXQUISITE LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "10710"
+    ],
+    "registered_address": "1 Harperleas Close, Wellingborough, NN8 6BH",
+    "officers": [
+      {
+        "name": "ITAMAH, Ewemade Vannessa",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ewemade Vannessa Itamah",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:03:59.523618"
+  },
+  "17095966": {
+    "company_number": "17095966",
+    "company_name": "STOREYS OF TRAVEL LIMITED",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "79110"
+    ],
+    "registered_address": "12 St. Peg Close, Cleckheaton, BD19 3SJ",
+    "officers": [
+      {
+        "name": "HARRISON-STOREY, Victoria",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1971
+        }
+      },
+      {
+        "name": "STOREY, Lee Stuart",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1970
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Victoria Harrison-Storey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Mr Lee Stuart Storey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:04:00.826642"
+  },
+  "17095978": {
+    "company_number": "17095978",
+    "company_name": "LEGACY BUILDERS CIRCLE LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "158 Egypt Road, Nottingham, NG7 7GZ",
+    "officers": [
+      {
+        "name": "BALOGUN, Samuel Oluwadare",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Samuel Oluwadare Balogun",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T07:04:02.183667"
   }
 }
