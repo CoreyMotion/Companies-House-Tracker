@@ -468030,5 +468030,42 @@
       }
     ],
     "fetched_at": "2026-03-17T04:15:02.274142"
+  },
+  "17095909": {
+    "company_number": "17095909",
+    "company_name": "TAKE ME TO INDIA JOURNEYS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "79110"
+    ],
+    "registered_address": "23 Redcar Road, Leicester, LE4 6PE",
+    "officers": [
+      {
+        "name": "FULBARIA, Avinash Navin",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Avinash Navin Fulbaria",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T05:08:47.372907"
   }
 }
