@@ -467801,5 +467801,158 @@
       }
     ],
     "fetched_at": "2026-03-16T23:49:40.259586"
+  },
+  "17095871": {
+    "company_number": "17095871",
+    "company_name": "AXIOM MANAGEMENT LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "6 Aileen Walk, London, E15 4BB",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Maliha Islam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T01:47:36.374305"
+  },
+  "17095882": {
+    "company_number": "17095882",
+    "company_name": "DJW ASSET MANAGEMENT LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "12 Woodlands Gardens, Scunthorpe, DN17 1BU",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Daniel Joseph Wood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T01:47:37.581789"
+  },
+  "17095885": {
+    "company_number": "17095885",
+    "company_name": "SNR-NOVA LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "16 Morris Street, London, E1 2NP",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Ridhwanur Rahman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T01:47:38.780424"
+  },
+  "17095892": {
+    "company_number": "17095892",
+    "company_name": "CODE EXACT LABS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012",
+      "62020"
+    ],
+    "registered_address": "12 Hook Rise North, Surbiton, KT6 7JZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Shaheryaar Kamal",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T01:47:39.975418"
+  },
+  "17095891": {
+    "company_number": "17095891",
+    "company_name": "ALGOEDGE LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "16 Barnes Avenue, Margate, CT9 5EQ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Samuel Joe Mileham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T01:47:41.173561"
+  },
+  "17095867": {
+    "company_number": "17095867",
+    "company_name": "COCOA & CRUMBS BAKERY LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "10710",
+      "10821"
+    ],
+    "registered_address": "1 Laurel Way, Bottesford, Nottingham, NG13 0FP",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Adam Edward White",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T01:47:42.381195"
   }
 }
