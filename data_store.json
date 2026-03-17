@@ -496346,5 +496346,116 @@
       }
     ],
     "fetched_at": "2026-03-17T19:34:12.482207"
+  },
+  "17098805": {
+    "company_number": "17098805",
+    "company_name": "GOINGGETSGOT LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "14 Maltkiln Lane, Castleford, WF10 4LF",
+    "officers": [
+      {
+        "name": "HENDERSON, Riley Devlin",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Riley Devlin Henderson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T19:59:39.498289"
+  },
+  "17098811": {
+    "company_number": "17098811",
+    "company_name": "RADICAL CONSULTING GROUP LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Highmead, Field Road, Stroud, GL5 2JA",
+    "officers": [
+      {
+        "name": "NEWNS, Ian David",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ian David Newns",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T19:59:40.689673"
+  },
+  "17098810": {
+    "company_number": "17098810",
+    "company_name": "HEAD RENEWABLE CONSULTANTS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "74901"
+    ],
+    "registered_address": "51 St Marys Road, Swanley, BR8 7BA",
+    "officers": [
+      {
+        "name": "HEAD, Lillian Sarah",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Lillian Sarah Head",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T19:59:41.922411"
   }
 }
