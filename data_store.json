@@ -497674,5 +497674,45 @@
       }
     ],
     "fetched_at": "2026-03-17T22:37:31.593367"
+  },
+  "17098952": {
+    "company_number": "17098952",
+    "company_name": "LAWN PADEL LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "74909",
+      "82301",
+      "85510",
+      "93199"
+    ],
+    "registered_address": "Linkside, Dunmow Road, Bishop's Stortford, CM23 5HR",
+    "officers": [
+      {
+        "name": "GULRAJANI, Vinae",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vinae Gulrajani",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T22:58:01.931987"
   }
 }
