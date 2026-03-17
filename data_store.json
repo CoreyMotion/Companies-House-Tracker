@@ -497902,5 +497902,116 @@
       }
     ],
     "fetched_at": "2026-03-17T23:29:27.029386"
+  },
+  "17098977": {
+    "company_number": "17098977",
+    "company_name": "DKCREATIVESOLUTIONS LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "78 Vale Avenue, Worthing, BN14 0BZ",
+    "officers": [
+      {
+        "name": "MCKAY, Darren Alexander",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Darren Alexander Mckay",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T23:52:57.935185"
+  },
+  "17098976": {
+    "company_number": "17098976",
+    "company_name": "OSO TRAVTECH LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "2a Chipperfield Road, Hemel Hempstead, HP3 0JN",
+    "officers": [
+      {
+        "name": "OSOIANU, Adrian, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Adrian Osoianu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T23:52:59.134314"
+  },
+  "17098980": {
+    "company_number": "17098980",
+    "company_name": "ARIA INTEL LTD",
+    "date_of_creation": "2026-03-17",
+    "company_status": "active",
+    "sic_codes": [
+      "63110"
+    ],
+    "registered_address": "13 Wolverhampton Road, Shareshill, Wolverhampton, WV10 7LY",
+    "officers": [
+      {
+        "name": "MANSELL, Damian Lee",
+        "role": "director",
+        "appointed_on": "2026-03-17",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Damian Lee Mansell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-17T23:53:00.327578"
   }
 }
