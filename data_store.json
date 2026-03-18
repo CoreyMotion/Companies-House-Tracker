@@ -498410,5 +498410,441 @@
     "officers": [],
     "pscs": [],
     "fetched_at": "2026-03-18T06:38:15.777079"
+  },
+  "17099109": {
+    "company_number": "17099109",
+    "company_name": "ALDERCREST GROUP HOLDINGS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "20 Wenlock Road, London, N1 7GU",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:19.076485"
+  },
+  "17099082": {
+    "company_number": "17099082",
+    "company_name": "AKULA CAPITAL HOLDINGS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "20 Wenlock Road, London, N1 7GU",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:20.282892"
+  },
+  "17099168": {
+    "company_number": "17099168",
+    "company_name": "DETHTECH HOLDINGS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "10 Brooklands Court Kettering Venture Park, Kettering, NN15 6FD",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:21.476757"
+  },
+  "17099142": {
+    "company_number": "17099142",
+    "company_name": "LILLIPILLI HOLD CO LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "35 Ballards Lane, London, N3 1XW",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:22.692311"
+  },
+  "17099163": {
+    "company_number": "17099163",
+    "company_name": "CLOCKHOUSE STUDIOS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "10 Upper Grosvenor Road, Tunbridge Wells, TN1 2EP",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:23.878138"
+  },
+  "17099146": {
+    "company_number": "17099146",
+    "company_name": "AFR HOLDINGS (NE) LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "15 Front Street, Sherburn Hill, Durham, DH6 1PA",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:25.119746"
+  },
+  "17099094": {
+    "company_number": "17099094",
+    "company_name": "SHAHINTRADING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64205"
+    ],
+    "registered_address": "67 Harvard Road, Solihull, B92 8EU",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:26.286854"
+  },
+  "17099093": {
+    "company_number": "17099093",
+    "company_name": "A & J PROPERTIES (DK) LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "33190",
+      "68100",
+      "70229",
+      "98000"
+    ],
+    "registered_address": "Westbrook Cottage, Lullington, Swadlincote, DE12 8EE",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:27.481276"
+  },
+  "17099080": {
+    "company_number": "17099080",
+    "company_name": "THE GOOD GROWTH MOVEMENT C.I.C.",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "85590",
+      "85600"
+    ],
+    "registered_address": "18 Fraser Road, London, E17 9DD",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:28.685882"
+  },
+  "17099188": {
+    "company_number": "17099188",
+    "company_name": "LABEIGHT ADVISORY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "70229"
+    ],
+    "registered_address": "20 Wenlock Road, London, N1 7GU",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:29.901043"
+  },
+  "17099075": {
+    "company_number": "17099075",
+    "company_name": "DOM TIMNEY CONSULTING LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "8 Preston Mews, North Shields, NE29 0NF",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:31.098873"
+  },
+  "17099181": {
+    "company_number": "17099181",
+    "company_name": "CLC CONSULTANCY GROUP LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70221",
+      "70229"
+    ],
+    "registered_address": "C/O Stuart Mcbain Ltd (Accountants) Unit 14 Tower Street, Brunswick Business Park, Liverpool, L3 4BJ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:32.292963"
+  },
+  "17099134": {
+    "company_number": "17099134",
+    "company_name": "ANDREW BROOKS WEALTH PLANNING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "Marlborough Court 8-10 Bricket Road, St. Albans, AL1 3JX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:33.483209"
+  },
+  "17099092": {
+    "company_number": "17099092",
+    "company_name": "DEVUBE LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Office 17974 182-184 High Street North, East Ham, London, E6 2JA",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:34.682726"
+  },
+  "17099101": {
+    "company_number": "17099101",
+    "company_name": "MAIWEB3 LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:35.877761"
+  },
+  "17099140": {
+    "company_number": "17099140",
+    "company_name": "GLOBAL HEALTH TECHNOLOGY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "47990",
+      "62020",
+      "82990",
+      "96090"
+    ],
+    "registered_address": "Flat 107 25 Indescon Square, London, E14 9DG",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:37.087236"
+  },
+  "17099102": {
+    "company_number": "17099102",
+    "company_name": "COLDFRONT CONSULTING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46510",
+      "62020"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:38.288371"
+  },
+  "17099166": {
+    "company_number": "17099166",
+    "company_name": "PLATFORM RESILIENCE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Office 9534 Platform Resilience Ltd, 321-323 High Road, Chadwell Heath, RM6 6AX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:39.492830"
+  },
+  "17099095": {
+    "company_number": "17099095",
+    "company_name": "ARCH ACOUSITCS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Flat 70 Orwell Court, Pownall Road, London, E8 4PR",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:40.697093"
+  },
+  "17099161": {
+    "company_number": "17099161",
+    "company_name": "PARMARSOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "20 Wenlock Road, London, N1 7GU",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:41.881115"
+  },
+  "17099176": {
+    "company_number": "17099176",
+    "company_name": "LEADBRIDGE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Suite 1 Port Of Liverpool Building, Pier Head, Liverpool, L3 1BY",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:43.095933"
+  },
+  "17099116": {
+    "company_number": "17099116",
+    "company_name": "LOTTOLABS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, Bury St. Edmunds, IP28 7DE",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:44.284881"
+  },
+  "17099123": {
+    "company_number": "17099123",
+    "company_name": "PROFESSIONAL SOFTWARE DEVELOPMENT LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "9 Coylton Avenue, Rainhill, Prescot, L35 0PT",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:45.482703"
+  },
+  "17099136": {
+    "company_number": "17099136",
+    "company_name": "AUTO TOIL LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62030"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, IP28 7DE",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:46.686699"
+  },
+  "17099122": {
+    "company_number": "17099122",
+    "company_name": "ACADEMY SBI LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "85590"
+    ],
+    "registered_address": "Apartment 6 1b Britannia Road, Sale, M33 2NX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:47.893049"
+  },
+  "17099100": {
+    "company_number": "17099100",
+    "company_name": "LEADSAPI LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Office 6986 58 Peregrine Road, Hainault, Ilford, Essex, IG6 3SZ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:49.098223"
+  },
+  "17099090": {
+    "company_number": "17099090",
+    "company_name": "BEKAME CREATIVE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "59112",
+      "62090",
+      "73110",
+      "74100"
+    ],
+    "registered_address": "56 Dominion Drive, Romford, RM5 2QP",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:50.288503"
+  },
+  "17099186": {
+    "company_number": "17099186",
+    "company_name": "RGH WEALTH MANAGEMENT LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "128 High Street, Crediton, EX17 3LQ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:51.484282"
+  },
+  "17099169": {
+    "company_number": "17099169",
+    "company_name": "ELITE SITE SUPPORT SERVICES LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "18 Chester Street, Y Fflint, CH6 5NR",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:52.728639"
+  },
+  "17099108": {
+    "company_number": "17099108",
+    "company_name": "BME ENGINEERING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "33190",
+      "33200",
+      "71122",
+      "71200"
+    ],
+    "registered_address": "156 Benson Road, Newcastle Upon Tyne, NE6 2SE",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:53.887997"
+  },
+  "17099149": {
+    "company_number": "17099149",
+    "company_name": "OPEN FOUNDRY LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:55.088877"
+  },
+  "17099085": {
+    "company_number": "17099085",
+    "company_name": "SHACKCOMS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "26110"
+    ],
+    "registered_address": "Suites 2 & 3 Marine Trade Centre, Lockside, Brighton Marina, Brighton, BN2 5HA",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T07:15:56.281060"
   }
 }
