@@ -499782,5 +499782,917 @@
       }
     ],
     "fetched_at": "2026-03-18T08:05:22.229675"
+  },
+  "17099393": {
+    "company_number": "17099393",
+    "company_name": "TURNER STRATEGIC HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Unit B2 Ryelands Business Centre Ryelands Farm Elmley Lovett, Elmley Lovett, Droitwich, WR9 0PT",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mrs Carolyn Angela Turner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1962
+        }
+      },
+      {
+        "name": "Mr Clifford Michael Turner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:12.762466"
+  },
+  "17099403": {
+    "company_number": "17099403",
+    "company_name": "CHAMBERS DEVELOPMENTS & RENOVATIONS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "14 Redbrook Crescent, Melton Mowbray, LE13 0EU",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Sam Chambers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1997
+        }
+      },
+      {
+        "name": "Leanne Alice Chambers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:13.951677"
+  },
+  "17099427": {
+    "company_number": "17099427",
+    "company_name": "TL HOLDINGS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "11 Bridge Street, Bury, BL09AB",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Tony Lister",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:15.154731"
+  },
+  "17099415": {
+    "company_number": "17099415",
+    "company_name": "JUSTIN PRICE (UK) GROUP HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "68100",
+      "68209"
+    ],
+    "registered_address": "Unit B Tyburn Industrial Estate, Ashold Farm Road, Birmingham, B24 9QG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Justin Price",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:16.355236"
+  },
+  "17099391": {
+    "company_number": "17099391",
+    "company_name": "SIGMA (LEEDS) HOLDINGS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Unit 5 Wortley Moor Lane Trading Estate, Leeds, LS12 4HX",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mark Ian Cockerham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1970
+        }
+      },
+      {
+        "name": "Matthew Harry Hill",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1963
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:17.555210"
+  },
+  "17099423": {
+    "company_number": "17099423",
+    "company_name": "GREENFLEETS HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Unit 7 The Forum, Icknield Way, Tring, HP23 4JY",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Samuel John Harkness",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1976
+        }
+      },
+      {
+        "name": "Mr Paul Edward Driscoll",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:18.762580"
+  },
+  "17099413": {
+    "company_number": "17099413",
+    "company_name": "HUPERPERISSEUO HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "124 City Road, London, EC1V 2NX",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Miss Marie-Delphine Estelle Kadjo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:19.965423"
+  },
+  "17099421": {
+    "company_number": "17099421",
+    "company_name": "MANAGEMENT GROUP INVESTMENTS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "2 York Street, Clitheroe, BB7 2DL",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Craig Micheal Speakes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:21.154633"
+  },
+  "17099455": {
+    "company_number": "17099455",
+    "company_name": "GROUP V HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "55 Brunel Road, Luton, LU4 0RY",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Shanol Vittorio Kosseta",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2007
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:22.357198"
+  },
+  "17099451": {
+    "company_number": "17099451",
+    "company_name": "THE LIMES INVESTMENTS (BRISTOL)",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70100"
+    ],
+    "registered_address": "Unit 109 Longmead Road Emerald Park East, Emersons Green, Bristol, BS16 7FG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Stephen Patrick Smallridge",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1986
+        }
+      },
+      {
+        "name": "Heidi Michelle Smallridge",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "significant-influence-or-control",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:23.563664"
+  },
+  "17099373": {
+    "company_number": "17099373",
+    "company_name": "LABURNUM DOWN LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70100"
+    ],
+    "registered_address": "100-200 The Quadrant Ash Ridge Road, Bradley Stoke, Bristol, BS32 4QA",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Calvin Glenn Herbert",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:24.769794"
+  },
+  "17099375": {
+    "company_number": "17099375",
+    "company_name": "STX CONSULTING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "79909",
+      "82302",
+      "85600"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Joseph Edward Lomas Bently",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:25.955278"
+  },
+  "17099437": {
+    "company_number": "17099437",
+    "company_name": "BUILD SUPPLY SERVICES LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46130",
+      "70229",
+      "74909"
+    ],
+    "registered_address": "Countrywide House, Knights Way, Shrewsbury, SY1 3AB",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Benjamin Alex Grasham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:27.158909"
+  },
+  "17099380": {
+    "company_number": "17099380",
+    "company_name": "NF ENERGY CONSULTANT LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82990"
+    ],
+    "registered_address": "82 Essex Road, Maldon, CM9 6JH",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Neil Adrian Foster",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1964
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:28.362193"
+  },
+  "17099426": {
+    "company_number": "17099426",
+    "company_name": "BOWLEYFI ADVISORY LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Licketysplit House, Ashurst Wood, East Grinstead, RH19 3PH",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Andrew Douglas Bowley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:29.555768"
+  },
+  "17099456": {
+    "company_number": "17099456",
+    "company_name": "WIN & DOTTER LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "66 Lee Road, London, SE3 9DA",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Christina Elizabeth Winfield",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:30.762750"
+  },
+  "17099347": {
+    "company_number": "17099347",
+    "company_name": "DAM PROFESSIONAL LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Christina Cahoon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; ownership-of-shares-75-to-100-percent-as-trust; ownership-of-shares-75-to-100-percent-as-firm; voting-rights-75-to-100-percent; voting-rights-75-to-100-percent-as-trust; voting-rights-75-to-100-percent-as-firm; right-to-appoint-and-remove-directors; right-to-appoint-and-remove-directors-as-trust; right-to-appoint-and-remove-directors-as-firm",
+        "nationality": "American",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:31.962810"
+  },
+  "17099361": {
+    "company_number": "17099361",
+    "company_name": "HERITAGE SURVEYORS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "35 Westgate, Huddersfield, HD1 1PA",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Charles Alexander Finance (Security) Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:33.155953"
+  },
+  "17099372": {
+    "company_number": "17099372",
+    "company_name": "MIDST MEDIA GROUP LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "Suite 104 43 Bedford Street, London, WC2E 9HA",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Michael Eric Bryant",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "American",
+        "country_of_residence": "Serbia",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1960
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:34.358654"
+  },
+  "17099411": {
+    "company_number": "17099411",
+    "company_name": "PRICETRACKER LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "63110"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Guy Keates",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:35.562743"
+  },
+  "17099406": {
+    "company_number": "17099406",
+    "company_name": "VOICETOME LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "90010",
+      "90020"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Emmanuel Ayodeji Alade",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:36.757783"
+  },
+  "17099429": {
+    "company_number": "17099429",
+    "company_name": "ARCHIMAGIC LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Unit 36 Silk Mill Industrial Estate, Brook Street, Tring, HP23 5EF",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Anatole Shamrakov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:37.956601"
+  },
+  "17099387": {
+    "company_number": "17099387",
+    "company_name": "LEC AI LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "1 Knightsbridge Green, London, SW1X 7QA",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Jack Joseph Perry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:39.159824"
+  },
+  "17099435": {
+    "company_number": "17099435",
+    "company_name": "TROVIAN LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "71122",
+      "72190"
+    ],
+    "registered_address": "3 Wellington Court, Wellington Street, Cambridge, CB1 1HZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Neil Amab Roy Chowdhury",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:40.366394"
+  },
+  "17099409": {
+    "company_number": "17099409",
+    "company_name": "CLICKZONE LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Belgrave House, 39-43 Monument Hill, Weybridge, KT13 8RN",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr John Charles Sharman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:41.559821"
+  },
+  "17099432": {
+    "company_number": "17099432",
+    "company_name": "YOUREYE TECHNOLOGY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "63110"
+    ],
+    "registered_address": "Unit 6a, Dominion Business Park, Goodwin Road, London, N9 0BG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Yusuf Soyer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:42.760577"
+  },
+  "17099465": {
+    "company_number": "17099465",
+    "company_name": "GARAGEWORX LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Unit D, Beckingham Business Park, Tolleshunt Major, CM9 8LZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Bradley Raymond Calcutt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:43.966759"
+  },
+  "17099356": {
+    "company_number": "17099356",
+    "company_name": "IT GLOBAL SOLUTIONS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62011",
+      "62012"
+    ],
+    "registered_address": "Plaza Suite 103 668 Hitchin Road, Luton, LU2 7XH",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Harbeer Danga",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:45.160047"
+  },
+  "17099417": {
+    "company_number": "17099417",
+    "company_name": "UNIPLAY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Imaad Akhtar Irfan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2006
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:46.361730"
+  },
+  "17099438": {
+    "company_number": "17099438",
+    "company_name": "CHORA SYSTEMS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "26511",
+      "62012",
+      "63110",
+      "71122"
+    ],
+    "registered_address": "33 Tranby Close, Manchester, M22 9ZB",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Martin John Langley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:47.559990"
+  },
+  "17099430": {
+    "company_number": "17099430",
+    "company_name": "SATORI WORKS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "9 Dallington Street, London, EC1V0LN",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Dmytro Izotov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "Ukrainian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1981
+        }
+      },
+      {
+        "name": "Mr Vladimir Khokhlov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "Ukrainian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:48.766228"
+  },
+  "17099364": {
+    "company_number": "17099364",
+    "company_name": "MABEL TECHNOLOGY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Suite 10625 5 Brayford Square, London, E1 0SG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Emre Ozacar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Turkish",
+        "country_of_residence": "Turkey",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:49.986180"
+  },
+  "17099389": {
+    "company_number": "17099389",
+    "company_name": "ELEMNTL SERVICES LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "Gardeners, Old School Lane, Yateley, GU46 6NG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mrs Caron-Marie Swadling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T08:43:51.158642"
   }
 }
