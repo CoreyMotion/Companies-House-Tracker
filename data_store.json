@@ -522391,5 +522391,156 @@
       }
     ],
     "fetched_at": "2026-03-18T22:29:55.167473"
+  },
+  "17102097": {
+    "company_number": "17102097",
+    "company_name": "FLUID ANALYTICS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Flat 9 Horwood House, 9 Paveley Street, London, NW8 8TH",
+    "officers": [
+      {
+        "name": "MILLER, Howard",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Howard Miller",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:55:25.264702"
+  },
+  "17102101": {
+    "company_number": "17102101",
+    "company_name": "G TECH DEVELOPMENT LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "55 Shelton Street, London, WC2H 9HE",
+    "officers": [
+      {
+        "name": "SAIDAHATOV, Andrii",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Ukrainian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Andrii Saidahatov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Ukrainian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:55:26.509468"
+  },
+  "17102100": {
+    "company_number": "17102100",
+    "company_name": "SOUTH EAST FINANCIAL LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "92 Willingdon Park Drive, Eastbourne, BN22 0DB",
+    "officers": [
+      {
+        "name": "ADDEMS, Tom",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Tom Addems",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:55:27.738657"
+  },
+  "NI738946": {
+    "company_number": "NI738946",
+    "company_name": "JMH ELECTRIC LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "8 Church Field Heights, Castlewellan, BT31 9HY",
+    "officers": [
+      {
+        "name": "MCHENRY, James Martin",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "James Martin Mchenry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:55:28.980344"
   }
 }
