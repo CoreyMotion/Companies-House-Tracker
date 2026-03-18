@@ -521479,5 +521479,205 @@
       }
     ],
     "fetched_at": "2026-03-18T19:59:34.052239"
+  },
+  "17101997": {
+    "company_number": "17101997",
+    "company_name": "FOUR RAINBOWS ADVISORY LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "70229"
+    ],
+    "registered_address": "21 Buckingham Grove, Timperley, Altrincham, WA14 5AH",
+    "officers": [
+      {
+        "name": "MACKWAY, James Andrew",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Andrew Mackway",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T20:33:20.312877"
+  },
+  "17101990": {
+    "company_number": "17101990",
+    "company_name": "DRJKS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64999",
+      "70229"
+    ],
+    "registered_address": "16 Mayflower Close, Glossop, SK13 8UD",
+    "officers": [
+      {
+        "name": "SHAWCROSS, Jullian Karl",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jullian Karl Shawcross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1973
+        }
+      },
+      {
+        "name": "Louise Shawcross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T20:33:21.514626"
+  },
+  "17101991": {
+    "company_number": "17101991",
+    "company_name": "JEN WILKES LEARNING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "6 Quinta Mews, Pease Pottage, Crawley, RH11 9FZ",
+    "officers": [
+      {
+        "name": "WILKES, Jennifer Kate",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Jennifer Kate Wilkes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T20:33:22.737961"
+  },
+  "17102004": {
+    "company_number": "17102004",
+    "company_name": "HIER APPLICATIONS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "63110",
+      "78109"
+    ],
+    "registered_address": "48 Orchard Way, Corby Glen, Grantham, NG33 4EE",
+    "officers": [
+      {
+        "name": "ALLEN, Jake Matthew",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jake Matthew Allen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T20:33:23.937599"
+  },
+  "SC883002": {
+    "company_number": "SC883002",
+    "company_name": "RENDALL TECHNICAL SERVICES LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "71122",
+      "71200"
+    ],
+    "registered_address": "14 Dornoch Way, Blantyre, Glasgow, G72 0GR",
+    "officers": [
+      {
+        "name": "RENDALL, Alan",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alan Rendall",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T20:33:25.161288"
   }
 }
