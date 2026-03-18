@@ -498227,5 +498227,48 @@
       }
     ],
     "fetched_at": "2026-03-18T04:22:52.183027"
+  },
+  "17099020": {
+    "company_number": "17099020",
+    "company_name": "KLB FAMILY HOLDINGS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46150",
+      "62020",
+      "70100",
+      "70229"
+    ],
+    "registered_address": "70 Harcourt Road, Sheffield, S10 1DJ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:01:17.061620"
+  },
+  "NI738878": {
+    "company_number": "NI738878",
+    "company_name": "KNECTYR LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "Apartment 42, Balliniska Heights, Northland Road, Londonderry, BT48 0GR",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:01:18.238529"
+  },
+  "17099024": {
+    "company_number": "17099024",
+    "company_name": "NEXABOTS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "63110"
+    ],
+    "registered_address": "51 Douglas Road, Ilford, IG3 8UZ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:01:19.432362"
   }
 }
