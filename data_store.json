@@ -521977,5 +521977,116 @@
       }
     ],
     "fetched_at": "2026-03-18T21:04:34.227472"
+  },
+  "SC883004": {
+    "company_number": "SC883004",
+    "company_name": "REPRODUCTION PLASTER (GROUP) LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "4 Vivian Avenue, Milngavie, Glasgow, G62 6DW",
+    "officers": [
+      {
+        "name": "DEANE, David William",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1964
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David William Deane",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1964
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T21:31:20.260466"
+  },
+  "17102040": {
+    "company_number": "17102040",
+    "company_name": "SNEAKYWEASEL LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "WILLANS, Daniel Mark",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Daniel Mark Willans",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T21:31:21.458377"
+  },
+  "17102048": {
+    "company_number": "17102048",
+    "company_name": "GLOBE ENG LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "203 West Street, Fareham, PO16 0EN",
+    "officers": [
+      {
+        "name": "FERGUSON, Richard Graham, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Richard Graham Ferguson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1966
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T21:31:22.653794"
   }
 }
