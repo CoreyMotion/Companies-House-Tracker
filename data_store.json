@@ -520917,5 +520917,279 @@
       }
     ],
     "fetched_at": "2026-03-18T19:05:06.721402"
+  },
+  "17101940": {
+    "company_number": "17101940",
+    "company_name": "FD ASSOCIATES HOLDING LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64205",
+      "64209",
+      "70221",
+      "70229"
+    ],
+    "registered_address": "225 Clapham Road, London, SW9 9BE",
+    "officers": [
+      {
+        "name": "DUTRA DUARTE, Filipe",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Filipe Dutra Duarte",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:26.513405"
+  },
+  "17101930": {
+    "company_number": "17101930",
+    "company_name": "KENNY KERSLEY TRAINING CONSULTANCY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "20 Nada Road, Christchurch, BH23 4PR",
+    "officers": [
+      {
+        "name": "KERSLEY, Kenneth Harry",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Kenneth Harry Kersley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:27.720519"
+  },
+  "17101948": {
+    "company_number": "17101948",
+    "company_name": "MINERISALT LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46900",
+      "47910",
+      "47990",
+      "70229"
+    ],
+    "registered_address": "Flat 9 10 Grasmere Place, Wixams, Bedford, MK45 3SU",
+    "officers": [
+      {
+        "name": "TREIT, Mate",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Hungarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mate Treit",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Hungarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:28.910721"
+  },
+  "17101956": {
+    "company_number": "17101956",
+    "company_name": "EVOLVE WITH ADELLE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "74909",
+      "86900",
+      "96040",
+      "96090"
+    ],
+    "registered_address": "5 Templemere, Fareham, PO14 3AP",
+    "officers": [
+      {
+        "name": "GRIMLEY, Adelle Elizabeth",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Adelle Elizabeth Grimley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:30.109855"
+  },
+  "17101943": {
+    "company_number": "17101943",
+    "company_name": "BLUMERA GROUP LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46900",
+      "62020",
+      "62090",
+      "82110"
+    ],
+    "registered_address": "669a Christchurch Road, Flat 2, Bournemouth, BH7 6AA",
+    "officers": [
+      {
+        "name": "TKACHENKO, Serhii",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Ukrainian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2004
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Serhii Tkachenko",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Ukrainian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2004
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:31.319843"
+  },
+  "17101944": {
+    "company_number": "17101944",
+    "company_name": "MULTISCALAR INTELLIGENCE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "75 Birchmore Walk, London, N5 2TL",
+    "officers": [
+      {
+        "name": "CRAPIS, Davide",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Davide Crapis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:32.513316"
+  },
+  "17101955": {
+    "company_number": "17101955",
+    "company_name": "EASYNET SOLUTIONS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46510",
+      "46520",
+      "46690",
+      "62090"
+    ],
+    "registered_address": "Unit A, 82 James Carter Road, Mildenhall, Bury St Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "NIKULIN, Fiodor",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Lithuanian",
+        "country_of_residence": "Lithuania",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Fiodor Nikulin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Lithuanian",
+        "country_of_residence": "Lithuania",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T19:29:33.715997"
   }
 }
