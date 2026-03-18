@@ -522163,5 +522163,233 @@
       }
     ],
     "fetched_at": "2026-03-18T21:56:01.389134"
+  },
+  "17102080": {
+    "company_number": "17102080",
+    "company_name": "OB & CO CONSULTANCY LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "70221",
+      "70229"
+    ],
+    "registered_address": "31 Old Farm Lane, Longford, Coventry, CV6 6HN",
+    "officers": [
+      {
+        "name": "BAHAR, Mohamed Omar",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Sri Lankan",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mohamed Omar Bahar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Sri Lankan",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:29:49.171581"
+  },
+  "17102090": {
+    "company_number": "17102090",
+    "company_name": "FAMILY SOLUTION CENTRE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "York House, 140 High Town Road, Luton, LU2 0DJ",
+    "officers": [
+      {
+        "name": "HAI, Sanean",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2003
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sanean Hai",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2003
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:29:50.352605"
+  },
+  "17102089": {
+    "company_number": "17102089",
+    "company_name": "SEE IT SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Imperial Centre, Grange Road, Darlington, DL1 5NQ",
+    "officers": [
+      {
+        "name": "SIZER, Justin Roy",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Justin Roy Sizer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:29:51.572502"
+  },
+  "17102073": {
+    "company_number": "17102073",
+    "company_name": "AUTOPAY PROTOCOL LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "20 Cwrt Y Waun, Pontardawe, Swansea, SA8 4NW",
+    "officers": [
+      {
+        "name": "WILLIAMS, Kieran Marcus",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Kieran Marcus Williams",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:29:52.762209"
+  },
+  "17102085": {
+    "company_number": "17102085",
+    "company_name": "TRANSIVO LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "79110"
+    ],
+    "registered_address": "28 Summerlee Road, Birmingham, B24 9SY",
+    "officers": [
+      {
+        "name": "HANIF, Zeeshan",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Zeeshan Hanif",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:29:53.967746"
+  },
+  "17102078": {
+    "company_number": "17102078",
+    "company_name": "EMAZI LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "47710",
+      "47910",
+      "79120",
+      "85590"
+    ],
+    "registered_address": "Flat 3 Eustacia House 48a Waterpump Court, Northampton, NN3 8UR",
+    "officers": [
+      {
+        "name": "IHSAN MOHAMED, Ihsan Mohamed",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ihsan Mohamed Ihsan Mohamed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T22:29:55.167473"
   }
 }
