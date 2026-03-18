@@ -498013,5 +498013,157 @@
       }
     ],
     "fetched_at": "2026-03-17T23:53:00.327578"
+  },
+  "17098988": {
+    "company_number": "17098988",
+    "company_name": "SLATE CONSULTING GROUP LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "14 Bickerdike Avenue, Manchester, M12 5SZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Hannad Omer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Dutch",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T01:52:13.723655"
+  },
+  "17098987": {
+    "company_number": "17098987",
+    "company_name": "MAYPATT LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "68201",
+      "70229",
+      "74901",
+      "74909"
+    ],
+    "registered_address": "89 Don Street, Middleton, Manchester, M24 2ZD",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mrs Funmilola Patricia Ibidokun",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T01:52:14.965889"
+  },
+  "17098990": {
+    "company_number": "17098990",
+    "company_name": "AR MATRIX LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "1 Elm Avenue, Nottingham, NG3 4GF",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Ashish Arun Kumar Rai",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T01:52:16.170159"
+  },
+  "SC882815": {
+    "company_number": "SC882815",
+    "company_name": "JIGSAW STUDIO LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "8 Brotherton Forest, Livingston, EH54 9FP",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Ayden Alan Barnes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2007
+        }
+      },
+      {
+        "name": "Mr Sean Steen Higgins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 2007
+        }
+      },
+      {
+        "name": "Mr Waleed Hameed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2006
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T01:52:17.400328"
+  },
+  "17098991": {
+    "company_number": "17098991",
+    "company_name": "UK SOLACE PROPERTIES LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "68209",
+      "68310",
+      "79110"
+    ],
+    "registered_address": "25 Priory Road, London, NW6 4NN",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Tamerlan Piriyev",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Azerbaijani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T01:52:18.619556"
   }
 }
