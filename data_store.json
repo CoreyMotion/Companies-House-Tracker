@@ -498165,5 +498165,42 @@
       }
     ],
     "fetched_at": "2026-03-18T01:52:18.619556"
+  },
+  "17099000": {
+    "company_number": "17099000",
+    "company_name": "ZOOMIES TECHNOLOGY LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Flat 17 142 Wapping High Street, London, E1W 3PB",
+    "officers": [
+      {
+        "name": "WILKINS, Ryan David",
+        "role": "director",
+        "appointed_on": "2026-03-18",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ryan David Wilkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-18T03:24:38.058895"
   }
 }
