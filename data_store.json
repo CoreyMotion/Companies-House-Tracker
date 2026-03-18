@@ -498270,5 +498270,145 @@
     "officers": [],
     "pscs": [],
     "fetched_at": "2026-03-18T06:01:19.432362"
+  },
+  "17099032": {
+    "company_number": "17099032",
+    "company_name": "QUEST PARTNERS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "19 Great Winchester Street, London, EC2N 2JA",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:05.018558"
+  },
+  "17099056": {
+    "company_number": "17099056",
+    "company_name": "PSTG INVESTCO LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "6 Mitre Passage, Greenwich Peninsula, London, SE10 0ER",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:06.198245"
+  },
+  "17099033": {
+    "company_number": "17099033",
+    "company_name": "EMPIRE UK RENTALS (NEWCO2) LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "43 Brookside, Burbage, LE10 2TG",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:07.384040"
+  },
+  "17099044": {
+    "company_number": "17099044",
+    "company_name": "EATERIES GROUP LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70100",
+      "82990"
+    ],
+    "registered_address": "Second Floor, Sutherland House, 70-78 West Hendon Broadway, London, NW9 7BT",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:08.587156"
+  },
+  "17099043": {
+    "company_number": "17099043",
+    "company_name": "MHC SOLUTIONS LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "78109",
+      "78200",
+      "86900"
+    ],
+    "registered_address": "Unit 427, Bizspace Bedford Heights, Brickhill Dr., Bedford, MK41 7PH",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:09.777370"
+  },
+  "17099038": {
+    "company_number": "17099038",
+    "company_name": "EDENGRACE QUANTUM INTELLIGENCE LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120",
+      "70229",
+      "85600"
+    ],
+    "registered_address": "32 Windmill Rise, York, YO26 4TX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:10.977168"
+  },
+  "17099041": {
+    "company_number": "17099041",
+    "company_name": "VPMA TECHNOLOGY SERVICES LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "46510",
+      "62012",
+      "62020"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:12.189463"
+  },
+  "17099051": {
+    "company_number": "17099051",
+    "company_name": "OPSSYNTA LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "1 Firshill Glade, Sheffield, S4 7DX",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:13.424866"
+  },
+  "17099070": {
+    "company_number": "17099070",
+    "company_name": "CROME AVIATION LIMITED",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "25990"
+    ],
+    "registered_address": "Exchange House, St. Cross Lane, Newport, PO30 5BZ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:14.606879"
+  },
+  "17099058": {
+    "company_number": "17099058",
+    "company_name": "CUTTERSMATE CM LTD",
+    "date_of_creation": "2026-03-18",
+    "company_status": "active",
+    "sic_codes": [
+      "28990",
+      "32990"
+    ],
+    "registered_address": "6 Cragleas, Hobson, Newcastle Upon Tyne, NE16 6EH",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-18T06:38:15.777079"
   }
 }
