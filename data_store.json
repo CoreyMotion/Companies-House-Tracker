@@ -548603,5 +548603,161 @@
       }
     ],
     "fetched_at": "2026-03-19T20:32:58.985260"
+  },
+  "17104609": {
+    "company_number": "17104609",
+    "company_name": "PAULJANE GLOBAL LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82301",
+      "82302",
+      "85590"
+    ],
+    "registered_address": "16 Hood Avenue, Orpington, BR5 2EF",
+    "officers": [
+      {
+        "name": "GREGORY, Opeyemi Oluwafunmilayo",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Opeyemi Oluwafunmilayo Gregory",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:01:41.034025"
+  },
+  "17104603": {
+    "company_number": "17104603",
+    "company_name": "CADQUEST SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "4 Debnam Grove, Sittingbourne, ME10 3FN",
+    "officers": [
+      {
+        "name": "SOLOMON, Eric",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Eric Solomon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:01:42.231494"
+  },
+  "17104606": {
+    "company_number": "17104606",
+    "company_name": "AXICRON TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "71122",
+      "71200",
+      "72190"
+    ],
+    "registered_address": "2e Banyard Close, Cheltenham, GL51 7SX",
+    "officers": [
+      {
+        "name": "ESTEVES FIGUEIREDO, Rafael David",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Rafael David Esteves Figueiredo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:01:43.430677"
+  },
+  "17104612": {
+    "company_number": "17104612",
+    "company_name": "UNTANGLE UK PVT LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "103 Cannon Lane, Pinner, HA5 1HU",
+    "officers": [
+      {
+        "name": "DIXIT, Rachana",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Rachana Dixit",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:01:44.629505"
   }
 }
