@@ -548413,5 +548413,42 @@
       }
     ],
     "fetched_at": "2026-03-19T19:44:15.679841"
+  },
+  "17104576": {
+    "company_number": "17104576",
+    "company_name": "PLATINUM SHIFT LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "7 Harefield Road, Coventry, CV2 4DF",
+    "officers": [
+      {
+        "name": "NWACHUKWU, Chukwudi Nnanyelugo",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Chukwudi Nnanyelugo Nwachukwu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:59:00.718875"
   }
 }
