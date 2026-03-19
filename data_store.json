@@ -522729,5 +522729,279 @@
       }
     ],
     "fetched_at": "2026-03-18T23:50:08.376785"
+  },
+  "17102141": {
+    "company_number": "17102141",
+    "company_name": "NEXUS AMC LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "11 Market Hill, Saffron Walden, CB10 1HQ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Jonathan Greenaway",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:52.619969"
+  },
+  "17102145": {
+    "company_number": "17102145",
+    "company_name": "AY LEGAL LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "69109",
+      "70229",
+      "85590"
+    ],
+    "registered_address": "6 Dock Meadow Reach, London, W7 2QN",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Asli Yildiz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:53.864813"
+  },
+  "17102150": {
+    "company_number": "17102150",
+    "company_name": "TAXERA CONSULTING LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "70229",
+      "85590"
+    ],
+    "registered_address": "44 Broadway, London, E15 1XH",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr. Md Arifur Rahman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:55.129974"
+  },
+  "17102152": {
+    "company_number": "17102152",
+    "company_name": "BHAVSAR CONSULTANTS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Flat 881 40 South Way, Wembley, HA9 0TE",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Shahab Akbar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:56.345094"
+  },
+  "17102131": {
+    "company_number": "17102131",
+    "company_name": "TRUXEN LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "71122",
+      "78200"
+    ],
+    "registered_address": "17 Stanegate Avenue, Ingleby Barwick, Stockton-On-Tees, TS17 5JL",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Daniel Christopher French",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:57.592317"
+  },
+  "17102132": {
+    "company_number": "17102132",
+    "company_name": "BLESSMECHE HEALTHTECH LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "70229",
+      "86900"
+    ],
+    "registered_address": "2 Eyston Court, Tipton, DY4 8DP",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Jude Amechi Nnadi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:58.794343"
+  },
+  "17102135": {
+    "company_number": "17102135",
+    "company_name": "YDG CONSULTANCY LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "25 Montpelier Rise, London, NW11 9DT",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Yisroel Meir Ginsbury",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:52:59.998814"
+  },
+  "17102130": {
+    "company_number": "17102130",
+    "company_name": "XANADU NEURO-MOTIVES LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "85590",
+      "96090"
+    ],
+    "registered_address": "10 Byron Walk, Daventry, NN11 9AT",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Miss Laura Suzanna Ramsey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      },
+      {
+        "name": "Mr Harry Jack Thompson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:53:01.246661"
+  },
+  "17102151": {
+    "company_number": "17102151",
+    "company_name": "RJO EVANS GROUP LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "43210",
+      "64999",
+      "82990"
+    ],
+    "registered_address": "23 Damson Close, Red Lodge, Bury St. Edmunds, IP28 8FJ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Richard Evans",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:53:02.463755"
+  },
+  "17102127": {
+    "company_number": "17102127",
+    "company_name": "JPO BIM SERVICES LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "33 Northampton Lane North, Moulton, Northampton, NN3 7QY",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Junior Ogbamwen Ovbiebo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Spanish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T01:53:03.701058"
   }
 }
