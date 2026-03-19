@@ -549339,5 +549339,104 @@
       }
     ],
     "fetched_at": "2026-03-19T23:26:46.811000"
+  },
+  "17104690": {
+    "company_number": "17104690",
+    "company_name": "KONSTELLATION ADVISORY LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Konstellation Advisory, 25 Eccleston Place, London, SW1W 9NF",
+    "officers": [
+      {
+        "name": "JALBOUT, Karim",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Karim Jalbout",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T23:50:45.720926"
+  },
+  "17104684": {
+    "company_number": "17104684",
+    "company_name": "NATHANOAK LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "63120"
+    ],
+    "registered_address": "15 Money Mead, Dunstable, LU6 1FT",
+    "officers": [
+      {
+        "name": "ABRAHAM, Bijo Joseph",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1990
+        }
+      },
+      {
+        "name": "MONACHAN, Moncy",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Bijo Joseph Abraham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1990
+        }
+      },
+      {
+        "name": "Moncy Monachan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T23:50:46.903139"
   }
 }
