@@ -548759,5 +548759,159 @@
       }
     ],
     "fetched_at": "2026-03-19T21:01:44.629505"
+  },
+  "17104623": {
+    "company_number": "17104623",
+    "company_name": "CONNECT DUBAI LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "45112",
+      "68310",
+      "70229",
+      "82990"
+    ],
+    "registered_address": "344-354 Gray's Inn Road, London, WC1X 8BP",
+    "officers": [
+      {
+        "name": "AVAIZ, Omar",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2007
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Omar Avaiz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2007
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:32:15.663182"
+  },
+  "17104629": {
+    "company_number": "17104629",
+    "company_name": "ALANA JONES CONSULTING LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "71129",
+      "74909",
+      "78300"
+    ],
+    "registered_address": "198 Upper Eastern Green Lane, Coventry, CV5 7DP",
+    "officers": [
+      {
+        "name": "JONES, Alana Rachel",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Alana Rachel Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:32:16.890215"
+  },
+  "17104630": {
+    "company_number": "17104630",
+    "company_name": "MOSELEY LEDGER LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "58 Moorcroft Road, Moseley, Birmingham, B13 8LU",
+    "officers": [
+      {
+        "name": "TO, Quoc Oai",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Quoc Oai To",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:32:18.097599"
+  },
+  "17104632": {
+    "company_number": "17104632",
+    "company_name": "INSIGHTMESH LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "ZIEMBA, Arkadiusz",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1963
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Arkadiusz Ziemba",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1963
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T21:32:19.299720"
   }
 }
