@@ -546335,5 +546335,483 @@
       }
     ],
     "fetched_at": "2026-03-19T16:55:08.632231"
+  },
+  "17104419": {
+    "company_number": "17104419",
+    "company_name": "OAMKAAR HOLDINGS LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "27 Old Gloucester Street, London, WC1N 3AX",
+    "officers": [
+      {
+        "name": "PATEL, Dipti Veeren",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Nilesh Karia",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Ms Dipti Veeren Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:27.800421"
+  },
+  "17104409": {
+    "company_number": "17104409",
+    "company_name": "FOOTSTEPS HOLDINGS NORTH WEST LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "C/O Roca Accountants Limited Floor 4, Centenary House, Centenary Way, Manchester, M50 1RF",
+    "officers": [
+      {
+        "name": "BIRKETT, Martin Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Martin Anthony Birkett",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:29.028164"
+  },
+  "17104360": {
+    "company_number": "17104360",
+    "company_name": "SPRING CORE SOLUTION LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "69202",
+      "70229",
+      "82110"
+    ],
+    "registered_address": "49 Stainburn Close, Worcester, WR2 5QJ",
+    "officers": [
+      {
+        "name": "PIEKARCZYK, Elzbieta",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Elzbieta Piekarczyk",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:30.240127"
+  },
+  "17104425": {
+    "company_number": "17104425",
+    "company_name": "RYSSK LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "66 Paul Street, London, EC2A 4NA",
+    "officers": [
+      {
+        "name": "KHAN, Mohammed",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Khan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:31.454056"
+  },
+  "17104387": {
+    "company_number": "17104387",
+    "company_name": "SUMMIT WITH MARK LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "85510",
+      "86900"
+    ],
+    "registered_address": "11 Manor Road, Wendover, Aylesbury, HP22 6HL",
+    "officers": [
+      {
+        "name": "BRISTOW, Mark John, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Mark John Bristow",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:32.655686"
+  },
+  "17104392": {
+    "company_number": "17104392",
+    "company_name": "CRESTELO LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "56290",
+      "70229",
+      "82990"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "CHIDIPOTHU, Vinay Kumar",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vinay Kumar Chidipothu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:33.836163"
+  },
+  "17104376": {
+    "company_number": "17104376",
+    "company_name": "GROVES GARDENING & MAINTENANCE LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "74909",
+      "81300"
+    ],
+    "registered_address": "1st Floor, 6-7 Clock Park, Shripney Road, Bognor Regis, PO22 9NH",
+    "officers": [
+      {
+        "name": "GROVES, Christopher Mark",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Christopher Mark Groves",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:35.024150"
+  },
+  "17104389": {
+    "company_number": "17104389",
+    "company_name": "BLOO-MIND AI LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "58142",
+      "62012",
+      "62020",
+      "85590"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "CHANG, Benjamin Tzu Yueh",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2004
+        }
+      },
+      {
+        "name": "ZHANG, De, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr De Zhang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:36.251881"
+  },
+  "17104429": {
+    "company_number": "17104429",
+    "company_name": "NOWALI LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "61 Bridge Street, Kington, HR5 3DJ",
+    "officers": [
+      {
+        "name": "JOHANSSON, Julia",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Swedish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Julia Johansson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Swedish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:37.422544"
+  },
+  "17104371": {
+    "company_number": "17104371",
+    "company_name": "MMG LABS LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "82a James Carter Road, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "MCGEE, Martin",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Irish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Martin Mcgee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Irish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:38.623209"
+  },
+  "17104431": {
+    "company_number": "17104431",
+    "company_name": "EXPRESS PROPERTY COMPLIANCE LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "71200"
+    ],
+    "registered_address": "23 Charter Street, Leicester, LE1 3UD",
+    "officers": [
+      {
+        "name": "THAKKAR, Utkarsh Maheshbhai",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Utkarsh Maheshbhai Thakkar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:39.868835"
+  },
+  "17104414": {
+    "company_number": "17104414",
+    "company_name": "SIMON LAW TOURS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "79901"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "LAW, Simon",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1964
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Simon Law",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1964
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:30:41.079901"
   }
 }
