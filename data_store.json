@@ -523130,5 +523130,44 @@
       }
     ],
     "fetched_at": "2026-03-19T03:25:36.336272"
+  },
+  "17102168": {
+    "company_number": "17102168",
+    "company_name": "SAJADVISORY LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "71122",
+      "74902"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "SHAFIQ, Zareena",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Zareena Shafiq",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T05:09:49.014204"
   }
 }
