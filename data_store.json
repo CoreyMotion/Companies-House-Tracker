@@ -524482,5 +524482,444 @@
       }
     ],
     "fetched_at": "2026-03-19T07:45:22.940258"
+  },
+  "17102316": {
+    "company_number": "17102316",
+    "company_name": "EONE LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "70229"
+    ],
+    "registered_address": "19 The Circle Queen Elizabeth Street, London, SE1 2JE",
+    "officers": [
+      {
+        "name": "SASSETTI, Simone",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Italian",
+        "country_of_residence": "Italy",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Simone Sassetti",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "Italy",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:05.651585"
+  },
+  "17102323": {
+    "company_number": "17102323",
+    "company_name": "MESA CORP LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "68209"
+    ],
+    "registered_address": "Community House, Badger Street, Bury, BL9 6AD",
+    "officers": [
+      {
+        "name": "WADE, Russell",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Russell Wade",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:06.854114"
+  },
+  "17102310": {
+    "company_number": "17102310",
+    "company_name": "AB ACCOUNTANCY SOUTH WEST HOLDINGS LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64205"
+    ],
+    "registered_address": "Office 19 Manor Offices, North Road, Holsworthy, EX22 6DJ",
+    "officers": [
+      {
+        "name": "ATHERTON, Jamie Shane",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      },
+      {
+        "name": "BUCKPITT, David John",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David John Buckpitt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1988
+        }
+      },
+      {
+        "name": "Mr Jamie Shane Atherton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:08.024523"
+  },
+  "17102326": {
+    "company_number": "17102326",
+    "company_name": "CARTER PROJECT SERVICES LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82110",
+      "82990"
+    ],
+    "registered_address": "23 Dallam Way, Whitehaven, CA28 9SF",
+    "officers": [
+      {
+        "name": "CARTER, Lauren Ashleigh",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Lauren Ashleigh Carter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:09.233950"
+  },
+  "17102290": {
+    "company_number": "17102290",
+    "company_name": "SUCCESS 4 GROWTH LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "SHAW, Emma Jane",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Emma Jane Shaw",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:10.528502"
+  },
+  "17102296": {
+    "company_number": "17102296",
+    "company_name": "VALIN PARTNERS LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "46190",
+      "62020",
+      "70229",
+      "74909"
+    ],
+    "registered_address": "61 Amhurst Road, Capital Houseunit 832 Ground Floor, London, E8 1LL",
+    "officers": [
+      {
+        "name": "HUANG, Yaping",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Chinese",
+        "country_of_residence": "China",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Yaping Huang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "Chinese",
+        "country_of_residence": "China",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:11.739216"
+  },
+  "17102303": {
+    "company_number": "17102303",
+    "company_name": "MEDICUS SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "The Willows Water Lane, Somerford Keynes, Cirencester, GL7 6DS",
+    "officers": [
+      {
+        "name": "NAZIR, Mohammed Anjam",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Anjam Nazir",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1966
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:12.916759"
+  },
+  "17102328": {
+    "company_number": "17102328",
+    "company_name": "SPATIQ LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "71122",
+      "72190"
+    ],
+    "registered_address": "19 Lichfield Gardens, Richmond, TW9 1AP",
+    "officers": [
+      {
+        "name": "SAMIE, Tina",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Iranian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Tina Samie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Iranian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:14.153767"
+  },
+  "17102293": {
+    "company_number": "17102293",
+    "company_name": "BECKLEY BAKE BOX LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "10710"
+    ],
+    "registered_address": "Pippins Main Street, Beckley, Rye, TN31 6RJ",
+    "officers": [
+      {
+        "name": "SPICE, Teresa Elizabeth",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Teresa Elizabeth Spice",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1969
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:15.370277"
+  },
+  "17102308": {
+    "company_number": "17102308",
+    "company_name": "BOOKKEEPING SIMPLE LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "Barnhouse, Ingmanthorpe Hall Farm, York Road, Wetherby, LS22 5EQ",
+    "officers": [
+      {
+        "name": "WAINWRIGHT, Iris Marion",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1957
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Iris Marion Wainwright",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1957
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:16.515258"
+  },
+  "17102314": {
+    "company_number": "17102314",
+    "company_name": "RICHARD FENNA SURVEYS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "74901"
+    ],
+    "registered_address": "8 Redruth Drive, Carnforth, LA5 9TT",
+    "officers": [
+      {
+        "name": "FENNA, Richard",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Richard Fenna",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T08:04:17.743699"
   }
 }
