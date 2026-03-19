@@ -524434,5 +524434,53 @@
       }
     ],
     "fetched_at": "2026-03-19T07:31:34.189844"
+  },
+  "NI738955": {
+    "company_number": "NI738955",
+    "company_name": "274SYCAMORES LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "31 Mill Street, Irvinestown, Enniskillen, BT94 1GR",
+    "officers": [
+      {
+        "name": "SHANNON, Mary Frances",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Irish",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Mary Frances Shannon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Irish",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1968
+        }
+      },
+      {
+        "name": "Mr Leighton Joseph Gerard Shannon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "Northern Irish",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 2,
+          "year": 2013
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T07:45:22.940258"
   }
 }
