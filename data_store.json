@@ -549223,5 +549223,121 @@
       }
     ],
     "fetched_at": "2026-03-19T22:53:24.007137"
+  },
+  "17104678": {
+    "company_number": "17104678",
+    "company_name": "NORVIND ADVISORY LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70221",
+      "70229"
+    ],
+    "registered_address": "6 Matheson Road, London, W14 8SW",
+    "officers": [
+      {
+        "name": "DROULERS, Frederic Jacques Marie",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1964
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Frederic Jacques Marie Droulers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1964
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T23:26:44.457765"
+  },
+  "17104676": {
+    "company_number": "17104676",
+    "company_name": "TECH INTEGRA LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "33200",
+      "46690",
+      "62012",
+      "80200"
+    ],
+    "registered_address": "Flat 10 Emer Court, 1 Rowland Road, London, N17 7AW",
+    "officers": [
+      {
+        "name": "LOHIA, Neeraj",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Neeraj Lohia",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T23:26:45.621306"
+  },
+  "17104671": {
+    "company_number": "17104671",
+    "company_name": "GALACTIK LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090"
+    ],
+    "registered_address": "133 Chase Side, London, N14 5HD",
+    "officers": [
+      {
+        "name": "DONNELLY, Jamie",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jamie Donnelly",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T23:26:46.811000"
   }
 }
