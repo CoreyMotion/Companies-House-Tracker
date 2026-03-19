@@ -548146,5 +548146,272 @@
       }
     ],
     "fetched_at": "2026-03-19T19:26:29.591302"
+  },
+  "17104571": {
+    "company_number": "17104571",
+    "company_name": "ELEVATE WITH EM LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "86900"
+    ],
+    "registered_address": "2 Lulworth Gardens, Sibsey, Boston, PE22 0BQ",
+    "officers": [
+      {
+        "name": "MURFIN, Emily Ann",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Emily Ann Murfin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:08.481796"
+  },
+  "17104568": {
+    "company_number": "17104568",
+    "company_name": "CIBES RESEARCH CENTRE LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "58110",
+      "70229",
+      "72200",
+      "82302"
+    ],
+    "registered_address": "276 Chase Road, Suite 7-0030 Lonsto House, London, N14 6HA",
+    "officers": [
+      {
+        "name": "AYDIN, Erhan, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Turkish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Erhan Aydin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Turkish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:09.679746"
+  },
+  "17104570": {
+    "company_number": "17104570",
+    "company_name": "BOWER WORKS LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "29 Pether Avenue, Brackley, NN13 6NJ",
+    "officers": [
+      {
+        "name": "BOWER, Michael Laurence",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Michael Laurence Bower",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:10.883262"
+  },
+  "17104562": {
+    "company_number": "17104562",
+    "company_name": "ELKANO PARTNERS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "29 D'Arblay Street, London, W1F 8EP",
+    "officers": [
+      {
+        "name": "REY NIELLA, Estefania Maria",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Spanish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Estefania Maria Rey Niella",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Spanish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:12.090668"
+  },
+  "17104564": {
+    "company_number": "17104564",
+    "company_name": "PRIVASEER LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "College House, 17 King Edwards Road, Ruislip, HA4 7AE",
+    "officers": [
+      {
+        "name": "SINGH, Jaspreet",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jaspreet Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:13.284399"
+  },
+  "17104572": {
+    "company_number": "17104572",
+    "company_name": "MAREMMA TO GO LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120",
+      "82990"
+    ],
+    "registered_address": "Flat 3 Liberty Court, 31 Christchurch Road, Bournemouth, BH1 3NS",
+    "officers": [
+      {
+        "name": "ERCOLE, Gianmarco",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Gianmarco Ercole",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:14.477602"
+  },
+  "17104565": {
+    "company_number": "17104565",
+    "company_name": "MATCHMAKER SOFTWARE GROUP LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "1102 Bristol Road South, Northfield, Birmingham, B31 2RE",
+    "officers": [
+      {
+        "name": "CROWTHER, John Henry",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1953
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr John Henry Crowther",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1953
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T19:44:15.679841"
   }
 }
