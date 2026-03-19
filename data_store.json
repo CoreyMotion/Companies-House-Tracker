@@ -546813,5 +546813,401 @@
       }
     ],
     "fetched_at": "2026-03-19T17:30:41.079901"
+  },
+  "17104451": {
+    "company_number": "17104451",
+    "company_name": "CTE HOLDINGS GROUP LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "13 Kestrel Close, Shenfield, Brentwood, CM15 8FL",
+    "officers": [
+      {
+        "name": "ELLIS, Chyna Talia",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Chyna Talia Ellis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:00.271841"
+  },
+  "17104450": {
+    "company_number": "17104450",
+    "company_name": "FNAF HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Suite 6, The Workshop, Wharf Road, Eastbourne, BN21 3FG",
+    "officers": [
+      {
+        "name": "BAKER, Daniel",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1989
+        }
+      },
+      {
+        "name": "VISICK, Jack Hedley",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jack Hedley Visick",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1988
+        }
+      },
+      {
+        "name": "Mr Daniel Baker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:01.499122"
+  },
+  "17104474": {
+    "company_number": "17104474",
+    "company_name": "ECONERGY UK HOLD CO 2 LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "1st Floor 76-80 Old Broad Street, London, EC2M 1QP",
+    "officers": [
+      {
+        "name": "SHAPIRA, Yoav",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Israeli",
+        "country_of_residence": "Israel",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Econergy Uk Hold Co 1 Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:02.671687"
+  },
+  "17104478": {
+    "company_number": "17104478",
+    "company_name": "THE DRAGOWOMAN LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Bruce Lodge Bishopton Lane, Bishopton, Stratford-Upon-Avon, CV37 9QY",
+    "officers": [
+      {
+        "name": "MUSETTI, Elizabeth Jean",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Elizabeth Jean Musetti",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:03.864595"
+  },
+  "17104443": {
+    "company_number": "17104443",
+    "company_name": "SAMUEL ODIWE LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70210",
+      "70229",
+      "73200"
+    ],
+    "registered_address": "39 Hird Avenue, Market Weighton, York, YO43 3RS",
+    "officers": [
+      {
+        "name": "ODIWE, Nnamdi Samuel",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Nnamdi Samuel Odiwe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:05.068464"
+  },
+  "17104467": {
+    "company_number": "17104467",
+    "company_name": "BOYWITHPEAR LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Flat 2 Pandangle House, 270 Kingsland Road, London, E8 4DG",
+    "officers": [
+      {
+        "name": "BALLE, Catherine Maree",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "New Zealander",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Catherine Maree Balle",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "New Zealander",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:06.268039"
+  },
+  "17104454": {
+    "company_number": "17104454",
+    "company_name": "TINY TEAM MARKETING LTD.",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "70210",
+      "70229",
+      "73110"
+    ],
+    "registered_address": "Forma House, 40 Bowling Green Lane, London, EC1R 0NE",
+    "officers": [
+      {
+        "name": "GARCIA GAMBLE, Gemma",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Gemma Garcia Gamble",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:07.462015"
+  },
+  "17104468": {
+    "company_number": "17104468",
+    "company_name": "IK GROWTHNEST LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "84120",
+      "85600"
+    ],
+    "registered_address": "Fairlawn First Floor, High Street, Southall, UB1 3HB",
+    "officers": [
+      {
+        "name": "KHAN, Ibrar Muhammad",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Irish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ibrar Muhammad Khan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Irish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:08.663159"
+  },
+  "17104453": {
+    "company_number": "17104453",
+    "company_name": "SPS IT TECHNOLOGIES LIMITED",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Apartment 3 Calder Court, Town Hall Street East, Halifax, HX1 1UU",
+    "officers": [
+      {
+        "name": "MATHYAMALA, Soumya",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Soumya Mathyamala",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:09.867991"
+  },
+  "17104447": {
+    "company_number": "17104447",
+    "company_name": "MAKEADISH LTD",
+    "date_of_creation": "2026-03-19",
+    "company_status": "active",
+    "sic_codes": [
+      "63120"
+    ],
+    "registered_address": "15 Lockheed Street, Weston Turville, Aylesbury, HP22 3BA",
+    "officers": [
+      {
+        "name": "SOMANCHI, Vamshi",
+        "role": "director",
+        "appointed_on": "2026-03-19",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vamshi Somanchi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-19T17:52:11.066861"
   }
 }
