@@ -549612,5 +549612,260 @@
       }
     ],
     "fetched_at": "2026-03-20T05:49:41.789641"
+  },
+  "17104717": {
+    "company_number": "17104717",
+    "company_name": "COWLING GROUP LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "40 St James Buildings, St James Street, Taunton, TA1 1JR",
+    "officers": [
+      {
+        "name": "COWLING, Jane",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      },
+      {
+        "name": "COWLING, Mark",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mark Cowling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Mrs Jane Cowling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T06:49:45.883392"
+  },
+  "17104735": {
+    "company_number": "17104735",
+    "company_name": "3AV LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "2nd Floor, 10-12 Bourlet Close, London, W1W 7BR",
+    "officers": [
+      {
+        "name": "CARRILLO-CARDONA, Javier",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      },
+      {
+        "name": "CASTLE, Daniel Ian",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1981
+        }
+      },
+      {
+        "name": "EVEREST, Ben",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1977
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ben Everest",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1977
+        }
+      },
+      {
+        "name": "Mr Daniel Ian Castle",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1981
+        }
+      },
+      {
+        "name": "Mr Javier Carrillo-Cardona",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T06:49:47.088006"
+  },
+  "17104736": {
+    "company_number": "17104736",
+    "company_name": "GENIALIS GLOBAL LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "20 Wenlock Road, London, N1 7GU",
+    "officers": [
+      {
+        "name": "ENRIQUEZ URIBE, Fabio Alberto",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Fabio Alberto Enriquez Uribe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T06:49:48.294969"
+  },
+  "17104730": {
+    "company_number": "17104730",
+    "company_name": "MORALE JET PARTNERS LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "46140",
+      "49320",
+      "52230",
+      "70229"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "OMEKE, Daniel",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Daniel Omeke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T06:49:49.479066"
+  },
+  "17104740": {
+    "company_number": "17104740",
+    "company_name": "EVOLVE PEPTIDES LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "72110"
+    ],
+    "registered_address": "Wharf Lane Stables, Grafton Road, Towcester, NN12 7UE",
+    "officers": [
+      {
+        "name": "BARNARD, Matthew James",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Matthew James Barnard",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T06:49:50.664657"
   }
 }
