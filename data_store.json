@@ -573130,5 +573130,255 @@
       }
     ],
     "fetched_at": "2026-03-20T17:59:21.662162"
+  },
+  "SC883306": {
+    "company_number": "SC883306",
+    "company_name": "MITCHELL WEALTH LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "51 Eden Terrace, Dundee, DD4 6JG",
+    "officers": [
+      {
+        "name": "MITCHELL, Kevin",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Kevin Mitchell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T18:42:09.770174"
+  },
+  "17107131": {
+    "company_number": "17107131",
+    "company_name": "VESTED AS LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Monymusk Barn, Holt Lane, Hook, RG27 9ES",
+    "officers": [
+      {
+        "name": "PLAYER, Stuart David",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1970
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Stuart David Player",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T18:42:10.968164"
+  },
+  "17107134": {
+    "company_number": "17107134",
+    "company_name": "QUOTEGUARD LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "63120"
+    ],
+    "registered_address": "13 Robin Close, Worcester, WR5 3LS",
+    "officers": [
+      {
+        "name": "HIRSCHFIELD, Brandon Frank Henry",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2002
+        }
+      },
+      {
+        "name": "WOOTTON, Samuel Joseph",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Samuel Joseph Wootton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2002
+        }
+      },
+      {
+        "name": "Mr Brandon Frank Henry Hirschfield",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T18:42:12.188982"
+  },
+  "17107141": {
+    "company_number": "17107141",
+    "company_name": "HOMEEASE FULFILMENT LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "52103",
+      "62012",
+      "82920"
+    ],
+    "registered_address": "Flat 7 Peakes House, 1 Cairns Avenue, London, SW16 5ER",
+    "officers": [
+      {
+        "name": "DIXIT, Pallavi",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Pallavi Dixit",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T18:42:13.368724"
+  },
+  "17107146": {
+    "company_number": "17107146",
+    "company_name": "REQUITER GROUP LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "82920"
+    ],
+    "registered_address": "47 Townsgate Way, Irlam, Manchester, M44 6RW",
+    "officers": [
+      {
+        "name": "NOMAN, Muhammad",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Muhammad Noman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T18:42:14.580579"
+  },
+  "17107145": {
+    "company_number": "17107145",
+    "company_name": "AS EV SOLUTIONS LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "26110"
+    ],
+    "registered_address": "16 Sixpence Close, Coventry, CV4 8HL",
+    "officers": [
+      {
+        "name": "SHOKER, Arran Singh",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2004
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Arran Singh Shoker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2004
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T18:42:15.758200"
   }
 }
