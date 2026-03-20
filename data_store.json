@@ -573745,5 +573745,42 @@
       }
     ],
     "fetched_at": "2026-03-20T19:53:27.491413"
+  },
+  "17107185": {
+    "company_number": "17107185",
+    "company_name": "FORGESPHERE SOLUTIONS LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "9 Egmont House, Alicia Crescent, Newport, NP20 2LH",
+    "officers": [
+      {
+        "name": "CLARKE, Daniel",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Daniel Clarke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T20:27:58.279195"
   }
 }
