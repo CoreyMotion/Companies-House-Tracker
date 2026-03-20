@@ -573380,5 +573380,42 @@
       }
     ],
     "fetched_at": "2026-03-20T18:42:15.758200"
+  },
+  "17107148": {
+    "company_number": "17107148",
+    "company_name": "KAREN CREED TRAVEL LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "79909"
+    ],
+    "registered_address": "18 Bradshaw Way, Gainsborough, DN21 1WT",
+    "officers": [
+      {
+        "name": "CREED, Karen Jane",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Karen Jane Creed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T19:10:18.595464"
   }
 }
