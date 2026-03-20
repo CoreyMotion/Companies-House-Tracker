@@ -549438,5 +549438,63 @@
       }
     ],
     "fetched_at": "2026-03-19T23:50:46.903139"
+  },
+  "17104699": {
+    "company_number": "17104699",
+    "company_name": "SAWA CONSULTANCY LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Flat 1 198 St. John Street, London, EC1V 4JY",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Sawa Hospitality Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-20T01:47:17.566374"
+  },
+  "17104703": {
+    "company_number": "17104703",
+    "company_name": "RUNESTONEOS LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Woodcroft Penwarne Road, Mawnan Smith, Falmouth, TR11 5PQ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Alexander James Hill",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      },
+      {
+        "name": "Mr Anthony Pilling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T01:47:18.752130"
   }
 }
