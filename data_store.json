@@ -574140,5 +574140,43 @@
       }
     ],
     "fetched_at": "2026-03-20T21:27:06.083766"
+  },
+  "17107220": {
+    "company_number": "17107220",
+    "company_name": "THETRADECOVER LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120"
+    ],
+    "registered_address": "10 Flemming Way, Witham, CM8 2GL",
+    "officers": [
+      {
+        "name": "ANDERSON, Frank John",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Frank John Anderson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T21:51:27.898507"
   }
 }
