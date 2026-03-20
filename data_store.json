@@ -573993,5 +573993,152 @@
       }
     ],
     "fetched_at": "2026-03-20T20:55:32.486705"
+  },
+  "17107210": {
+    "company_number": "17107210",
+    "company_name": "TENTDEMO SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "22 Swiftsure Drive, Brooklands, Milton Keynes, MK10 7LS",
+    "officers": [
+      {
+        "name": "SOYEMI, Busayo Oladimeji",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Busayo Oladimeji Soyemi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T21:27:02.497875"
+  },
+  "17107214": {
+    "company_number": "17107214",
+    "company_name": "EUNOPHARM LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "37 Summerlands Road, Fair Oak, Eastleigh, SO50 7AU",
+    "officers": [
+      {
+        "name": "JONES, Elizabeth Anne Blanche",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Elizabeth Anne Blanche Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T21:27:03.688652"
+  },
+  "17107216": {
+    "company_number": "17107216",
+    "company_name": "RESOLVN LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "34 Rolls Park Road, London, E4 9BH",
+    "officers": [
+      {
+        "name": "ARUCAJ, Leutrim",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Leutrim Arucaj",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T21:27:04.884117"
+  },
+  "17107212": {
+    "company_number": "17107212",
+    "company_name": "MY CLUB CASH BACK BWFC LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "63120",
+      "73110",
+      "82990"
+    ],
+    "registered_address": "317 Golden Hill Lane, Leyland, PR25 2YJ",
+    "officers": [
+      {
+        "name": "LEE, Shaun Craig",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "My Club Cash Back Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-20T21:27:06.083766"
   }
 }
