@@ -573782,5 +573782,216 @@
       }
     ],
     "fetched_at": "2026-03-20T20:27:58.279195"
+  },
+  "17107200": {
+    "company_number": "17107200",
+    "company_name": "AIRE VALLEY ACCESS & VISUALS LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "43999",
+      "70229",
+      "71200",
+      "74202"
+    ],
+    "registered_address": "59 Crownest Road, Bingley, BD16 4HQ",
+    "officers": [
+      {
+        "name": "TOMKINS, Owen David",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Owen David Tomkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T20:55:27.682076"
+  },
+  "17107204": {
+    "company_number": "17107204",
+    "company_name": "SPRING LEAVES LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "30 Wingfield Street, London, SE15 4LN",
+    "officers": [
+      {
+        "name": "THULESEN, Thomas",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Danish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Thomas Thulesen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Danish",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T20:55:28.889046"
+  },
+  "17107198": {
+    "company_number": "17107198",
+    "company_name": "EA IT LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "3a Springfield Park, Buckfastleigh, TQ11 0LL",
+    "officers": [
+      {
+        "name": "AUSTIN, Emlyn Hollister Gareth",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Emlyn Hollister Gareth Austin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T20:55:30.090043"
+  },
+  "17107195": {
+    "company_number": "17107195",
+    "company_name": "REGULUSCOREAI LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Flat 77 Carrara Wharf, Ranelagh Gardens, London, SW6 3UE",
+    "officers": [
+      {
+        "name": "MARTIN, Graham",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1957
+        }
+      },
+      {
+        "name": "SWEET, Jonathan Whinfield",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Graham Martin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1957
+        }
+      },
+      {
+        "name": "Jonathan Whinfield Sweet",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T20:55:31.287266"
+  },
+  "17107197": {
+    "company_number": "17107197",
+    "company_name": "CENTRE FOR SUSTAINABILITY INTELLIGENCE AND ENVIRONMENTAL RESEARCH LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "72190",
+      "74901"
+    ],
+    "registered_address": "96 Broadstone Way, Bradford, BD4 9BL",
+    "officers": [
+      {
+        "name": "ADEJOBI, Mayowa John",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mayowa John Adejobi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T20:55:32.486705"
   }
 }
