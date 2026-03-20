@@ -574178,5 +574178,161 @@
       }
     ],
     "fetched_at": "2026-03-20T21:51:27.898507"
+  },
+  "17107227": {
+    "company_number": "17107227",
+    "company_name": "OJ DELUCE TECHNICAL SERVICES LTD",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "15 Windward Avenue, Fleetwood, FY7 6FE",
+    "officers": [
+      {
+        "name": "DELUCE, Oliver James",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2003
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Oliver James Deluce",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2003
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T22:24:29.939193"
+  },
+  "17107225": {
+    "company_number": "17107225",
+    "company_name": "INCODESOFT LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "43 Upper Abbey Road, Belvedere, DA17 5AE",
+    "officers": [
+      {
+        "name": "CESAR CAHUANA, Alex Gerson",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Peruvian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Alex Gerson Cesar Cahuana",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Peruvian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T22:24:31.140930"
+  },
+  "17107231": {
+    "company_number": "17107231",
+    "company_name": "DOVEY DELIGHT LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "10710",
+      "47910",
+      "56290",
+      "96090"
+    ],
+    "registered_address": "121 Broadstone Way, Bradford, BD4 9BJ",
+    "officers": [
+      {
+        "name": "OYELEKE, Tinuade Oluwaseun",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Tinuade Oluwaseun Oyeleke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T22:24:32.328876"
+  },
+  "17107236": {
+    "company_number": "17107236",
+    "company_name": "ERNSHIA GROUP LIMITED",
+    "date_of_creation": "2026-03-20",
+    "company_status": "active",
+    "sic_codes": [
+      "55100",
+      "79110",
+      "79120",
+      "79909"
+    ],
+    "registered_address": "2 Fryday Street, Leadenhall, Milton Keynes, MK6 5LT",
+    "officers": [
+      {
+        "name": "AKTER, Shammi",
+        "role": "director",
+        "appointed_on": "2026-03-20",
+        "nationality": "Bangladeshi",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Shammi Akter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Bangladeshi",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-20T22:24:33.539674"
   }
 }
