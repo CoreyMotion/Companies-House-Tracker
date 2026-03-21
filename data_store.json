@@ -577467,5 +577467,117 @@
       }
     ],
     "fetched_at": "2026-03-21T21:45:11.254408"
+  },
+  "17107605": {
+    "company_number": "17107605",
+    "company_name": "M A BIRCH HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "243 Berechurch Hall Road, Colchester, CO2 9NP",
+    "officers": [
+      {
+        "name": "BIRCH, Matthew Antony",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Matthew Antony Birch",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T22:20:36.503374"
+  },
+  "17107612": {
+    "company_number": "17107612",
+    "company_name": "BEEPMEAPP LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "61 Greenhill Park, Bishop's Stortford, CM23 4EW",
+    "officers": [
+      {
+        "name": "ANDONE, Biatrice Loredana",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Biatrice Loredana Andone",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T22:20:37.715689"
+  },
+  "17107610": {
+    "company_number": "17107610",
+    "company_name": "WHATS GOING ON LONDON LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "LIZIO, Philip James",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Australian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Philip James Lizio",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Australian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T22:20:38.932074"
   }
 }
