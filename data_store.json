@@ -574594,5 +574594,45 @@
       }
     ],
     "fetched_at": "2026-03-21T06:38:14.483456"
+  },
+  "17107277": {
+    "company_number": "17107277",
+    "company_name": "HYWPODUCTS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "13950",
+      "22290",
+      "46499",
+      "47910"
+    ],
+    "registered_address": "124 Keir Hardie Way, Barking, IG11 9NX",
+    "officers": [
+      {
+        "name": "THOMPSON, Olawale Yusuf",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Olawale Yusuf Thompson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T07:07:23.226909"
   }
 }
