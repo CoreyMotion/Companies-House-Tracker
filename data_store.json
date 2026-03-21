@@ -574849,5 +574849,43 @@
       }
     ],
     "fetched_at": "2026-03-21T09:52:32.968520"
+  },
+  "17107308": {
+    "company_number": "17107308",
+    "company_name": "DAVE BOXALL CYBER RESILIENCE CONSULTING LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "70229"
+    ],
+    "registered_address": "10 Normandy Drive, Berkhamsted, HP4 1JW",
+    "officers": [
+      {
+        "name": "BOXALL, David Andrew",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David Andrew Boxall",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1969
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T10:22:52.998940"
   }
 }
