@@ -577579,5 +577579,121 @@
       }
     ],
     "fetched_at": "2026-03-21T22:20:38.932074"
+  },
+  "17107613": {
+    "company_number": "17107613",
+    "company_name": "VESTARA SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "70229",
+      "82110"
+    ],
+    "registered_address": "27 Norfolk Road, Reading, RG30 2EG",
+    "officers": [
+      {
+        "name": "EDWARDS, Benjamin Luke",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Benjamin Luke Edwards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T22:48:16.919435"
+  },
+  "17107614": {
+    "company_number": "17107614",
+    "company_name": "HARRISON ADVISORY LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "211 Manchester New Road, Middleton, Manchester, M24 1JT",
+    "officers": [
+      {
+        "name": "HARRISON, Darren Nicholas",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Darren Nicholas Harrison",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T22:48:18.097965"
+  },
+  "17107616": {
+    "company_number": "17107616",
+    "company_name": "EARTHFIX LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "41100",
+      "63110",
+      "72190",
+      "85600"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "EKECHUKWU, Chinedu Francis",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Chinedu Francis Ekechukwu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T22:48:19.320139"
   }
 }
