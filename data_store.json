@@ -574520,5 +574520,42 @@
       }
     ],
     "fetched_at": "2026-03-20T23:49:50.085757"
+  },
+  "SC883314": {
+    "company_number": "SC883314",
+    "company_name": "ARB TRADING SOLUTIONS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "10 Cheviot Gardens, Glasgow, G61 4QS",
+    "officers": [
+      {
+        "name": "BURKE, Ross",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ross Burke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T03:06:29.749327"
   }
 }
