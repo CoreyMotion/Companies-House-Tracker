@@ -577020,5 +577020,117 @@
       }
     ],
     "fetched_at": "2026-03-21T19:21:25.885933"
+  },
+  "SC883330": {
+    "company_number": "SC883330",
+    "company_name": "BONAFIED CARS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "12 Broomhill Crescent, Stonehaven, AB39 3UZ",
+    "officers": [
+      {
+        "name": "DAVEY, Carl Michael",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Carl Michael Davey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T19:43:59.614086"
+  },
+  "17107554": {
+    "company_number": "17107554",
+    "company_name": "TIRVENK TECHNOLOGY LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "6 Dawson Gardens, Barking, IG11 9QH",
+    "officers": [
+      {
+        "name": "GOPU, Sai Santhosh",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sai Santhosh Gopu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T19:44:00.838494"
+  },
+  "17107549": {
+    "company_number": "17107549",
+    "company_name": "DATA SENTINEL LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "28 Mayfield Road, Manchester, M16 8EU",
+    "officers": [
+      {
+        "name": "MOHAMED, Ziad Elwalid Ali",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Sudanese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2003
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ziad Elwalid Ali Mohamed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Sudanese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 2003
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T19:44:02.108850"
   }
 }
