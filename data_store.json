@@ -575803,5 +575803,42 @@
       }
     ],
     "fetched_at": "2026-03-21T12:39:24.419105"
+  },
+  "17107388": {
+    "company_number": "17107388",
+    "company_name": "AJ ECOLOGY SERVICES LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "74901"
+    ],
+    "registered_address": "34 Highbank Avenue, Blackpool, FY4 4PR",
+    "officers": [
+      {
+        "name": "COWDEN, Aaron James",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Aaron James Cowden",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T13:15:54.533798"
   }
 }
