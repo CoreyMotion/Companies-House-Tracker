@@ -574887,5 +574887,196 @@
       }
     ],
     "fetched_at": "2026-03-21T10:22:52.998940"
+  },
+  "17107313": {
+    "company_number": "17107313",
+    "company_name": "STRUCTURAX LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "71122",
+      "72190"
+    ],
+    "registered_address": "27 Midland Avenue, Nottingham, NG7 2FD",
+    "officers": [
+      {
+        "name": "GAMRA, Ali, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Ali Gamra",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T10:50:23.658888"
+  },
+  "17107316": {
+    "company_number": "17107316",
+    "company_name": "NRR CONSULTING LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "2 Groveland Road, Beckenham, BR3 3QA",
+    "officers": [
+      {
+        "name": "RAHMAN, Nihadur",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Nihadur Rahman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T10:50:24.870289"
+  },
+  "SC883317": {
+    "company_number": "SC883317",
+    "company_name": "LINC LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "63110"
+    ],
+    "registered_address": "18 Young Street, Office 336, Edinburgh, EH2 4JB",
+    "officers": [
+      {
+        "name": "ARIBA, Sunday Samuel",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Nigerian",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sunday Samuel Ariba",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T10:50:26.056619"
+  },
+  "17107310": {
+    "company_number": "17107310",
+    "company_name": "BEST APP SERVICES LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "The Copper Room, Trinity Way, Salford, M3 7BG",
+    "officers": [
+      {
+        "name": "GOLOMBECK, Alexander Paul",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alexander Paul Golombeck",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T10:50:27.281229"
+  },
+  "17107314": {
+    "company_number": "17107314",
+    "company_name": "MCH FUTURES LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "64999"
+    ],
+    "registered_address": "38 Amherst Road, Sevenoaks, TN13 3LS",
+    "officers": [
+      {
+        "name": "HULBERT, Max Cameron",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Max Cameron Hulbert",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T10:50:28.479236"
   }
 }
