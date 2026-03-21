@@ -576467,5 +576467,85 @@
       }
     ],
     "fetched_at": "2026-03-21T15:46:40.349091"
+  },
+  "17107467": {
+    "company_number": "17107467",
+    "company_name": "VARTOLOGY LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "43320",
+      "43390",
+      "70229",
+      "74909"
+    ],
+    "registered_address": "6 Rowton Thorpe, Bradford, BD10 0DT",
+    "officers": [
+      {
+        "name": "VARTOLOMEI, Nicolae",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Nicolae Vartolomei",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T16:24:49.730566"
+  },
+  "17107463": {
+    "company_number": "17107463",
+    "company_name": "RUTH TAYLOR LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70210",
+      "70229",
+      "72200",
+      "85590"
+    ],
+    "registered_address": "30 Manor Lane, London, SE13 5QP",
+    "officers": [
+      {
+        "name": "TAYLOR, Ruth Simone",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Ruth Simone Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T16:24:50.927036"
   }
 }
