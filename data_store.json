@@ -574557,5 +574557,42 @@
       }
     ],
     "fetched_at": "2026-03-21T03:06:29.749327"
+  },
+  "17107275": {
+    "company_number": "17107275",
+    "company_name": "HASJM HOLDING LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "2 Mostyn Close, Stoke-On-Trent, ST8 7XD",
+    "officers": [
+      {
+        "name": "MORRIS, Simon John",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Simon John Morris",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1969
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T06:38:14.483456"
   }
 }
