@@ -576635,5 +576635,79 @@
       }
     ],
     "fetched_at": "2026-03-21T16:52:42.623571"
+  },
+  "17107502": {
+    "company_number": "17107502",
+    "company_name": "KJL SAFETY & HEALTH SOLUTIONS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "15 Carr Lane, Goole, DN14 6LY",
+    "officers": [
+      {
+        "name": "LOCKWOOD, Kathleen Myra",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1970
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Kathleen Myra Lockwood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T17:22:49.879824"
+  },
+  "17107489": {
+    "company_number": "17107489",
+    "company_name": "VOLTA ENERGY TECHNOLOGIES LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "76 Ronver Road, London, SE12 0NJ",
+    "officers": [
+      {
+        "name": "OSMAN, Nafisah Awudu",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Nafisah Awudu Osman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T17:22:51.032183"
   }
 }
