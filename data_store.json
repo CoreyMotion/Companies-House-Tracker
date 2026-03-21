@@ -576048,5 +576048,116 @@
       }
     ],
     "fetched_at": "2026-03-21T13:40:16.303347"
+  },
+  "17107407": {
+    "company_number": "17107407",
+    "company_name": "ALISON FINCH LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "8 Kings Close, Henley-On-Thames, RG9 2DS",
+    "officers": [
+      {
+        "name": "FINCH, Alison Claire",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Alison Claire Finch",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1966
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T13:57:01.546489"
+  },
+  "17107401": {
+    "company_number": "17107401",
+    "company_name": "ATLAS HORIZON TRAVEL LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "79110"
+    ],
+    "registered_address": "Cold Harbour Farm Bedford Road, Old Warden, Biggleswade, SG18 9FE",
+    "officers": [
+      {
+        "name": "CHODHA, Saran",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Saran Chodha",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T13:57:02.816094"
+  },
+  "17107402": {
+    "company_number": "17107402",
+    "company_name": "AALMA LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "147 King Henrys Road, Garden Flat, London, NW3 3RD",
+    "officers": [
+      {
+        "name": "RICCOBONO, Alycia Kate",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Alycia Kate Riccobono",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T13:57:04.060875"
   }
 }
