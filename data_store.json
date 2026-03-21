@@ -577695,5 +577695,42 @@
       }
     ],
     "fetched_at": "2026-03-21T22:48:19.320139"
+  },
+  "17107635": {
+    "company_number": "17107635",
+    "company_name": "EXIT VANTAGE UK LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "1 Grove Way, Uxbridge, UB8 1QP",
+    "officers": [
+      {
+        "name": "HOODA, Deepak",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1977
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Deepak Hooda",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T23:45:32.583259"
   }
 }
