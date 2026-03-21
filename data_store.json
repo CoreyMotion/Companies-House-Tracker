@@ -574634,5 +574634,42 @@
       }
     ],
     "fetched_at": "2026-03-21T07:07:23.226909"
+  },
+  "17107288": {
+    "company_number": "17107288",
+    "company_name": "S AND G CONSULTANTS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "The Old Stables New Road, Woolley, Wakefield, WF4 2JN",
+    "officers": [
+      {
+        "name": "GAMBLE, Steven Barry",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Steven Barry Gamble",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T08:55:07.016427"
   }
 }
