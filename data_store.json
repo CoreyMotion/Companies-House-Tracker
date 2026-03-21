@@ -577331,5 +577331,103 @@
       }
     ],
     "fetched_at": "2026-03-21T20:22:17.806946"
+  },
+  "17107576": {
+    "company_number": "17107576",
+    "company_name": "AURESTONE HOLDING LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "WIDDOWS, George John",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2000
+        }
+      },
+      {
+        "name": "WIDDOWS, Mark",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1962
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr George John Widdows",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2000
+        }
+      },
+      {
+        "name": "Mr Mark Widdows",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1962
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T20:48:24.641984"
+  },
+  "17107572": {
+    "company_number": "17107572",
+    "company_name": "BHANDARIKP LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "52290",
+      "70229"
+    ],
+    "registered_address": "30 Douglas Avenue, Wembley, HA0 4DT",
+    "officers": [
+      {
+        "name": "BHANDARI, Krunal Rajesh",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Krunal Rajesh Bhandari",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Portuguese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T20:48:25.860443"
   }
 }
