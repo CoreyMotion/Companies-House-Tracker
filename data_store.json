@@ -577429,5 +577429,43 @@
       }
     ],
     "fetched_at": "2026-03-21T20:48:25.860443"
+  },
+  "17107598": {
+    "company_number": "17107598",
+    "company_name": "COLT MARKETING LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73110"
+    ],
+    "registered_address": "22 Hera Close, Southend-On-Sea, SS2 4GP",
+    "officers": [
+      {
+        "name": "KORANTENG, Deborah Nana Yaa Asaa",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Deborah Nana Yaa Asaa Koranteng",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T21:45:11.254408"
   }
 }
