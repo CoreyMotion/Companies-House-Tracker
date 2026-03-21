@@ -576709,5 +576709,42 @@
       }
     ],
     "fetched_at": "2026-03-21T17:22:51.032183"
+  },
+  "17107514": {
+    "company_number": "17107514",
+    "company_name": "JEFF GASCOYNE ADVISORY SERVICES LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Songbirds, Rotherfield Lane, Mayfield, TN20 6ET",
+    "officers": [
+      {
+        "name": "GASCOYNE, Jeffrey James",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jeffrey James Gascoyne",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T17:47:36.822585"
   }
 }
