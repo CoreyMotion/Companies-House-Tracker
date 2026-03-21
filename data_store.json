@@ -575078,5 +575078,330 @@
       }
     ],
     "fetched_at": "2026-03-21T10:50:28.479236"
+  },
+  "SC883319": {
+    "company_number": "SC883319",
+    "company_name": "SELLER EXITS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "5 South Charlotte Street, Edinburgh, EH2 4AN",
+    "officers": [
+      {
+        "name": "TAYLOR, Paul William",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Paul William Taylor",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:18.407659"
+  },
+  "17107323": {
+    "company_number": "17107323",
+    "company_name": "PAYBACKER LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "63990",
+      "82990"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "AIREY, Paul",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Paul Airey",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:19.602734"
+  },
+  "17107331": {
+    "company_number": "17107331",
+    "company_name": "TOADLY LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "COLLETT, Karl John",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Karl John Collett",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:20.824196"
+  },
+  "17107327": {
+    "company_number": "17107327",
+    "company_name": "SHCH STUDIO LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "14 Summit Way, London, N14 7NL",
+    "officers": [
+      {
+        "name": "TOSHCHAKOVA, Olga",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Russian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Olga Toshchakova",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Russian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:22.012743"
+  },
+  "17107319": {
+    "company_number": "17107319",
+    "company_name": "GLOBAL ELECTRONIC TECHNOLOGY SYSTEMS LIMITED",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "85590",
+      "85600"
+    ],
+    "registered_address": "5 Burkitts Court, Burkitts Lane, Sudbury, CO10 1HB",
+    "officers": [
+      {
+        "name": "GWISHIRI, Anotida Melvin",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Zimbabwean",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2007
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Melvin Luckystone Gwishiri",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent",
+        "nationality": "Zimbabwean",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:23.211266"
+  },
+  "SC883318": {
+    "company_number": "SC883318",
+    "company_name": "GRAHAM TECHNICAL SERVICES LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "34 Greenpark Drive, Falkirk, FK2 0QA",
+    "officers": [
+      {
+        "name": "GRAHAM, Eden",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Eden Graham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:24.404637"
+  },
+  "17107324": {
+    "company_number": "17107324",
+    "company_name": "SERIES SYNC LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "MACFARLANE, George Andrew",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr George Andrew Macfarlane",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:25.608011"
+  },
+  "17107321": {
+    "company_number": "17107321",
+    "company_name": "MURPHY FAMILY HOLDINGS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "MURPHY, Emma Charlotte",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1971
+        }
+      },
+      {
+        "name": "MURPHY, Gavin Jay",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Emma Charlotte Murphy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Mr Gavin Jay Murphy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:20:26.813221"
   }
 }
