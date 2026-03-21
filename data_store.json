@@ -575403,5 +575403,119 @@
       }
     ],
     "fetched_at": "2026-03-21T11:20:26.813221"
+  },
+  "17107332": {
+    "company_number": "17107332",
+    "company_name": "THE OAK BUREAU LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "168a Hoylake Road, Wirral, CH46 8TQ",
+    "officers": [
+      {
+        "name": "PARK, Christopher Charles",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Christopher Charles Park",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:43:20.820259"
+  },
+  "17107346": {
+    "company_number": "17107346",
+    "company_name": "CREW SUPPLY LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "43320",
+      "62012",
+      "74100",
+      "82990"
+    ],
+    "registered_address": "29 Hawkes Road, Mitcham, CR4 3JJ",
+    "officers": [
+      {
+        "name": "VENTURA JUNIOR, Ademir Onildo",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "Brazilian,Luxembourger",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ademir Onildo Ventura Junior",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Brazilian,Luxembourger",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:43:22.021060"
+  },
+  "17107341": {
+    "company_number": "17107341",
+    "company_name": "OXMACH LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "72190"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "NEWMAN, Felix Jonathan Weerasinghe",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Felix Jonathan Weerasinghe Newman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T11:43:23.220996"
   }
 }
