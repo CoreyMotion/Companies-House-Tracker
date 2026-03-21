@@ -576983,5 +576983,42 @@
       }
     ],
     "fetched_at": "2026-03-21T18:58:58.360336"
+  },
+  "17107543": {
+    "company_number": "17107543",
+    "company_name": "SYDEONE LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Flat 24 Fordington House, Sydenham Hill, London, SE26 6TX",
+    "officers": [
+      {
+        "name": "MARDLING, Paul Richard",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Paul Richard Mardling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T19:21:25.885933"
   }
 }
