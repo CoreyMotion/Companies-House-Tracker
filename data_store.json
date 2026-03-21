@@ -577132,5 +577132,204 @@
       }
     ],
     "fetched_at": "2026-03-21T19:44:02.108850"
+  },
+  "17107561": {
+    "company_number": "17107561",
+    "company_name": "VECOOH PARTNERS LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "70229",
+      "74909",
+      "82990"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "AROWOLO, Bukola Harriet",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1985
+        }
+      },
+      {
+        "name": "BAMGBOWU, Olugbena Vincent",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      },
+      {
+        "name": "IBIAMA, Omuso Ernest",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1970
+        }
+      },
+      {
+        "name": "MAYAKI, Onaivi Tokunbo",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1978
+        }
+      },
+      {
+        "name": "OGBECHIE, Olisa",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      },
+      {
+        "name": "ONUOHA, Chigozie Ben-Collins",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [],
+    "fetched_at": "2026-03-21T20:22:14.212959"
+  },
+  "17107563": {
+    "company_number": "17107563",
+    "company_name": "PULSEAPP LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Flat 207 Hoey Court 4 Barry Blandford Way, London, E3 3TR",
+    "officers": [
+      {
+        "name": "PICKERING, Joseph Ryan",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Joseph Ryan Pickering",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T20:22:15.413190"
+  },
+  "17107562": {
+    "company_number": "17107562",
+    "company_name": "MUTHR LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "59200",
+      "63120",
+      "73120"
+    ],
+    "registered_address": "3 Malkin Way, Watford, WD18 7AT",
+    "officers": [
+      {
+        "name": "SYLVESTER, Michael Ashley James",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michael Ashley James Sylvester",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T20:22:16.633854"
+  },
+  "17107567": {
+    "company_number": "17107567",
+    "company_name": "SOLIHULL SPOTLIGHT LTD",
+    "date_of_creation": "2026-03-21",
+    "company_status": "active",
+    "sic_codes": [
+      "58190",
+      "63120",
+      "70210",
+      "73110"
+    ],
+    "registered_address": "1711 High Street, Solihull, B93 0LN",
+    "officers": [
+      {
+        "name": "MARKHAM, Max William",
+        "role": "director",
+        "appointed_on": "2026-03-21",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Max William Markham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-21T20:22:17.806946"
   }
 }
