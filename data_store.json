@@ -578295,5 +578295,82 @@
       }
     ],
     "fetched_at": "2026-03-22T10:24:03.221165"
+  },
+  "17107712": {
+    "company_number": "17107712",
+    "company_name": "LEAKSOLVE AI LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "29 Oakley Street, Kettering, NN16 9DR",
+    "officers": [
+      {
+        "name": "SMITH, Harry Oliver",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Harry Oliver Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T10:52:04.516780"
+  },
+  "17107703": {
+    "company_number": "17107703",
+    "company_name": "BIOSHIELD SERVICES LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "38220",
+      "39000",
+      "74901",
+      "81222"
+    ],
+    "registered_address": "70 Admiralty Street, Keyham, Plymouth, PL2 2BS",
+    "officers": [
+      {
+        "name": "DUKE, Lee Richard",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Lee Richard Duke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T10:52:05.716151"
   }
 }
