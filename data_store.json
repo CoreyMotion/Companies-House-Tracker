@@ -577933,5 +577933,42 @@
       }
     ],
     "fetched_at": "2026-03-22T07:12:42.901843"
+  },
+  "17107678": {
+    "company_number": "17107678",
+    "company_name": "HUMAN EVOLVED AI LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "2 Westgate, Grantham, NG31 6LT",
+    "officers": [
+      {
+        "name": "DEELEY, Andrew William",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1967
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Andrew William Deeley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1967
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T08:56:46.261782"
   }
 }
