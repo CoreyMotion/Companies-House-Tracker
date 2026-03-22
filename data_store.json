@@ -577970,5 +577970,82 @@
       }
     ],
     "fetched_at": "2026-03-22T08:56:46.261782"
+  },
+  "NI739051": {
+    "company_number": "NI739051",
+    "company_name": "ARDAN VENTURES LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "64999",
+      "70229"
+    ],
+    "registered_address": "Suite 6 129 University Street, Belfast, BT7 1HP",
+    "officers": [
+      {
+        "name": "GAFFNEY, Mark",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "Irish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mark Gaffney",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Irish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T09:29:08.819577"
+  },
+  "17107685": {
+    "company_number": "17107685",
+    "company_name": "ENABLEAI LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "35 Corfton Road, London, W5 2HP",
+    "officers": [
+      {
+        "name": "SAPORTA, Harry Albert",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Harry Albert Saporta",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T09:29:09.993949"
   }
 }
