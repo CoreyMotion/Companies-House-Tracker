@@ -578372,5 +578372,255 @@
       }
     ],
     "fetched_at": "2026-03-22T10:52:05.716151"
+  },
+  "17107721": {
+    "company_number": "17107721",
+    "company_name": "COBLEY CO LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "COBLEY, Thomas Richard Samuel",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Thomas Richard Samuel Cobley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T11:21:02.303480"
+  },
+  "17107730": {
+    "company_number": "17107730",
+    "company_name": "CHORLEYWOOD GROWTH PARTNERS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "74909"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "BANWAIT, Jagjit Singh",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jagjit Singh Banwait",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T11:21:03.497350"
+  },
+  "17107723": {
+    "company_number": "17107723",
+    "company_name": "SIMPLAIFY.AI LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "YASIR, Muhammad Musa",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Muhammad Musa Yasir",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T11:21:04.696968"
+  },
+  "17107714": {
+    "company_number": "17107714",
+    "company_name": "PENNY SOLUTIONS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "20 Elizabeth Way, Northampton, NN6 0LE",
+    "officers": [
+      {
+        "name": "GOSSAGE, Andrew Roy",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Andrew Roy Gossage",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T11:21:05.896525"
+  },
+  "17107727": {
+    "company_number": "17107727",
+    "company_name": "CHLOCAM LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "26701",
+      "62012"
+    ],
+    "registered_address": "10 Mauduit Road, Hanslope, Milton Keynes, MK19 7NJ",
+    "officers": [
+      {
+        "name": "CHINNERY, Craig Richard",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Craig Richard Chinnery",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T11:21:07.105525"
+  },
+  "SC883338": {
+    "company_number": "SC883338",
+    "company_name": "HEART TO HEART TRAVEL & TREATS LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "47789",
+      "47910",
+      "79909",
+      "90020"
+    ],
+    "registered_address": "1/8 Calder Place, Edinburgh, EH11 4LR",
+    "officers": [
+      {
+        "name": "NKOSI, Nomahlubi Gladness",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "South African",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1984
+        }
+      },
+      {
+        "name": "NYIAM, Jaden Joseph",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British,South African",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2008
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Nomahlubi Gladness Nkosi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "South African",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1984
+        }
+      },
+      {
+        "name": "Mr Jaden Joseph Nyiam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,South African",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2008
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T11:21:08.298421"
   }
 }
