@@ -580903,5 +580903,154 @@
       }
     ],
     "fetched_at": "2026-03-22T19:00:36.008454"
+  },
+  "17107969": {
+    "company_number": "17107969",
+    "company_name": "VALECORE LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "42 Caerau Road, Newport, NP20 4HH",
+    "officers": [
+      {
+        "name": "MURPHY, Billy Joe",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Billy Joe Murphy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T19:23:04.231208"
+  },
+  "17107972": {
+    "company_number": "17107972",
+    "company_name": "CYMARA LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "74901",
+      "74909"
+    ],
+    "registered_address": "4 Heol-Y-Bardd, Bridgend, CF31 4SS",
+    "officers": [
+      {
+        "name": "RICHARDS, David Owen",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "David Owen Richards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T19:23:05.424487"
+  },
+  "17107964": {
+    "company_number": "17107964",
+    "company_name": "INFOVATE CONSULTING LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "The Laurels Broad Bush, Blunsdon, Swindon, SN26 7DH",
+    "officers": [
+      {
+        "name": "HEMUS, Rajvinder Kaur",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Rajvinder Kaur Hemus",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; ownership-of-shares-75-to-100-percent-as-firm; voting-rights-75-to-100-percent; voting-rights-75-to-100-percent-as-firm; right-to-appoint-and-remove-directors; right-to-appoint-and-remove-directors-as-firm",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1968
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T19:23:06.612738"
+  },
+  "17107965": {
+    "company_number": "17107965",
+    "company_name": "SAVE MY BUSINESS LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "3 Anderson Court, Newnham Road, Cambridge, CB3 9EZ",
+    "officers": [
+      {
+        "name": "WOOD, David Michael",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1961
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David Michael Wood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1961
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T19:23:07.822805"
   }
 }
