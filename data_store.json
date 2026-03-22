@@ -579046,5 +579046,217 @@
       }
     ],
     "fetched_at": "2026-03-22T12:41:42.804163"
+  },
+  "17107783": {
+    "company_number": "17107783",
+    "company_name": "ORANGE ROSE ACCOUNTING LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "70221"
+    ],
+    "registered_address": "3 School Lane, Fenstanton, Huntingdon, PE28 9JR",
+    "officers": [
+      {
+        "name": "ASHMORE, Rebecca Holly",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Rebecca Holly Ashmore",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T13:25:20.900789"
+  },
+  "17107773": {
+    "company_number": "17107773",
+    "company_name": "BURAQ TECH LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "8 Tudor Drive, Oadby, Leicester, LE2 4NP",
+    "officers": [
+      {
+        "name": "GANDHI, Mohsin",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1999
+        }
+      },
+      {
+        "name": "IBRAHIM, Mahomed Arshad Altaf",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mahomed Arshad Altaf Ibrahim",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1991
+        }
+      },
+      {
+        "name": "Mr Mohsin Gandhi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T13:25:22.118096"
+  },
+  "17107778": {
+    "company_number": "17107778",
+    "company_name": "HOURS MEDIA LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "59112",
+      "62012",
+      "62020",
+      "73110"
+    ],
+    "registered_address": "40a Rutland Road, London, E7 8PH",
+    "officers": [
+      {
+        "name": "DAS, Lipton Kumar Deb",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "Bangladeshi",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Lipton Kumar Deb Das",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Bangladeshi",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T13:25:23.303122"
+  },
+  "SC883343": {
+    "company_number": "SC883343",
+    "company_name": "SGB CONSULTANTS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "9 Scotsmill Gardens, Blackburn, Aberdeen, AB21 0GA",
+    "officers": [
+      {
+        "name": "GOODWIN, Scott",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Scott Goodwin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T13:25:24.511767"
+  },
+  "17107782": {
+    "company_number": "17107782",
+    "company_name": "BOXSMIITH LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "53 Burnaby Street, Derby, DE24 8RN",
+    "officers": [
+      {
+        "name": "CROFT, Jonathan Leslie",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jonathan Leslie Croft",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T13:25:25.702903"
   }
 }
