@@ -577784,5 +577784,42 @@
       }
     ],
     "fetched_at": "2026-03-22T01:52:35.656440"
+  },
+  "17107653": {
+    "company_number": "17107653",
+    "company_name": "AUDIBEAR LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "44 Maxstoke Street, Birmingham, B9 4JQ",
+    "officers": [
+      {
+        "name": "HOU, Jeffrey Sin-Hang",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Jeffrey Sin-Hang Hou",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T03:24:48.657306"
   }
 }
