@@ -581052,5 +581052,42 @@
       }
     ],
     "fetched_at": "2026-03-22T19:23:07.822805"
+  },
+  "17107980": {
+    "company_number": "17107980",
+    "company_name": "GPB LABS LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "32990"
+    ],
+    "registered_address": "Unit 2 Queens Square, Lyndhurst Road, Ascot, SL5 9FE",
+    "officers": [
+      {
+        "name": "BAHATI, Gracia",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Gracia Bahati",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T19:45:23.620542"
   }
 }
