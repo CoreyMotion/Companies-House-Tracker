@@ -580081,5 +580081,123 @@
       }
     ],
     "fetched_at": "2026-03-22T16:26:00.192104"
+  },
+  "17107875": {
+    "company_number": "17107875",
+    "company_name": "BISHOP EVIDENCE ADVISORY LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "70210",
+      "70229",
+      "72200",
+      "74909"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "BISHOP, Christine Frances, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Christine Frances Bishop",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T16:53:08.552157"
+  },
+  "17107886": {
+    "company_number": "17107886",
+    "company_name": "MFO COACHING LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "70229",
+      "85590"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "FAUX, Emma Jane",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Emma Jane Faux",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T16:53:09.763622"
+  },
+  "17107882": {
+    "company_number": "17107882",
+    "company_name": "FEATHERSTONE OPTIMA LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "69201",
+      "70229"
+    ],
+    "registered_address": "19 Rodnall Close, Aylesbury, HP19 9BJ",
+    "officers": [
+      {
+        "name": "FEATHERSTONE, Anna",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Anna Featherstone",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T16:53:10.968249"
   }
 }
