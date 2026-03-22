@@ -577858,5 +577858,80 @@
       }
     ],
     "fetched_at": "2026-03-22T05:51:45.985476"
+  },
+  "17107666": {
+    "company_number": "17107666",
+    "company_name": "NEW CIRCLE UK LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "74909",
+      "90030"
+    ],
+    "registered_address": "4 Cranes Farm Road, Basildon, SS14 3JJ",
+    "officers": [
+      {
+        "name": "BRABBS, Victoria Constance Mary",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Victoria Constance Mary Brabbs",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T07:12:41.701871"
+  },
+  "17107665": {
+    "company_number": "17107665",
+    "company_name": "XOMALLS LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "63120"
+    ],
+    "registered_address": "38 Holme Park Avenue, Chesterfield, S41 8XB",
+    "officers": [
+      {
+        "name": "PRICE, Philip Brookhouse",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Philip Brookhouse Price",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T07:12:42.901843"
   }
 }
