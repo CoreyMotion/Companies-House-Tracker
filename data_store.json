@@ -579635,5 +579635,119 @@
       }
     ],
     "fetched_at": "2026-03-22T14:52:01.804208"
+  },
+  "17107847": {
+    "company_number": "17107847",
+    "company_name": "L GREENAWAY STERLING LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "11 Market Hill, Saffron Walden, CB10 1HQ",
+    "officers": [
+      {
+        "name": "GREENAWAY, Lewis Jordan",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 2007
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Lewis Jordan Greenaway",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 2007
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T15:22:44.830182"
+  },
+  "17107843": {
+    "company_number": "17107843",
+    "company_name": "CIVIC CORES LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "63110"
+    ],
+    "registered_address": "69 Evelyn Avenue, London, NW9 0JF",
+    "officers": [
+      {
+        "name": "HUSSAIN, Qais",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Qais Hussain",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T15:22:46.038932"
+  },
+  "17107838": {
+    "company_number": "17107838",
+    "company_name": "RICHWORKS AI LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Apartment 51 Britannia Mills, 11 Hulme Hall Road, Manchester, M15 4LA",
+    "officers": [
+      {
+        "name": "JONES, Richard Christopher Dean Reece",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Richard Christopher Dean Reece Jones",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T15:22:47.265071"
   }
 }
