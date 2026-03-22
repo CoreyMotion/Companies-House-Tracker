@@ -577732,5 +577732,57 @@
       }
     ],
     "fetched_at": "2026-03-21T23:45:32.583259"
+  },
+  "17107639": {
+    "company_number": "17107639",
+    "company_name": "MACKIE AI ENTERPRISES LIMITED LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "70100"
+    ],
+    "registered_address": "62 Ringley Road, Horsham, RH12 4AT",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr James Scott Mackie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T01:52:34.460340"
+  },
+  "17107646": {
+    "company_number": "17107646",
+    "company_name": "MOMENTUM FOCUS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "47410",
+      "62012"
+    ],
+    "registered_address": "312 Brentwood Road, Romford, RM2 5TB",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Darius Kolycius",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Lithuanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T01:52:35.656440"
   }
 }
