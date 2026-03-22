@@ -581755,5 +581755,66 @@
       }
     ],
     "fetched_at": "2026-03-22T22:22:06.328938"
+  },
+  "17108053": {
+    "company_number": "17108053",
+    "company_name": "YKE LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "68100",
+      "68209"
+    ],
+    "registered_address": "9 Bassett Gardens, North Weald, Epping, CM16 6DB",
+    "officers": [
+      {
+        "name": "ELTEREFI, Kathy Sue-Ann",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1987
+        }
+      },
+      {
+        "name": "ELTEREFI, Yousif",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Kathy Sue-Ann Elterefi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1987
+        }
+      },
+      {
+        "name": "Mr Yousif Elterefi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T22:49:59.146288"
   }
 }
