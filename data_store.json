@@ -581594,5 +581594,117 @@
       }
     ],
     "fetched_at": "2026-03-22T21:22:53.845144"
+  },
+  "17108035": {
+    "company_number": "17108035",
+    "company_name": "OPPORTUNITY BRIDGE LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82301"
+    ],
+    "registered_address": "167-169 Great Portland Street, 5th Floor, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "JAAN, Gauher",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British,Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Gauher Jaan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T21:47:24.570618"
+  },
+  "17108039": {
+    "company_number": "17108039",
+    "company_name": "SNEWCO LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "ZHANG, Xi",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Xi Zhang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T21:47:25.772407"
+  },
+  "17108036": {
+    "company_number": "17108036",
+    "company_name": "CLARK BIOINSIGHTS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "72110"
+    ],
+    "registered_address": "54 Wolds Drive, Nottingham, NG12 5FX",
+    "officers": [
+      {
+        "name": "CLARK, Kristopher Andrew",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Kristopher Andrew Clark",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T21:47:26.963903"
   }
 }
