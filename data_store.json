@@ -577821,5 +577821,42 @@
       }
     ],
     "fetched_at": "2026-03-22T03:24:48.657306"
+  },
+  "17107661": {
+    "company_number": "17107661",
+    "company_name": "MC GEOCONSULTING LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "2 Buckingham Drive, Harrietsham, Maidstone, ME17 1GF",
+    "officers": [
+      {
+        "name": "CORRY, Morwenna Keren",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Morwenna Keren Corry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T05:51:45.985476"
   }
 }
