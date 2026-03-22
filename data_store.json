@@ -579446,5 +579446,194 @@
       }
     ],
     "fetched_at": "2026-03-22T14:24:54.443487"
+  },
+  "17107835": {
+    "company_number": "17107835",
+    "company_name": "PEDESTRIAN PROJECTS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "27a Castellain Road, London, W9 1EY",
+    "officers": [
+      {
+        "name": "DAVIS, Robert Heinrich Johannes",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "German",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Robert Heinrich Johannes Davis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "German",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T14:51:57.064470"
+  },
+  "NI739053": {
+    "company_number": "NI739053",
+    "company_name": "DORO CREATIVE LIMITED",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "2a Whitehill Road, Carnlough, Ballymena, BT44 0HF",
+    "officers": [
+      {
+        "name": "HENRY, Eimear Frances",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Eimear Frances Henry",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T14:51:58.197309"
+  },
+  "17107833": {
+    "company_number": "17107833",
+    "company_name": "AEVOS OS LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "63110"
+    ],
+    "registered_address": "27a The Parkway, Canvey Island, SS8 0AQ",
+    "officers": [
+      {
+        "name": "GOLDBERG, Chayim",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Chayim Goldberg",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T14:51:59.394959"
+  },
+  "17107830": {
+    "company_number": "17107830",
+    "company_name": "ELEVE CREATIVE LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "59112",
+      "62012",
+      "73110",
+      "74100"
+    ],
+    "registered_address": "32 West Bar Street, Banbury, OX16 9RR",
+    "officers": [
+      {
+        "name": "BROWNE, Darius Turnel",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Eleve Group Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-22T14:52:00.596871"
+  },
+  "17107828": {
+    "company_number": "17107828",
+    "company_name": "REEF AVALANCHE LTD",
+    "date_of_creation": "2026-03-22",
+    "company_status": "active",
+    "sic_codes": [
+      "20590",
+      "32990",
+      "47760"
+    ],
+    "registered_address": "32 Lansdowne Road, Lowestoft, NR33 7ER",
+    "officers": [
+      {
+        "name": "MINNEY, Kevin Peter",
+        "role": "director",
+        "appointed_on": "2026-03-22",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Kevin Peter Minney",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-22T14:52:01.804208"
   }
 }
