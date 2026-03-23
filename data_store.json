@@ -581931,5 +581931,234 @@
       }
     ],
     "fetched_at": "2026-03-23T05:20:32.878461"
+  },
+  "17108114": {
+    "company_number": "17108114",
+    "company_name": "AUTO FORGE SYSTEMS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "C/O Irwin Mitchell Llp The Northcliffe, 28 Tudor Street, London, EC4Y 0AY",
+    "officers": [
+      {
+        "name": "WATKIN, Jonathan Peter",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Hong Kong",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1956
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jonathan Peter Watkin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Hong Kong",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1956
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T06:46:06.495619"
+  },
+  "17108115": {
+    "company_number": "17108115",
+    "company_name": "ENA 96 HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "17 Old Park Lane, London, W1K 1QT",
+    "officers": [
+      {
+        "name": "CHANDRIS, Dimitri John",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dimitri John Chandris",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T06:46:07.687225"
+  },
+  "17108126": {
+    "company_number": "17108126",
+    "company_name": "PIE2GROUP LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "64209",
+      "70100"
+    ],
+    "registered_address": "82a James Carter Road, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "CHESTERMAN, Ashley William",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ashley William Chesterman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T06:46:08.890293"
+  },
+  "17108128": {
+    "company_number": "17108128",
+    "company_name": "CSAC SERVICES UK LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "85590",
+      "85600"
+    ],
+    "registered_address": "14 Llantwit Road, Treforest, Pontypridd, CF37 1TR",
+    "officers": [
+      {
+        "name": "KEMMER-AMODA, Laura Jane",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Laura Jane Kemmer-Amoda",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T06:46:10.084600"
+  },
+  "17108142": {
+    "company_number": "17108142",
+    "company_name": "TEKRECRUITER LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "SMITH, Roneo Hans Laurent",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Roneo Hans Laurent Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "American",
+        "country_of_residence": "United States",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T06:46:11.288352"
+  },
+  "17108118": {
+    "company_number": "17108118",
+    "company_name": "TERRADATUM ENVIRONMENTAL INTELLIGENCE LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "63110",
+      "74901"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "ADKINS, Rod",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Rod Adkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1968
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T06:46:12.491422"
   }
 }
