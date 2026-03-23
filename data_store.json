@@ -616440,5 +616440,232 @@
       }
     ],
     "fetched_at": "2026-03-23T21:00:42.648505"
+  },
+  "17111571": {
+    "company_number": "17111571",
+    "company_name": "GOKAY HOLDING LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "29 Chalford Road, London, SE21 8BX",
+    "officers": [
+      {
+        "name": "KURTULDUM, Gokay",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Gokay Kurtuldum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:33:08.962868"
+  },
+  "17111585": {
+    "company_number": "17111585",
+    "company_name": "BROOKLANDS MEDIA GROUP LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73110"
+    ],
+    "registered_address": "23 Barley Avenue, Pocklington, York, YO42 2RW",
+    "officers": [
+      {
+        "name": "CLUBLEY OWEN, Richard Oliver",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Richard Oliver Clubley Owen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:33:10.158761"
+  },
+  "17111556": {
+    "company_number": "17111556",
+    "company_name": "NK LABS TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "11 Tyrell Gardens, Windsor, SL4 4DH",
+    "officers": [
+      {
+        "name": "KIDD, Niall Andre",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Niall Andre Kidd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:33:11.412873"
+  },
+  "17111557": {
+    "company_number": "17111557",
+    "company_name": "WAFFLE TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "20 Vineyard Hill Road, London, SW19 7JH",
+    "officers": [
+      {
+        "name": "LEE, Richard Jacques Seesen",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Zoe Emma Yashi Lee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2009
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:33:12.556988"
+  },
+  "17111582": {
+    "company_number": "17111582",
+    "company_name": "IGNITE FABRICATION LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "25110",
+      "25990",
+      "33200",
+      "47910"
+    ],
+    "registered_address": "30 Glan Garth, Wrexham, LL12 7DT",
+    "officers": [
+      {
+        "name": "DAVIES, Michael Brian Nikky",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michael Brian Nikky Davies",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:33:13.769225"
+  },
+  "17111581": {
+    "company_number": "17111581",
+    "company_name": "GECHAR CONSULTANTS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "74901"
+    ],
+    "registered_address": "11 Saunders End, Hyde Heath, Amersham, HP6 5SH",
+    "officers": [
+      {
+        "name": "SMITH, James Alexander",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Alexander Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:33:14.956639"
   }
 }
