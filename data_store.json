@@ -616079,5 +616079,81 @@
       }
     ],
     "fetched_at": "2026-03-23T19:46:07.750263"
+  },
+  "17111495": {
+    "company_number": "17111495",
+    "company_name": "CRESTA GROUP LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "56101",
+      "64209",
+      "68100"
+    ],
+    "registered_address": "2 Westglade Court, Woodgrange Close, Harrow, HA3 0XQ",
+    "officers": [
+      {
+        "name": "SOGY, Rahul Kumar",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Rahul Kumar Sogy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T20:02:08.767360"
+  },
+  "17111503": {
+    "company_number": "17111503",
+    "company_name": "MIND OVER CLOUD LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "63 Carlyle Road, London, E12 6BW",
+    "officers": [
+      {
+        "name": "RASHID, Andreea",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British,Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Andreea Rashid",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-50-to-75-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T20:02:09.903496"
   }
 }
