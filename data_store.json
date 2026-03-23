@@ -617050,5 +617050,164 @@
       }
     ],
     "fetched_at": "2026-03-23T22:58:04.096231"
+  },
+  "17111642": {
+    "company_number": "17111642",
+    "company_name": "FINAULT AI LABS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "70221",
+      "70229",
+      "73110"
+    ],
+    "registered_address": "Flat 902 Baldwin Point 6 Sayer Street, London, SE17 1FH",
+    "officers": [
+      {
+        "name": "YELUGAM, Vamshi Krishna",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vamshi Krishna Yelugam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:29:43.325975"
+  },
+  "17111647": {
+    "company_number": "17111647",
+    "company_name": "AUREX ADVISORY LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "70221",
+      "70229"
+    ],
+    "registered_address": "31 Westbank Road, Manchester, M20 4SU",
+    "officers": [
+      {
+        "name": "MOHAMED ASHRAFF, Safri Mohamed",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Safri Mohamed Mohamed Ashraff",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:29:44.559586"
+  },
+  "17111650": {
+    "company_number": "17111650",
+    "company_name": "DELVIAN SOLUTIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "46510",
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "3 Parkhill Road, Burntwood, WS7 2ER",
+    "officers": [
+      {
+        "name": "AHMAD, Mohammed Shamim",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Shamim Ahmad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:29:45.721391"
+  },
+  "17111651": {
+    "company_number": "17111651",
+    "company_name": "SAFESITE AI TECHNOLOGY LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "71122"
+    ],
+    "registered_address": "89 Poppleton Close, Coventry, CV1 3BN",
+    "officers": [
+      {
+        "name": "ISEGHOHIMEN, Sunny Oisezele",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sunny Oisezele Iseghohimen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:29:46.924282"
   }
 }
