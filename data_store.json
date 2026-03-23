@@ -615923,5 +615923,161 @@
       }
     ],
     "fetched_at": "2026-03-23T19:27:22.307742"
+  },
+  "17111487": {
+    "company_number": "17111487",
+    "company_name": "MEDORI CONSULTING LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "1 Station Court, Station Approach, Wickford, SS11 7AT",
+    "officers": [
+      {
+        "name": "MEDORI, Paolo",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Paolo Medori",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T19:46:05.339281"
+  },
+  "SC883534": {
+    "company_number": "SC883534",
+    "company_name": "ARX GATE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Unit 12 Telford Court 9 South Avenue, Clydebank Business Park, Clydebank, G81 2NR",
+    "officers": [
+      {
+        "name": "COOPER, John",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1979
+        }
+      },
+      {
+        "name": "LOWRIE, Gordon David",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1979
+        }
+      },
+      {
+        "name": "MILLS, Gavin Charles",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Gavin Charles Mills",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1994
+        }
+      },
+      {
+        "name": "Mr Gordon David Lowrie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1979
+        }
+      },
+      {
+        "name": "Mr John Cooper",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T19:46:06.543900"
+  },
+  "17111481": {
+    "company_number": "17111481",
+    "company_name": "ATOM ACOUSTICS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "71129",
+      "74901"
+    ],
+    "registered_address": "47 Mcarthurs Yard, Gas Ferry Road, Bristol, BS1 6AF",
+    "officers": [
+      {
+        "name": "WHEATLEY, Lewis Jacob",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Lewis Jacob Wheatley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T19:46:07.750263"
   }
 }
