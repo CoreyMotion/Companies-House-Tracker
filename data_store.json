@@ -582160,5 +582160,2346 @@
       }
     ],
     "fetched_at": "2026-03-23T06:46:12.491422"
+  },
+  "17108162": {
+    "company_number": "17108162",
+    "company_name": "SCHOFIELD FABRICATIONS GROUP LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "17 Victoria Road East, Thornton Cleveleys, FY5 5HT",
+    "officers": [
+      {
+        "name": "BROWN, Richard Peter",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1986
+        }
+      },
+      {
+        "name": "SCHOFIELD, Alan Fraser",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Richard Peter Brown",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1986
+        }
+      },
+      {
+        "name": "Mr Alan Fraser Schofield",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:01.572076"
+  },
+  "17108200": {
+    "company_number": "17108200",
+    "company_name": "ADPOL HOLDINGS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "168 Church Road, Hove, BN3 2DL",
+    "officers": [
+      {
+        "name": "FIELD, Joseph James Edward",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Joseph James Edward Field",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:02.721813"
+  },
+  "17108185": {
+    "company_number": "17108185",
+    "company_name": "P. GRAHAM HOLDINGS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "1 & 2 Mercia Village Torwood Close, Westwood Business Park, Coventry, CV4 8HX",
+    "officers": [
+      {
+        "name": "GRAHAM, Paul",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Paul Graham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:03.959059"
+  },
+  "17108294": {
+    "company_number": "17108294",
+    "company_name": "CAFEOLOGY HOLDING COMPANY LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "4 Vantage Park, 2 Coborn Avenue, Sheffield, S9 1DA",
+    "officers": [
+      {
+        "name": "CROSS, Joseph William",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      },
+      {
+        "name": "HAMPSHIRE, Stephen",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1983
+        }
+      },
+      {
+        "name": "UNKLES, Bryan Forbes",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1972
+        }
+      },
+      {
+        "name": "UNKLES, Toni Joanne",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Stephen Hampshire",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1983
+        }
+      },
+      {
+        "name": "Mr Joseph William Cross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:05.112313"
+  },
+  "17108246": {
+    "company_number": "17108246",
+    "company_name": "SIAM GROUP LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "6a The Gardens, Broadcut, Fareham, PO16 8SS",
+    "officers": [
+      {
+        "name": "MCKEOWN, Callum",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      },
+      {
+        "name": "THANGTHAISONG, Sureeporn",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Thai",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Callum Mckeown",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      },
+      {
+        "name": "Ms Sureeporn Thangthaisong",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Thai",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:06.364573"
+  },
+  "17108179": {
+    "company_number": "17108179",
+    "company_name": "GREAT MEADOW LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "124 City Road, London, EC1V2NX",
+    "officers": [
+      {
+        "name": "DAI, John",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Dai",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:07.495896"
+  },
+  "17108250": {
+    "company_number": "17108250",
+    "company_name": "QUATRA HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "4 Charter Court, Stephenson Road, Colchester, CO4 9BP",
+    "officers": [
+      {
+        "name": "DOOUSS, Heidi",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1992
+        }
+      },
+      {
+        "name": "DOOUSS, Kyle Warwick",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Kyle Warwick Doouss",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:08.722228"
+  },
+  "17108322": {
+    "company_number": "17108322",
+    "company_name": "REPLICA GROUP HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "New Kings House, 136-144 New Kings Road, London, SW6 4LZ",
+    "officers": [
+      {
+        "name": "SCHMIDT, Jared Harry",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      },
+      {
+        "name": "SLATER, Simon Richard",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Simon Richard Slater",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      },
+      {
+        "name": "Mr Jared Harry Schmidt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:09.912351"
+  },
+  "17108321": {
+    "company_number": "17108321",
+    "company_name": "TECHNOPLEX HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Tml House, 1a The Anchorage, Gosport, PO12 1LY",
+    "officers": [
+      {
+        "name": "LAZENBURY, Trevor Michael",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1964
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Trevor Michael Lazenbury",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1964
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:11.120561"
+  },
+  "17108161": {
+    "company_number": "17108161",
+    "company_name": "BOWEN-PERKINS GROUP LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Old Gospel Hall, 115a Anyards Road, Cobham, KT11 2LJ",
+    "officers": [
+      {
+        "name": "BOWEN-PERKINS, Sonia",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1981
+        }
+      },
+      {
+        "name": "BOWEN-PERKINS, Tomas Phillip Hopcyn",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Tomas Phillip Hopcyn Bowen-Perkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "significant-influence-or-control",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1983
+        }
+      },
+      {
+        "name": "Mrs Sonia Bowen-Perkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "significant-influence-or-control",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1981
+        }
+      },
+      {
+        "name": "At Sea Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:12.309331"
+  },
+  "17108207": {
+    "company_number": "17108207",
+    "company_name": "APAA MANAGEMENT SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "47730",
+      "70229"
+    ],
+    "registered_address": "Star House, 95 High Road, Benfleet, SS7 5LN",
+    "officers": [
+      {
+        "name": "PATEL, Aatish",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1984
+        }
+      },
+      {
+        "name": "PATEL, Vasanti Aatish",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Aatish Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1984
+        }
+      },
+      {
+        "name": "Vasanti Aatish Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:13.518689"
+  },
+  "17108315": {
+    "company_number": "17108315",
+    "company_name": "ASD BUSINESS SOLUTIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "3 The Limes, Bedworth, CV12 0BG",
+    "officers": [
+      {
+        "name": "DANKS, Anne Susan",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1961
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Anne Susan Danks",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1961
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:14.712578"
+  },
+  "17108222": {
+    "company_number": "17108222",
+    "company_name": "DACDK TECH C4G LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "69 Birch Green, Hertford, SG14 2LT",
+    "officers": [
+      {
+        "name": "SMITH, David",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:15.916951"
+  },
+  "17108282": {
+    "company_number": "17108282",
+    "company_name": "DISRUPTION WORX LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "27 Shirwell Crescent, Furzton, Milton Keynes, MK4 1GA",
+    "officers": [
+      {
+        "name": "RAVENALL, Caroline",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Caroline Ravenall",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:17.107378"
+  },
+  "17108265": {
+    "company_number": "17108265",
+    "company_name": "PRIMAVERA CONSULTING SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Summit House, Horsecroft Road, Harlow, CM19 5BN",
+    "officers": [
+      {
+        "name": "PRIMAVERA, Fiona",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Fiona Primavera",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:18.312891"
+  },
+  "17108266": {
+    "company_number": "17108266",
+    "company_name": "THE HR OFFICE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "2 Hubbards Road, Chorleywood, Rickmansworth, WD3 5JJ",
+    "officers": [
+      {
+        "name": "JOHNSON, Eriko",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1980
+        }
+      },
+      {
+        "name": "JOHNSON, Mathew",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mathew Johnson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:19.512173"
+  },
+  "17108273": {
+    "company_number": "17108273",
+    "company_name": "NORTHERN MARKETING LAB LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "19 Westminster Drive Burn Bridge, Harrogate, HG3 1NW",
+    "officers": [
+      {
+        "name": "WORKMAN, Helen",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Helen Workman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:20.709493"
+  },
+  "17108340": {
+    "company_number": "17108340",
+    "company_name": "ERSKINE LARSEN LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73200",
+      "74909"
+    ],
+    "registered_address": "Suite 1, 99 Wey Hill, Haslemere, GU27 1HS",
+    "officers": [
+      {
+        "name": "CODLING, Natalie Mary",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1972
+        }
+      },
+      {
+        "name": "CODLING, Philip Spencer",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Philip Spencer Codling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Mrs Natalie Mary Codling",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:21.918441"
+  },
+  "17108189": {
+    "company_number": "17108189",
+    "company_name": "ASTORVA",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Unity House, Suite 888 Westwood Park, Wigan, WN3 4HE",
+    "officers": [
+      {
+        "name": "LORENZ, Christian",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Christian Lorenz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "right-to-appoint-and-remove-directors",
+        "nationality": "German",
+        "country_of_residence": "Germany",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:23.122488"
+  },
+  "17108202": {
+    "company_number": "17108202",
+    "company_name": "NAVEMADRE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "77 Maze Hill, London, SE10 8XQ",
+    "officers": [
+      {
+        "name": "PECORARI, Maria Grazia",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British,Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1967
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Maria Grazia Pecorari",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1967
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:24.321587"
+  },
+  "17108261": {
+    "company_number": "17108261",
+    "company_name": "AMCH CONSULTING LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "20 Wenlock Road, London, N1 7GU",
+    "officers": [
+      {
+        "name": "CHOUPI, Amalia Ioanna",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Amalia Ioanna Choupi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "significant-influence-or-control",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:25.492125"
+  },
+  "17108328": {
+    "company_number": "17108328",
+    "company_name": "AICEGLOBAL LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "20 Poplar House, 8 Thonrey Close, London, NW9 4DR",
+    "officers": [
+      {
+        "name": "ALIS, Aileen Batiancila",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Filipino",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Aileen Batiancila Alis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Filipino",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:26.719916"
+  },
+  "17108210": {
+    "company_number": "17108210",
+    "company_name": "ONLY ONE MANAGEMENT LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73120"
+    ],
+    "registered_address": "125 Walton Green, New Addington, Croydon, CR0 0TZ",
+    "officers": [
+      {
+        "name": "LONGLEY, Craig Daniel",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Craig Daniel Longley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:27.914595"
+  },
+  "17108244": {
+    "company_number": "17108244",
+    "company_name": "DIMENSION PROFESSIONAL SERVICES LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82990"
+    ],
+    "registered_address": "91 Wellington Street, Luton, LU1 5AF",
+    "officers": [
+      {
+        "name": "SOFOKLEOUS, Stephanie Maria",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Cyprus",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1986
+        }
+      },
+      {
+        "name": "DIMENSION NOMINEES LIMITED",
+        "role": "corporate-director",
+        "appointed_on": "2026-03-23",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Stephanie Maria Sofokleous",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Cyprus",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1986
+        }
+      },
+      {
+        "name": "Dimension Nominees Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:29.103393"
+  },
+  "17108284": {
+    "company_number": "17108284",
+    "company_name": "VCG ADVISORS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "82, Suite A James Carter Road, Mildenhall, IP28 7DE",
+    "officers": [
+      {
+        "name": "TRIVEDI, Shivam",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Shivam Trivedi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:30.324564"
+  },
+  "17108260": {
+    "company_number": "17108260",
+    "company_name": "CNP FINANCIAL SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "9 The Sidings, Dartmouth Road, Brixham, TQ5 0FJ",
+    "officers": [
+      {
+        "name": "PYE, Callum Nicholas",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1968
+        }
+      },
+      {
+        "name": "PYE, Sally Victoria Louise",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Sally Victoria Louise Pye",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1966
+        }
+      },
+      {
+        "name": "Mr Callum Nicholas Pye",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1968
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:31.541146"
+  },
+  "17108154": {
+    "company_number": "17108154",
+    "company_name": "RECHARGED LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "BUTT, Waqas",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Waqas Butt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:32.732096"
+  },
+  "17108191": {
+    "company_number": "17108191",
+    "company_name": "KYO ONLINE SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "63110"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "MAES, C\u00e9dric",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "French",
+        "country_of_residence": "France",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr C\u00e9dric Maes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "French",
+        "country_of_residence": "France",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:33.902512"
+  },
+  "17108304": {
+    "company_number": "17108304",
+    "company_name": "BRAINXONE TECHNOLOGIES LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "62090"
+    ],
+    "registered_address": "C/O Aacsl Accountants Ltd 1st Floor North Westgate House, Harlow, Essex, CM20 1YS",
+    "officers": [
+      {
+        "name": "ADEKUNLE, Stella Busayo",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Spanish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1980
+        }
+      },
+      {
+        "name": "BADERIN, Folashade Rashidah",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Folashade Rashidah Baderin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1986
+        }
+      },
+      {
+        "name": "Stella Busayo Adekunle",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Spanish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:35.202561"
+  },
+  "17108286": {
+    "company_number": "17108286",
+    "company_name": "LM CYBER SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "26 The Knoll, Tilehurst, Reading, RG31 6GW",
+    "officers": [
+      {
+        "name": "MOON, Alexis",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alexis Moon",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:36.312285"
+  },
+  "17108164": {
+    "company_number": "17108164",
+    "company_name": "TKC CONSULTING LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "C/O Sg Accounting 1 Cedar Office Park, Cobham Road, Wimborne, BH21 7SB",
+    "officers": [
+      {
+        "name": "CAVANAGH, Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1976
+        }
+      },
+      {
+        "name": "CAVANAGH, Karen",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Anthony Cavanagh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1976
+        }
+      },
+      {
+        "name": "Mrs Karen Cavanagh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:37.525038"
+  },
+  "17108227": {
+    "company_number": "17108227",
+    "company_name": "ROOTL MARKETING LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "120 Bennett Street, Downham Market, PE38 9GH",
+    "officers": [
+      {
+        "name": "O'MARA, James Michael",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Michael O'Mara",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      },
+      {
+        "name": "Mrs Nicola Jan O'Mara",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:38.742275"
+  },
+  "17108240": {
+    "company_number": "17108240",
+    "company_name": "ARDENYX LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "63110",
+      "63120"
+    ],
+    "registered_address": "5 Brayford Square, London, E1 0SG",
+    "officers": [
+      {
+        "name": "KUROPATKIN, Aleksandr",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Estonian",
+        "country_of_residence": "Estonia",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Aleksandr Kuropatkin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Estonian",
+        "country_of_residence": "Estonia",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:39.927680"
+  },
+  "17108209": {
+    "company_number": "17108209",
+    "company_name": "CLEMENT DATA & ADVISORY LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "124 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "CLEMENT, Bukola",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Bukola Clement",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:41.136427"
+  },
+  "17108299": {
+    "company_number": "17108299",
+    "company_name": "SSC DIGIVERSE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, Bury St. Edmunds, IP28 7DE",
+    "officers": [
+      {
+        "name": "TARIQ, Sheikh Abdus Sami",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sheikh Abdus Sami Tariq",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "Pakistan",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:42.329389"
+  },
+  "17108303": {
+    "company_number": "17108303",
+    "company_name": "NETLY CONSULTANCY LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "167-169 5th Floor Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "AZIZ, Mohammed Zahid",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Zahid Aziz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:43.516538"
+  },
+  "17108224": {
+    "company_number": "17108224",
+    "company_name": "RETAIN GROUP LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "LONGWORTH, Peter",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Peter Longworth",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:44.726717"
+  },
+  "17108285": {
+    "company_number": "17108285",
+    "company_name": "WORKGYM LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "22 Selwyn Avenue, London, E4 9LR",
+    "officers": [
+      {
+        "name": "JASUJA, Nipun",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      },
+      {
+        "name": "MOUAWAD, Mounir",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Nipun Jasuja",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      },
+      {
+        "name": "Mr Mounir Mouawad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:45.957832"
+  },
+  "17108167": {
+    "company_number": "17108167",
+    "company_name": "STACKWRX LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "19 Well Street, London, E9 7QX",
+    "officers": [
+      {
+        "name": "ALI, Rubi",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Rubi Ali",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:47.140270"
+  },
+  "17108326": {
+    "company_number": "17108326",
+    "company_name": "ALL IN TOUCH LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "87300"
+    ],
+    "registered_address": "Flat 3 Windsor Court, 11 Tilehurst Road, Reading, RG1 7RA",
+    "officers": [
+      {
+        "name": "FARRELL, Jeremy Peter",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1963
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jeremy Peter Farrell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1963
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:48.322532"
+  },
+  "17108158": {
+    "company_number": "17108158",
+    "company_name": "BRAVYR LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62090",
+      "73110"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "MAGALHAES SANSIGOLO, Bruno",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Bruno Magalhaes Sansigolo",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:49.515215"
+  },
+  "17108223": {
+    "company_number": "17108223",
+    "company_name": "KLYX LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "3rd Floor Waverley House, 7-12 Noel Street, London, W1F 8GQ",
+    "officers": [
+      {
+        "name": "ALLEN, Jamie Alexander",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1987
+        }
+      },
+      {
+        "name": "STEVENS, Frazer",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "4pointzero Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:50.733323"
+  },
+  "17108198": {
+    "company_number": "17108198",
+    "company_name": "VBRANDS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "VOLCINSCHI, Valentin",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Moldovan",
+        "country_of_residence": "Moldova",
+        "date_of_birth": {
+          "month": 2,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Valentin Volcinschi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; ownership-of-shares-75-to-100-percent-as-trust; ownership-of-shares-75-to-100-percent-as-firm; voting-rights-75-to-100-percent; voting-rights-75-to-100-percent-as-trust; voting-rights-75-to-100-percent-as-firm; right-to-appoint-and-remove-directors; right-to-appoint-and-remove-directors-as-trust; right-to-appoint-and-remove-directors-as-firm",
+        "nationality": "Moldovan",
+        "country_of_residence": "Moldova",
+        "date_of_birth": {
+          "month": 2,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:51.928731"
+  },
+  "17108234": {
+    "company_number": "17108234",
+    "company_name": "THE INDEX COMPANY KERNEL LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "63110"
+    ],
+    "registered_address": "23 Harcourt Street, London, W1H 4HJ",
+    "officers": [
+      {
+        "name": "DHINGRA, Sandeep",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sandeep Dhingra",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1969
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:53.123970"
+  },
+  "17108302": {
+    "company_number": "17108302",
+    "company_name": "TRUEPROXIES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "63110"
+    ],
+    "registered_address": "Office 18000 182-184 High Street North, East Ham, London, E6 2JA",
+    "officers": [
+      {
+        "name": "ALJEDE, Aseel",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Jordanian",
+        "country_of_residence": "Jordan",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Aseel Aljede",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "Jordanian",
+        "country_of_residence": "Jordan",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:54.328419"
+  },
+  "17108292": {
+    "company_number": "17108292",
+    "company_name": "CYGNITY MEDICAL WRITING LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "72110",
+      "72190"
+    ],
+    "registered_address": "20-22 Venture West Greenham Business Park, Newbury, RG19 6HX",
+    "officers": [
+      {
+        "name": "HOOPER, Iain Trevor",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Iain Trevor Hooper",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1968
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:55.541406"
+  },
+  "17108195": {
+    "company_number": "17108195",
+    "company_name": "EYE SCREEN MEDIA LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "32990"
+    ],
+    "registered_address": "30 Friars Walk Shopping Centre, John Frost Square, Newport, NP20 1DR",
+    "officers": [
+      {
+        "name": "ARMSTRONG, Richard John",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      },
+      {
+        "name": "PRIDMORE, Stephen Christopher",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1967
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Stephen Christopher Pridmore",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1967
+        }
+      },
+      {
+        "name": "Mr Richard John Armstrong",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:56.710031"
+  },
+  "17108146": {
+    "company_number": "17108146",
+    "company_name": "ONAY VOYAGES EUROPE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "79110",
+      "79120",
+      "79901",
+      "79909"
+    ],
+    "registered_address": "5 Brayford Square, London, E1 0SG",
+    "officers": [
+      {
+        "name": "ZELAIETA KHANOUCH, Unai",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Spanish",
+        "country_of_residence": "France",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2006
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Unai Zelaieta Khanouch",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Spanish",
+        "country_of_residence": "France",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2006
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:57.931609"
+  },
+  "17108176": {
+    "company_number": "17108176",
+    "company_name": "23 BIO LABS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "72110"
+    ],
+    "registered_address": "Suite 38 Block D, Hartley Business Centre, Haydn Rd, Sherwood, Nottingham, NG5 1DG",
+    "officers": [
+      {
+        "name": "DABB, Charanjit",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Charanjit Dabb",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:01:59.129468"
+  },
+  "17108218": {
+    "company_number": "17108218",
+    "company_name": "NH TRADING AND CONSULTING LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "33120",
+      "46690",
+      "71122"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "HARI, Nitesh",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Nitesh Hari",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:02:00.333338"
+  },
+  "17108259": {
+    "company_number": "17108259",
+    "company_name": "FIRSTCO CORPORATION LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "71121",
+      "71122",
+      "71129"
+    ],
+    "registered_address": "33 Cavendish Square, 5th Floor South, London, W1G 0PW",
+    "officers": [
+      {
+        "name": "EXHAM, Rupert Brook De Redman Hunt",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      },
+      {
+        "name": "HAYNES, Stephen John",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      },
+      {
+        "name": "MORGAN, Andrew William",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Rupert Brook De Redman Hunt Exham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      },
+      {
+        "name": "Mr Stephen John Haynes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      },
+      {
+        "name": "Mr Andrew William Morgan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:02:01.552068"
+  },
+  "17108216": {
+    "company_number": "17108216",
+    "company_name": "TRADEONIX LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "63120"
+    ],
+    "registered_address": "International House, 109-111 Fulham Palace Road, London, W6 8JA",
+    "officers": [
+      {
+        "name": "MERKURJEVS, Artjoms",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Latvian",
+        "country_of_residence": "Latvia",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Artjoms Merkurjevs",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Latvian",
+        "country_of_residence": "Latvia",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:02:02.738794"
   }
 }
