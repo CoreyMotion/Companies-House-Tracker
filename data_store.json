@@ -614739,5 +614739,493 @@
       }
     ],
     "fetched_at": "2026-03-23T17:14:44.855653"
+  },
+  "17111356": {
+    "company_number": "17111356",
+    "company_name": "ARDENS WORKPLACE HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Springfield Cottage, Long Close West, Downton, SP5 3HG",
+    "officers": [
+      {
+        "name": "GALLIENNE, Ben",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1975
+        }
+      },
+      {
+        "name": "GREVILLE-HEYGATE, Robert Arden, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1982
+        }
+      },
+      {
+        "name": "GREVILLE-HEYGATE, Stephanie Leanne, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1981
+        }
+      },
+      {
+        "name": "KAMAL, Nazmul, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1971
+        }
+      },
+      {
+        "name": "WICKHAM, Laura",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ardens Health Informatics Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-23T17:50:53.301366"
+  },
+  "17111370": {
+    "company_number": "17111370",
+    "company_name": "YSYLVAN LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73110"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "HUNTER, Jack",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jack Hunter",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:50:54.548054"
+  },
+  "17111352": {
+    "company_number": "17111352",
+    "company_name": "ARDENMERE ADVISORY LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "94 Westbourne Road, Huddersfield, HD1 4LF",
+    "officers": [
+      {
+        "name": "AKHTAR, Burhan",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Burhan Akhtar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:50:55.795771"
+  },
+  "17111371": {
+    "company_number": "17111371",
+    "company_name": "MERKEL CONSULTING LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "23 Field Close, Burgess Hill, RH15 8PP",
+    "officers": [
+      {
+        "name": "STRICKLAND, Paula Joyce",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Paula Joyce Strickland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:50:57.022893"
+  },
+  "17111401": {
+    "company_number": "17111401",
+    "company_name": "NBP SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "524 Littleworth Road, Cannock, WS12 1JD",
+    "officers": [
+      {
+        "name": "BIMOBHAY, Nehal Devji",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Nehal Devji Bimobhay",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:50:58.281039"
+  },
+  "17111388": {
+    "company_number": "17111388",
+    "company_name": "LONDON BUILDERS SOLUTIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "41202",
+      "74909"
+    ],
+    "registered_address": "4 Tabley Road, Bolton, BL3 4BR",
+    "officers": [
+      {
+        "name": "ADAM, Sam",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Sam Adam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:50:59.485700"
+  },
+  "17111399": {
+    "company_number": "17111399",
+    "company_name": "GIE STUDIO LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "51 Heather Road, Binley Woods, Coventry, CV3 2DE",
+    "officers": [
+      {
+        "name": "PETRAUSKAITE, Giedre",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Lithuanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Giedre Petrauskaite",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Lithuanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:51:00.823497"
+  },
+  "17111351": {
+    "company_number": "17111351",
+    "company_name": "UNIMETRICA LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Flat 57 Dorset House, Gloucester Place, London, NW1 5AE",
+    "officers": [
+      {
+        "name": "STRUTHERS, Arif Ian",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Arif Ian Struthers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:51:02.141731"
+  },
+  "17111395": {
+    "company_number": "17111395",
+    "company_name": "CODEUS TECH LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "83 Edward Street, Farnworth, Bolton, BL4 7HL",
+    "officers": [
+      {
+        "name": "SADIQ, Usama",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Usama Sadiq",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:51:03.388600"
+  },
+  "17111377": {
+    "company_number": "17111377",
+    "company_name": "THRIVLY LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "57 Stanborough Avenue, Borehamwood, WD6 5LX",
+    "officers": [
+      {
+        "name": "BAGUR VENKATARAMAIAH, Harsha",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Harsha Bagur Venkataramaiah",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:51:04.619890"
+  },
+  "17111382": {
+    "company_number": "17111382",
+    "company_name": "PAPERLESS MEDICS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "3 Beeby Drive, Waltham On The Wolds, Melton Mowbray, LE14 4FJ",
+    "officers": [
+      {
+        "name": "HARDING, Joshua James, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Joshua James Harding",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:51:05.858287"
+  },
+  "17111350": {
+    "company_number": "17111350",
+    "company_name": "SERVICEBOOK LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "MARTIN, James Anthony Fernandes",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Anthony Fernandes Martin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T17:51:07.091767"
   }
 }
