@@ -581816,5 +581816,81 @@
       }
     ],
     "fetched_at": "2026-03-22T22:49:59.146288"
+  },
+  "17108086": {
+    "company_number": "17108086",
+    "company_name": "FITZROY FINANCIAL MANAGEMENT LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "Silverstream House, 45 Fitzroy Street, London, W1T 6EB",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr. Joe Glenn Golightly",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Danish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T01:53:52.931937"
+  },
+  "17108080": {
+    "company_number": "17108080",
+    "company_name": "CLICK A CLINIC LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Apartment 32 Great Hall, 96 Battersea Park Road, London, SW11 4LP",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Kueniemugh Victor Igbagiri",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T01:53:54.150308"
+  },
+  "17108085": {
+    "company_number": "17108085",
+    "company_name": "VOYAGE LUXE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "79909",
+      "96090"
+    ],
+    "registered_address": "8 Leopold Road, Blackburn, BB2 6EH",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Adam Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T01:53:55.327148"
   }
 }
