@@ -616155,5 +616155,117 @@
       }
     ],
     "fetched_at": "2026-03-23T20:02:09.903496"
+  },
+  "17111531": {
+    "company_number": "17111531",
+    "company_name": "DILN SYSTEMS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "81 Oakley Drive, Wellingborough, NN8 3JY",
+    "officers": [
+      {
+        "name": "PATEL, Dilan",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Dilan Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T20:36:03.968654"
+  },
+  "17111525": {
+    "company_number": "17111525",
+    "company_name": "EFFICA-GROUPE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "62090"
+    ],
+    "registered_address": "G R G House, Cobden Street, Salford, M6 6NA",
+    "officers": [
+      {
+        "name": "MUSHOMBE, Kasigwa",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1972
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Kasigwa Mushombe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T20:36:05.154132"
+  },
+  "17111510": {
+    "company_number": "17111510",
+    "company_name": "QRD INNOVATIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "72190"
+    ],
+    "registered_address": "Swan Building, 20 Swan Street, Manchester, M4 5JW",
+    "officers": [
+      {
+        "name": "HOLLAND, Oliver Paul",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Oliver Paul Holland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T20:36:06.348237"
   }
 }
