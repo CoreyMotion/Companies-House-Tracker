@@ -584501,5 +584501,123 @@
       }
     ],
     "fetched_at": "2026-03-23T08:02:02.738794"
+  },
+  "17108358": {
+    "company_number": "17108358",
+    "company_name": "HOUSE OF SIWACH LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "70100",
+      "74909",
+      "82990"
+    ],
+    "registered_address": "83 Hollycroft, Hinckley, LE10 0HF",
+    "officers": [
+      {
+        "name": "SIWAACH, Sage",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sage Siwaach",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "India",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:12:30.804301"
+  },
+  "17108341": {
+    "company_number": "17108341",
+    "company_name": "NORTHSHORE STRATEGIC LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "70229"
+    ],
+    "registered_address": "60 Goldstone Villas Flat 2, Hove East, BN3 3RS",
+    "officers": [
+      {
+        "name": "BRITTAN, Richard",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Spain",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1967
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Richard Brittan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Spain",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1967
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:12:32.010734"
+  },
+  "17108353": {
+    "company_number": "17108353",
+    "company_name": "NONTRIVIAL LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62030",
+      "70229"
+    ],
+    "registered_address": "124 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "HEYWOOD, Simon Paul",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Simon Paul Heywood",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T08:12:33.228504"
   }
 }
