@@ -645967,5 +645967,444 @@
       }
     ],
     "fetched_at": "2026-03-24T21:01:45.506317"
+  },
+  "17114444": {
+    "company_number": "17114444",
+    "company_name": "HOLTWOOD HOLDINGS LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "57 Middlehill Road, Wimborne, BH21 2SB",
+    "officers": [
+      {
+        "name": "CUMMINGS, Jamie",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jamie Cummings",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:43.285322"
+  },
+  "17114429": {
+    "company_number": "17114429",
+    "company_name": "TW GROUP LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "68209"
+    ],
+    "registered_address": "87 Sheppard Avenue, Liverpool, L16 2LB",
+    "officers": [
+      {
+        "name": "WALSH, Thomas",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Thomas Walsh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:44.480490"
+  },
+  "17114434": {
+    "company_number": "17114434",
+    "company_name": "MCLAUGHLIN REGULATION SERVICES LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Office 2,Tweed House, Park Lane, Swanley, BR8 8DT",
+    "officers": [
+      {
+        "name": "MCLAUGHLIN, Patrick Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Patrick Anthony Mclaughlin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent",
+        "nationality": "British",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:45.685377"
+  },
+  "17114441": {
+    "company_number": "17114441",
+    "company_name": "CATALYST CYBER AND RISK LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "Brown Lodge Farm, Brown Lodge Street, Littleborough, OL15 0EP",
+    "officers": [
+      {
+        "name": "FRANKEL, Michael John",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michael John Frankel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:46.879541"
+  },
+  "17114452": {
+    "company_number": "17114452",
+    "company_name": "AHA PRIME LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "49420",
+      "62020"
+    ],
+    "registered_address": "Flat 18 Grosslea 90 Bishopsford Road, Morden, SM4 6BE",
+    "officers": [
+      {
+        "name": "BASIT, Abdul",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Abdul Basit",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:48.082466"
+  },
+  "17114435": {
+    "company_number": "17114435",
+    "company_name": "BEACON DATA CONSULTING LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "92 Broomhill Way, Poole, BH15 4GJ",
+    "officers": [
+      {
+        "name": "CASE, Heather",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1981
+        }
+      },
+      {
+        "name": "POOLE, Andrew John",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Heather Case",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1981
+        }
+      },
+      {
+        "name": "Mr Andrew John Poole",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:49.286958"
+  },
+  "17114436": {
+    "company_number": "17114436",
+    "company_name": "DEVVLE LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "167-169 Great Portland Street, London, W1W 5PF",
+    "officers": [
+      {
+        "name": "PINCHEN, David Thomas",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David Thomas Pinchen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:50.483831"
+  },
+  "17114443": {
+    "company_number": "17114443",
+    "company_name": "THE GOOD AI PROJECT LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "85590",
+      "88990"
+    ],
+    "registered_address": "13 Brook Way, Chigwell, IG7 6AA",
+    "officers": [
+      {
+        "name": "CARR, Yuliya",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Yuliya Carr",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:51.687697"
+  },
+  "17114446": {
+    "company_number": "17114446",
+    "company_name": "CONNECT PRO PLATFORMS LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "63120",
+      "82990"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "FOSTER, Matthew Carl",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Matthew Carl Foster",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:52.884669"
+  },
+  "17114448": {
+    "company_number": "17114448",
+    "company_name": "VGR GUITARS LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "32990"
+    ],
+    "registered_address": "39 Rea Avenue, Birmingham, B45 9SR",
+    "officers": [
+      {
+        "name": "TURNER, Philip",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Philip Turner",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:54.080177"
+  },
+  "17114438": {
+    "company_number": "17114438",
+    "company_name": "FORTUNETOURS UK LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "79110",
+      "79901"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "ZHUANG, Zheng",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Zheng Zhuang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T21:34:55.285721"
   }
 }
