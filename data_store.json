@@ -644188,5 +644188,313 @@
       }
     ],
     "fetched_at": "2026-03-24T17:54:28.878566"
+  },
+  "17114232": {
+    "company_number": "17114232",
+    "company_name": "ARCHWAY CAPITAL VENTURES LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "33 Mill Ridge, Edgware, HA8 7PE",
+    "officers": [
+      {
+        "name": "BELTON, Christopher David",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Archway Strategic Holdings Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:05.482893"
+  },
+  "17114227": {
+    "company_number": "17114227",
+    "company_name": "PERREN LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Unit 4 Britannia Business Centre, Britannia Way, Malvern, WR14 1GZ",
+    "officers": [
+      {
+        "name": "RICHARDS, Calum Daniel",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Calum Daniel Richards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:06.686414"
+  },
+  "17114240": {
+    "company_number": "17114240",
+    "company_name": "RAYMOND SOVEREIGN LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70100"
+    ],
+    "registered_address": "5 Brayford Square, London, E1 0SG",
+    "officers": [
+      {
+        "name": "RAYMOND, Maureen Elaine",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1964
+        }
+      },
+      {
+        "name": "RAYMOND, Ryan Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ryan Anthony Raymond",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:07.888216"
+  },
+  "17114229": {
+    "company_number": "17114229",
+    "company_name": "INGVAR INTERACTIVE LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "71122"
+    ],
+    "registered_address": "311 Shoreham Street, Sheffield, S2 4FA",
+    "officers": [
+      {
+        "name": "FROLOV, Igor",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "Russian",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Igor Frolov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Russian",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:09.108793"
+  },
+  "SC883701": {
+    "company_number": "SC883701",
+    "company_name": "MFCORE LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "68320",
+      "79110"
+    ],
+    "registered_address": "7/8 Western Harbour Midway, Edinburgh, EH6 6LE",
+    "officers": [
+      {
+        "name": "DIAS FREITAS, Fabio",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "Brazilian",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Fabio Dias Freitas",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Brazilian",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:10.295655"
+  },
+  "17114249": {
+    "company_number": "17114249",
+    "company_name": "VELOUR PETALS LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "10710"
+    ],
+    "registered_address": "42 Crocus Field, Barnet, EN5 2UA",
+    "officers": [
+      {
+        "name": "NIAZI, Usman Ahmed",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "Afghan",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2003
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Usman Ahmed Niazi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Afghan",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2003
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:11.487876"
+  },
+  "17114245": {
+    "company_number": "17114245",
+    "company_name": "ENERGY RIGGING LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "71122",
+      "71129"
+    ],
+    "registered_address": "14 Bedells Lane, Wilmslow, SK9 5HY",
+    "officers": [
+      {
+        "name": "SKILBECK, James Christopher Arthur",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Christopher Arthur Skilbeck",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:12.685450"
+  },
+  "17114226": {
+    "company_number": "17114226",
+    "company_name": "WEAVE ENGINEERS LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "115 Friern Park, London, N12 9LH",
+    "officers": [
+      {
+        "name": "WALLIS, Alison Ruth",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Alison Ruth Wallis",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:14:13.883245"
   }
 }
