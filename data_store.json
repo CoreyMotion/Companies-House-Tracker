@@ -617363,5 +617363,42 @@
       }
     ],
     "fetched_at": "2026-03-24T03:18:08.583640"
+  },
+  "17111702": {
+    "company_number": "17111702",
+    "company_name": "SKOOTIN LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "14 Rowan Avenue, Northampton, NN3 6JF",
+    "officers": [
+      {
+        "name": "MILLER, Danielle Patriarca",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Danielle Patriarca Miller",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T05:10:51.964176"
   }
 }
