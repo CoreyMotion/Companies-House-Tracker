@@ -617247,5 +617247,84 @@
       }
     ],
     "fetched_at": "2026-03-23T23:54:28.961974"
+  },
+  "17111680": {
+    "company_number": "17111680",
+    "company_name": "FLEETAXIS LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "49410",
+      "52103",
+      "52290",
+      "70229"
+    ],
+    "registered_address": "46 Wadham Road, Bootle, L20 7DQ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Yusuf Damilare Mustapha",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T01:45:37.827075"
+  },
+  "17111678": {
+    "company_number": "17111678",
+    "company_name": "ZONELY LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "63110"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Nishant Mahajan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T01:45:38.996762"
+  },
+  "17111679": {
+    "company_number": "17111679",
+    "company_name": "NONSUCH MORTGAGES LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "64999"
+    ],
+    "registered_address": "83 Compton Crescent, Chessington, KT9 2HG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Farhad Kamyab",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T01:45:40.201101"
   }
 }
