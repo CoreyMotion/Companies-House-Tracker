@@ -644496,5 +644496,289 @@
       }
     ],
     "fetched_at": "2026-03-24T18:14:13.883245"
+  },
+  "17114263": {
+    "company_number": "17114263",
+    "company_name": "MATTINGLY HOLDINGS LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "64301",
+      "70100",
+      "82990"
+    ],
+    "registered_address": "93 Church Lane, Harrow, HA3 7EB",
+    "officers": [
+      {
+        "name": "MATTINGLY, Tammara Jeanne",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Tammara Jeanne Mattingly",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:03.237718"
+  },
+  "17114259": {
+    "company_number": "17114259",
+    "company_name": "HALLUMS HEALTH MANAGEMENT LIMITED",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "86900"
+    ],
+    "registered_address": "4 The Pines, Woodford Green, IG8 0RW",
+    "officers": [
+      {
+        "name": "HALLUMS, Amanda Camille",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1958
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Amanda Camille Hallums",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1958
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:04.429792"
+  },
+  "17114287": {
+    "company_number": "17114287",
+    "company_name": "DS BENEFITS LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "314 Midsummer Boulevard, Milton Keynes, MK9 2UB",
+    "officers": [
+      {
+        "name": "TUSEVO, Julien Jully",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Upstream Edge Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:05.631156"
+  },
+  "17114260": {
+    "company_number": "17114260",
+    "company_name": "ZYNTEX LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "86220",
+      "86900"
+    ],
+    "registered_address": "79 Halfway Street, Sidcup, DA15 8BY",
+    "officers": [
+      {
+        "name": "OYINLOYE, Adetokunbo Adebisi Olaniyi",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1963
+        }
+      },
+      {
+        "name": "OYINLOYE, Caroline Adunola",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Caroline Adunola Oyinloye",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1966
+        }
+      },
+      {
+        "name": "Mr Adetokunbo Adebisi Olaniyi Oyinloye",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1963
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:06.833407"
+  },
+  "17114286": {
+    "company_number": "17114286",
+    "company_name": "PARLOFI LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "6 Russell Buildings 86 West Street, Portchester, Fareham, PO16 9UL",
+    "officers": [
+      {
+        "name": "CHAPPLE, Myles",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Myles Chapple",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:08.031213"
+  },
+  "17114258": {
+    "company_number": "17114258",
+    "company_name": "FAREFYNDER LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Flat 3 Purser Court, High Street, London, N8 7FB",
+    "officers": [
+      {
+        "name": "MONAR, Peter Kevin",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Peter Kevin Monar",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Australian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:09.241608"
+  },
+  "17114262": {
+    "company_number": "17114262",
+    "company_name": "DELTA OMEGA LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "54 Wearmouth Drive, Sunderland, SR5 1LZ",
+    "officers": [
+      {
+        "name": "HOWARTH, Mark",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1975
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mark Howarth",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1975
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T18:58:10.435219"
   }
 }
