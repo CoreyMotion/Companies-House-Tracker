@@ -654186,5 +654186,317 @@
       }
     ],
     "fetched_at": "2026-03-25T10:45:30.451262"
+  },
+  "17115660": {
+    "company_number": "17115660",
+    "company_name": "ELS KLEANTHOUS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Duncan & Toplis Ltd, 3rd Floor Marlborough House, 298 Regents Park Road, Finchley, London, N3 2SZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mrs Melina Bremer",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:42.454087"
+  },
+  "17115620": {
+    "company_number": "17115620",
+    "company_name": "IRONBRIDGE I MIDCO LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "5 Merchant Square, London, W2 1AS",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ironbridge Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:43.654391"
+  },
+  "17115599": {
+    "company_number": "17115599",
+    "company_name": "JOLYON GROUP LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82990"
+    ],
+    "registered_address": "3a Bishops Court Gardens, Chelmsford, CM2 6AZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Jolyon Flyn Marsh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 2006
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:44.837948"
+  },
+  "17115609": {
+    "company_number": "17115609",
+    "company_name": "OPEN AIR PROJECTS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "74909"
+    ],
+    "registered_address": "C/O Sedulo London Office 605 Albert House, 256-260 Old Street, London, EC1V 9DD",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Meriel Josephine May Armitage",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:46.049147"
+  },
+  "17115604": {
+    "company_number": "17115604",
+    "company_name": "BLUE DOOR PRAXIS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "9 Clermont Terrace, Brighton, BN1 6SH",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Susan Theresa Nicolai",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,American",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1972
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:47.239494"
+  },
+  "SC883751": {
+    "company_number": "SC883751",
+    "company_name": "CALEDONIA COMPLIANCE LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "37 Fiddich Drive, Murieston, Livingston, EH54 9HG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Stephen James Purdie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:48.449149"
+  },
+  "17115666": {
+    "company_number": "17115666",
+    "company_name": "SOLANA ADVISORY LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "46190",
+      "70229"
+    ],
+    "registered_address": "68 Park Road, Worthing, BN11 2AN",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Matthew Richard Hunt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1971
+        }
+      },
+      {
+        "name": "Mrs Hayley Christina Hunt",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:49.659070"
+  },
+  "17115606": {
+    "company_number": "17115606",
+    "company_name": "AURRIO TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "1 Jenner Close, Leighton Buzzard, LU7 3FY",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Chinky Passi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:50.847955"
+  },
+  "NI739164": {
+    "company_number": "NI739164",
+    "company_name": "GRAYBURST LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "640 Antrim Road, Belfast, BT15 5GP",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Fergus John Wills",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Northern Irish",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:52.041480"
+  },
+  "17115617": {
+    "company_number": "17115617",
+    "company_name": "FIRESTORM DIGITAL LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "73110"
+    ],
+    "registered_address": "96 Ganger Farm Way, Ampfield, Romsey, SO51 0DG",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mrs Christine Louise Moreno-Hendy",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:53.249452"
+  },
+  "17115651": {
+    "company_number": "17115651",
+    "company_name": "STANTON & GLEBE LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Glebe Farm Browns Lane, Keyworth, Nottingham, NG12 5BL",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Ashley Ramrachia",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:54.452469"
+  },
+  "17115629": {
+    "company_number": "17115629",
+    "company_name": "MY CREDIT OPTIONS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "66190"
+    ],
+    "registered_address": "This Work Space, 18, Albert Road, Bournemouth, BH1 1BZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Ayman Baugi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T11:11:55.657451"
   }
 }
