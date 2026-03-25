@@ -668070,5 +668070,472 @@
       }
     ],
     "fetched_at": "2026-03-25T17:56:19.774410"
+  },
+  "17117083": {
+    "company_number": "17117083",
+    "company_name": "NEXARA CAPITAL LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "124-128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "JARAVAZA, Montgomery",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Montgomery Jaravaza",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:05.120525"
+  },
+  "17117086": {
+    "company_number": "17117086",
+    "company_name": "MWH HOLDINGS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70100"
+    ],
+    "registered_address": "10 St. Marys Place, Bury, BL9 0DZ",
+    "officers": [
+      {
+        "name": "HUGHES, Mark William",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1965
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mark William Hughes",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1965
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:06.307360"
+  },
+  "17117074": {
+    "company_number": "17117074",
+    "company_name": "NIREL GREEN CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82990"
+    ],
+    "registered_address": "5 Worldham Gardens, Basingstoke, RG24 9QQ",
+    "officers": [
+      {
+        "name": "AKPEOKHAI, Irene Edowaye, Dr.",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr. Irene Edowaye Akpeokhai",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:07.511540"
+  },
+  "17117098": {
+    "company_number": "17117098",
+    "company_name": "VIKIM LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73110",
+      "73200",
+      "90030"
+    ],
+    "registered_address": "18 Thricknells Close, Luton, LU3 3RP",
+    "officers": [
+      {
+        "name": "IMOHIOSEN, Victor Ikhide",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Victor Ikhide Imohiosen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:08.714828"
+  },
+  "17117060": {
+    "company_number": "17117060",
+    "company_name": "BRETWYN SAFETY LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "74909"
+    ],
+    "registered_address": "18 Pintail Close, East Tilbury, Tilbury, RM18 8FJ",
+    "officers": [
+      {
+        "name": "OROS, Ioana Alexandra",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Ioana Alexandra Oros",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:09.905678"
+  },
+  "17117091": {
+    "company_number": "17117091",
+    "company_name": "HOMEASY LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Apartment 190 Building 50 Argyll Road, London, SE18 6PL",
+    "officers": [
+      {
+        "name": "PARRIVESH, Natarajan Satish, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Natarajan Satish Parrivesh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:11.106354"
+  },
+  "17117064": {
+    "company_number": "17117064",
+    "company_name": "CLEARBALANCE TECHNOLOGIES LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "63120",
+      "63990"
+    ],
+    "registered_address": "9 Ffordd Gwynedd, Llandudno, LL30 1EH",
+    "officers": [
+      {
+        "name": "O'NEIL, Ryan John",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ryan John O'Neil",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:12.307156"
+  },
+  "17117093": {
+    "company_number": "17117093",
+    "company_name": "VERDOFIX LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "72190",
+      "77400"
+    ],
+    "registered_address": "125 Allington Avenue, Nottingham, NG7 1JY",
+    "officers": [
+      {
+        "name": "KARPICZ, Grzegorz Roman",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1964
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Grzegorz Roman Karpicz",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1964
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:13.506467"
+  },
+  "17117057": {
+    "company_number": "17117057",
+    "company_name": "MICHAL GAJEWSKI TRADING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64999",
+      "66120"
+    ],
+    "registered_address": "4 Hathersage Close, Grantham, NG31 7GP",
+    "officers": [
+      {
+        "name": "GAJEWSKI, Michal",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michal Gajewski",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1992
+        }
+      },
+      {
+        "name": "Miss Marta Murawska",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1994
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:14.706541"
+  },
+  "17117092": {
+    "company_number": "17117092",
+    "company_name": "DARACOMBE PARK FINANCIAL SERVICES LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "66190"
+    ],
+    "registered_address": "2 The Lawns, Daracombe Park, Highweek, TQ12 1RW",
+    "officers": [
+      {
+        "name": "CLARKE, Bradley",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Bradley Clarke",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:15.905892"
+  },
+  "17117131": {
+    "company_number": "17117131",
+    "company_name": "MYERS ENGINEERING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "71121",
+      "71122"
+    ],
+    "registered_address": "137 Holme Church Lane, Beverley, HU17 0QL",
+    "officers": [
+      {
+        "name": "MYERS, Alexander Watson",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alexander Watson Myers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:17.111430"
+  },
+  "17117111": {
+    "company_number": "17117111",
+    "company_name": "BANOON EVENTS LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "63120",
+      "93290"
+    ],
+    "registered_address": "Flat 12a Cumberland Mansions, George Street, London, W1H 5TE",
+    "officers": [
+      {
+        "name": "DAHER HOBALLAH, Amal",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Lebanese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Amal Daher Hoballah",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Lebanese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T18:52:18.312537"
   }
 }
