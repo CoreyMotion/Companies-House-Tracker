@@ -647391,5 +647391,97 @@
     "officers": [],
     "pscs": [],
     "fetched_at": "2026-03-25T05:59:03.389759"
+  },
+  "17114592": {
+    "company_number": "17114592",
+    "company_name": "GIP CORE UK BIDCO LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "5 Churchill Place, 10th Floor, London, E14 5HU",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:21.936249"
+  },
+  "17114612": {
+    "company_number": "17114612",
+    "company_name": "ROSEFIELD HOLDINGS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Sas House Friarswood, Chipperfield Road, Kings Langley, WD4 9JB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:23.127359"
+  },
+  "17114614": {
+    "company_number": "17114614",
+    "company_name": "DAVE CUSDIN CONSULTING LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Newland House The Point, Weaver Road, Lincoln, LN6 3QN",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:24.336137"
+  },
+  "17114602": {
+    "company_number": "17114602",
+    "company_name": "B.GASPER SUPPLIER DEVELOPMENT & PROCUREMENT PARTNERS (BGSDP) LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "74909"
+    ],
+    "registered_address": "C/O Aardvark Accounting 1 Cedar Office Park, Cobham Road, Wimborne, BH21 7SB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:25.534091"
+  },
+  "17114599": {
+    "company_number": "17114599",
+    "company_name": "NORTHSTAR DATAWERKS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "7 Grove Way, Uxbridge, UB8 1QP",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:26.727042"
+  },
+  "17114600": {
+    "company_number": "17114600",
+    "company_name": "PALISADE ADVISORS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "82a James Carter Road, Mildenhall, IP28 7DE",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:27.938423"
+  },
+  "17114593": {
+    "company_number": "17114593",
+    "company_name": "MHP DIGITAL LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "70 Upper Richmond Road, Putney Business Centre, London, SW15 2RP",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T06:37:29.136086"
   }
 }
