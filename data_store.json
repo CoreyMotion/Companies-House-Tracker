@@ -647483,5 +647483,246 @@
     "officers": [],
     "pscs": [],
     "fetched_at": "2026-03-25T06:37:29.136086"
+  },
+  "17114641": {
+    "company_number": "17114641",
+    "company_name": "BRECON HEALTHCARE HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "98-100 Richmond Road Compton, Wolverhampton, WV3 9JJ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:44.556002"
+  },
+  "17114629": {
+    "company_number": "17114629",
+    "company_name": "EDIT VENTURES LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Unit 2 Berkeley Business Park, Wainwright Road, Worcester, WR4 9FA",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:45.765764"
+  },
+  "17114650": {
+    "company_number": "17114650",
+    "company_name": "KHH GROUP LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Sas House Friarswood, Chipperfield Road, Kings Langley, WD4 9JB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:47.018510"
+  },
+  "17114690": {
+    "company_number": "17114690",
+    "company_name": "SC GROUP INVESTMENTS LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Bridgehorn Barn Bridgehorn Lane, Henley, Langport, TA10 9BG",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:48.180126"
+  },
+  "17114683": {
+    "company_number": "17114683",
+    "company_name": "AR MAIDSTONE HOLDCO LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Station House Station Road, Station Road, London, SW13 0HT",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:49.378416"
+  },
+  "17114687": {
+    "company_number": "17114687",
+    "company_name": "CULTURAL ZEST SERVICES LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "90030"
+    ],
+    "registered_address": "The Studio At, 10 Gawcott Fields, Buckingham, MK18 1TL",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:50.620897"
+  },
+  "17114694": {
+    "company_number": "17114694",
+    "company_name": "LUCAS MANAGEMENT CONSULTING LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "16 The Courtyard Gorsey Lane, Birmingham, B46 1JA",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:51.789482"
+  },
+  "17114673": {
+    "company_number": "17114673",
+    "company_name": "LPULLEN LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "8 Weald Close, Bromley, BR2 8PD",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:53.005174"
+  },
+  "17114682": {
+    "company_number": "17114682",
+    "company_name": "NATIONAL ACADEMY OF SPORTS & APPLIED SCIENCES INTERNATIONAL LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "85510",
+      "85590",
+      "86900"
+    ],
+    "registered_address": "2nd Floor College House, 17 King Edwards Road,, Ruislip,, HA4 7AE",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:54.182229"
+  },
+  "17114700": {
+    "company_number": "17114700",
+    "company_name": "VERTEXFORGE TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "28990",
+      "46510",
+      "62012",
+      "70229"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:55.382875"
+  },
+  "17114631": {
+    "company_number": "17114631",
+    "company_name": "HARRY THORNBERRY CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "155a Kyverdale Road, London, N16 6PS",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:56.566207"
+  },
+  "17114697": {
+    "company_number": "17114697",
+    "company_name": "MONZA GROUP INTERNATIONAL LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "Unit B2 The Point, Weaver Road, Lincoln, LN6 3QN",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:57.764072"
+  },
+  "17114666": {
+    "company_number": "17114666",
+    "company_name": "AI HARMONICS LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "167-169 Great Portland Street, 5th Floor, London, W1W 5PF",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:08:58.968391"
+  },
+  "17114688": {
+    "company_number": "17114688",
+    "company_name": "FULLY CLEAR LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "16 Blackfriars Street, Salford, M3 5BQ",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:09:00.187513"
+  },
+  "SC883714": {
+    "company_number": "SC883714",
+    "company_name": "CASKLY LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "161/18 Slateford Road, Edinburgh, EH14 1PB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:09:01.388284"
+  },
+  "17114661": {
+    "company_number": "17114661",
+    "company_name": "PRANIQ WELLNESS TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "8 Foxbury Drive, Orpington, BR6 6EL",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:09:02.597950"
+  },
+  "17114657": {
+    "company_number": "17114657",
+    "company_name": "ANT GLYNN LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "72190"
+    ],
+    "registered_address": "195-197 Whiteladies Road, Bristol, BS8 2SB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:09:03.785880"
+  },
+  "17114655": {
+    "company_number": "17114655",
+    "company_name": "COOKE & COMPANY FINANCIAL PLANNING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "66190"
+    ],
+    "registered_address": "11 Westside Grange, Balby, Doncaster, DN4 0XF",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T07:09:04.970768"
   }
 }
