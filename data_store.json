@@ -647332,5 +647332,49 @@
       }
     ],
     "fetched_at": "2026-03-25T03:22:53.105700"
+  },
+  "17114588": {
+    "company_number": "17114588",
+    "company_name": "MARSTACK LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "73110",
+      "74909"
+    ],
+    "registered_address": "7a Eastern Terrace Mews, Brighton, BN2 1EP",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T05:11:07.670263"
+  },
+  "17114587": {
+    "company_number": "17114587",
+    "company_name": "DESIGNVERSE LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090"
+    ],
+    "registered_address": "62 Hyde Way, Hayes, UB3 4PB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T05:11:08.861346"
+  },
+  "17114586": {
+    "company_number": "17114586",
+    "company_name": "JCRANESRTB LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "32990",
+      "43999",
+      "71129"
+    ],
+    "registered_address": "16 Hunston Close, Luton, LU4 9HB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T05:11:10.084658"
   }
 }
