@@ -647257,5 +647257,80 @@
       }
     ],
     "fetched_at": "2026-03-25T01:51:39.682721"
+  },
+  "17114582": {
+    "company_number": "17114582",
+    "company_name": "TRADES AI OPERATOR LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "63110",
+      "70229"
+    ],
+    "registered_address": "5 Brayford Square, London, E1 0SG",
+    "officers": [
+      {
+        "name": "RAYMOND, Ryan Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Raymond Sovereign Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-25T03:22:51.913345"
+  },
+  "17114579": {
+    "company_number": "17114579",
+    "company_name": "TRADEMATE TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "Apartment 13 Quay House, 5 Trafford Road, Salford, M5 3NR",
+    "officers": [
+      {
+        "name": "HAASTRUP, Ibironke Olufunke",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Ibironke Olufunke Haastrup",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T03:22:53.105700"
   }
 }
