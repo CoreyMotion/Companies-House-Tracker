@@ -670473,5 +670473,106 @@
       }
     ],
     "fetched_at": "2026-03-25T23:56:29.806385"
+  },
+  "17117354": {
+    "company_number": "17117354",
+    "company_name": "LC39 VENTURES LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Pollingfold Manor Horsham Road, Rudgwick, Horsham, RH12 3AS",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Barnaby James Bateman Collins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T01:57:54.480409"
+  },
+  "17117349": {
+    "company_number": "17117349",
+    "company_name": "AR BUILDING MANAGEMENT SERVICES LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "43210",
+      "70229"
+    ],
+    "registered_address": "64 Gibraltar Avenue, Halifax, HX1 3UL",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Adeel Maskin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T01:57:55.713561"
+  },
+  "SC883892": {
+    "company_number": "SC883892",
+    "company_name": "SPRINTORA LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "6 Oldbar Road, Glasgow, G53 7HJ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Mrs Victoria Ibidunni Molehin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T01:57:56.908396"
+  },
+  "NI739200": {
+    "company_number": "NI739200",
+    "company_name": "BRAEMORE ENERGY LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "35110"
+    ],
+    "registered_address": "10 Limestone Meadow View, Moira, Craigavon, BT67 0UZ",
+    "officers": [],
+    "pscs": [
+      {
+        "name": "Ms Ruth Taggart",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Irish",
+        "country_of_residence": "Northern Ireland",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T01:57:58.076831"
   }
 }
