@@ -695422,5 +695422,42 @@
       }
     ],
     "fetched_at": "2026-03-26T21:29:07.167115"
+  },
+  "17119925": {
+    "company_number": "17119925",
+    "company_name": "HANNA AI LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "24 Emerald Square, London, SW15 5FP",
+    "officers": [
+      {
+        "name": "ZHENG, Shiwei",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Shiwei Zheng",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T21:52:01.106061"
   }
 }
