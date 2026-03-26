@@ -681336,5 +681336,499 @@
       }
     ],
     "fetched_at": "2026-03-26T11:48:13.286794"
+  },
+  "17118489": {
+    "company_number": "17118489",
+    "company_name": "MHD CONSTRUCTION HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "68 Nottingham Road, Nottingham, NG16 3NQ",
+    "officers": [
+      {
+        "name": "MCCORMACK, Marilyn",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      },
+      {
+        "name": "MCCORMACK, Stephen Richard",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Stephen Richard Mccormack",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1982
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:50.791815"
+  },
+  "17118497": {
+    "company_number": "17118497",
+    "company_name": "UXBRIDGE INVEST LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Machine Works House, 5 Pressing Lane, Hayes, UB3 1FD",
+    "officers": [
+      {
+        "name": "PUREWAL, Bhinder Singh",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1952
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Penn Global Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:52.049335"
+  },
+  "17118478": {
+    "company_number": "17118478",
+    "company_name": "FYLDE COAST DEVELOPMENTS LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Aviation Point Amy Johnson Way, Blackpool Business Park, Blackpool, FY4 2RP",
+    "officers": [
+      {
+        "name": "HYLAND, Dane Joseph",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1991
+        }
+      },
+      {
+        "name": "HYLAND, David James",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1960
+        }
+      },
+      {
+        "name": "HYLAND, Linda Carol",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1962
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dane Joseph Hyland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:53.277853"
+  },
+  "17118457": {
+    "company_number": "17118457",
+    "company_name": "AMADA CREATIVE LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "59112",
+      "70229",
+      "73110"
+    ],
+    "registered_address": "193a Lower Richmond Road, London, SW15 1HJ",
+    "officers": [
+      {
+        "name": "YAHYAEI, Anahita, Ms.",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "Iranian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms. Anahita Yahyaei",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Iranian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:54.506061"
+  },
+  "17118479": {
+    "company_number": "17118479",
+    "company_name": "KAPRUN GROUP LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "34a Moreton Street, London, SW1V 2PD",
+    "officers": [
+      {
+        "name": "BODIMEADE, Jacob Louis",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Muhammad Hassan Consulting Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      },
+      {
+        "name": "Mr Jacob Louis Bodimeade",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:55.756441"
+  },
+  "17118477": {
+    "company_number": "17118477",
+    "company_name": "CROSS MARINE SERVICES LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "16 Dovecot Close, Gristhorpe, Filey, YO14 9PY",
+    "officers": [
+      {
+        "name": "CROSS, Samuel James",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Samuel James Cross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:56.986755"
+  },
+  "17118450": {
+    "company_number": "17118450",
+    "company_name": "FIVE1TWO.OE LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "9 Denton Grove, Walton-On-Thames, KT12 3HE",
+    "officers": [
+      {
+        "name": "BOYNS, Edward Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Edward Anthony Boyns",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:58.208651"
+  },
+  "17118481": {
+    "company_number": "17118481",
+    "company_name": "FOUNDBASE LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "2d Blackwater Street, London, SE22 8RS",
+    "officers": [
+      {
+        "name": "CAPPER, Jasper Philip",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1997
+        }
+      },
+      {
+        "name": "GAULTON, Joshua James",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jasper Philip Capper",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1997
+        }
+      },
+      {
+        "name": "Mr Joshua James Gaulton",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:06:59.421722"
+  },
+  "17118498": {
+    "company_number": "17118498",
+    "company_name": "AVENOR SOFTWARE LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "234 Singlewell Road, Gravesend, DA11 7RE",
+    "officers": [
+      {
+        "name": "ATWAL, Sukdev Singh",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1983
+        }
+      },
+      {
+        "name": "COOK, Ashley",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ashley Cook",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1991
+        }
+      },
+      {
+        "name": "Mr Sukdev Singh Atwal",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:07:00.646511"
+  },
+  "17118462": {
+    "company_number": "17118462",
+    "company_name": "PROSQUADZ LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Apartment 709 Adelphi Wharf 2 9 Adelphi Street, Salford, M3 6GG",
+    "officers": [
+      {
+        "name": "AZEEZ, Kuddus Adeyinka, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Olatunde Oluwasola Femi-Oni",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:07:02.001792"
+  },
+  "17118499": {
+    "company_number": "17118499",
+    "company_name": "EXCLUSIVE4U LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "49390",
+      "79909",
+      "80100",
+      "96090"
+    ],
+    "registered_address": "Flat 14 Witley House, Garfield Road, Addlestone, KT15 2GF",
+    "officers": [
+      {
+        "name": "DRAGHICI, Cristian",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British,Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1978
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Cristian Draghici",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,Romanian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1978
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T12:07:03.291559"
   }
 }
