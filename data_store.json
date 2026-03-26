@@ -670673,5 +670673,43 @@
       }
     ],
     "fetched_at": "2026-03-26T05:22:46.733980"
+  },
+  "17117380": {
+    "company_number": "17117380",
+    "company_name": "ORAM CONSULTING LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "70229"
+    ],
+    "registered_address": "1a Paynes Lane, Maidstone, ME15 9QT",
+    "officers": [
+      {
+        "name": "ORAM, Edward Marcus",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Edward Marcus Oram",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T06:11:26.670499"
   }
 }
