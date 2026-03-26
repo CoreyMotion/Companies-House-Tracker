@@ -695766,5 +695766,116 @@
       }
     ],
     "fetched_at": "2026-03-26T23:30:23.279392"
+  },
+  "17120005": {
+    "company_number": "17120005",
+    "company_name": "AMEN STRATEGIC LEADERSHIP LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "36 Granville Road, Luton, LU1 1PA",
+    "officers": [
+      {
+        "name": "KOHZAD BAYAT, Amen Amanda",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Amen Amanda Kohzad Bayat",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:55:41.080232"
+  },
+  "17120008": {
+    "company_number": "17120008",
+    "company_name": "EUROSHIELDTLS LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "29 Hook Lane, Welling, DA16 2DH",
+    "officers": [
+      {
+        "name": "ANGELOV, Dimitar Rumenov",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "Bulgarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Dimitar Rumenov Angelov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Bulgarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:55:42.316614"
+  },
+  "17120001": {
+    "company_number": "17120001",
+    "company_name": "VANLOGA LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Apartment 222 Skyline 165 Granville Street, Birmingham, B1 1JY",
+    "officers": [
+      {
+        "name": "LOSSO, Vanessa Aurelie Anne",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British,French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Vanessa Aurelie Anne Losso",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:55:43.563976"
   }
 }
