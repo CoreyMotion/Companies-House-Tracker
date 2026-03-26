@@ -670574,5 +670574,45 @@
       }
     ],
     "fetched_at": "2026-03-26T01:57:58.076831"
+  },
+  "17117372": {
+    "company_number": "17117372",
+    "company_name": "TROVAMED LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "47749",
+      "62012",
+      "85600",
+      "86900"
+    ],
+    "registered_address": "22 West Park Drive, Blackpool, FY3 9DN",
+    "officers": [
+      {
+        "name": "NWALI, Oguzo Jeffries, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Oguzo Jeffries Nwali",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T03:31:33.556746"
   }
 }
