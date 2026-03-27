@@ -697192,5 +697192,296 @@
       }
     ],
     "fetched_at": "2026-03-27T07:40:38.971917"
+  },
+  "17120245": {
+    "company_number": "17120245",
+    "company_name": "DJINNI GROUP HOLDINGS LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "Unit 34 Port Talbot Workshops, Addison Road, Port Talbot, SA12 6HZ",
+    "officers": [
+      {
+        "name": "EDMUNDS, Hannah Louise",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "Welsh",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1991
+        }
+      },
+      {
+        "name": "HARDWICKE, Charlotte Lucy",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "Welsh",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1992
+        }
+      },
+      {
+        "name": "THOMAS, Clair",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "Welsh",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1978
+        }
+      },
+      {
+        "name": "THOMAS, Sion Leslie",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "Welsh",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1985
+        }
+      },
+      {
+        "name": "TONKIN, Paula Jane",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "Welsh",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [],
+    "fetched_at": "2026-03-27T07:59:28.555531"
+  },
+  "17120287": {
+    "company_number": "17120287",
+    "company_name": "JHM GROUP HOLDINGS LIMITED",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "64209",
+      "68209"
+    ],
+    "registered_address": "Kingsnorth House, Blenheim Way, Birmingham, B44 8LS",
+    "officers": [
+      {
+        "name": "MALLETT, Jake Harry",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jake Harry Mallett",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T07:59:29.753775"
+  },
+  "17120247": {
+    "company_number": "17120247",
+    "company_name": "KAROO CONSULTING LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "71-75 Shelton Street, Covent Garden, London, WC2H 9JQ",
+    "officers": [
+      {
+        "name": "EDWARDS, Gareth",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "Dutch",
+        "country_of_residence": "Netherlands",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Gareth Edwards",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Dutch",
+        "country_of_residence": "Netherlands",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T07:59:30.963919"
+  },
+  "17120237": {
+    "company_number": "17120237",
+    "company_name": "NEUROVIA SYSTEMS UK LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "The Stable Yard 25-33 Vicarage Road, Stony Stratford, Milton Keynes, MK11 1BN",
+    "officers": [
+      {
+        "name": "ALLAN, Adam James",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ravensden Holdings Limited",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-27T07:59:32.153687"
+  },
+  "17120238": {
+    "company_number": "17120238",
+    "company_name": "STU MCCLELLAND CONSULTING LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "118 Merton Hall Road, London, SW19 3PZ",
+    "officers": [
+      {
+        "name": "MCCLELLAND, Stuart Michael",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Stuart Michael Mcclelland",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T07:59:33.365292"
+  },
+  "17120258": {
+    "company_number": "17120258",
+    "company_name": "BUILDR AI LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090"
+    ],
+    "registered_address": "Hur Wood, Carhampton, Minehead, TA24 6LZ",
+    "officers": [
+      {
+        "name": "WEETCH, James Robert",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Robert Weetch",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T07:59:34.557952"
+  },
+  "17120235": {
+    "company_number": "17120235",
+    "company_name": "AUXTECHNA LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012"
+    ],
+    "registered_address": "61a Bridge Street, Kington, HR5 3DJ",
+    "officers": [
+      {
+        "name": "JENNINGS, Alex Ian",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alex Ian Jennings",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T07:59:35.758970"
   }
 }
