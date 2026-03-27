@@ -695952,5 +695952,79 @@
       }
     ],
     "fetched_at": "2026-03-27T01:58:13.037995"
+  },
+  "17120049": {
+    "company_number": "17120049",
+    "company_name": "JO WEBSTER COACHING & CONSULTANCY SERVICES LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Viners Denaby Lane, Old Denaby, Doncaster, DN12 4JX",
+    "officers": [
+      {
+        "name": "WEBSTER, Joanne",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1970
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Joanne Webster",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1970
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T06:11:40.187539"
+  },
+  "17120048": {
+    "company_number": "17120048",
+    "company_name": "HAPTISENSE LTD",
+    "date_of_creation": "2026-03-27",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "Eastwinds Cottage The Old Baths, Clifden Road, Brentford, TW8 0PF",
+    "officers": [
+      {
+        "name": "SANDY-PHILLIPS, Grant",
+        "role": "director",
+        "appointed_on": "2026-03-27",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Grant Sandy-Phillips",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-27T06:11:41.457832"
   }
 }
